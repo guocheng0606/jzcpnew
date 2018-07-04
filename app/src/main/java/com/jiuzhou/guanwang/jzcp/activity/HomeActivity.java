@@ -45,9 +45,9 @@ public class HomeActivity extends AppCompatActivity {
         NavigationController navigationController = tab.custom()
                 .addItem(newItem(R.drawable.mh_buy_normal,R.drawable.mh_buy_pressed,"首页"))
                 .addItem(newItem(R.drawable.mh_score_normal,R.drawable.mh_score_pressed,"比赛"))
-                .addItem(newItem(R.drawable.mh_dslt_normal,R.drawable.mh_dslt_pressed,"大神"))
+                .addItem(newItem(R.drawable.mh_dslt_normal,R.drawable.mh_dslt_pressed,"排名"))
                 .addItem(newItem(R.drawable.mh_find_normal,R.drawable.mh_find_pressed,"发现"))
-                .addItem(newItem(R.drawable.mh_user_normal,R.drawable.mh_user_pressed,"比分"))
+                .addItem(newItem(R.drawable.mh_user_normal,R.drawable.mh_user_pressed,"数据"))
                 .build();
         //navigationController.setSelect(0);
         navigationController.addTabItemSelectedListener(new OnTabItemSelectedListener() {

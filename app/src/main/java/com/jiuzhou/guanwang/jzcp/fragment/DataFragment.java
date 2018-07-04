@@ -2,38 +2,39 @@ package com.jiuzhou.guanwang.jzcp.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
-import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 
 import com.jiuzhou.guanwang.jzcp.R;
-import com.jiuzhou.guanwang.jzcp.adapter.MyViewPagerAdapter;
+import com.jiuzhou.guanwang.jzcp.adapter.RankAdapter;
+import com.jiuzhou.guanwang.jzcp.bean.RankBean;
+import com.jiuzhou.guanwang.jzcp.utils.LocalJsonResolutionUtils;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 
+import java.util.List;
+
 /**
- *
  */
-public class TwoFragment extends Fragment {
+public class DataFragment extends Fragment {
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
-
-    @ViewInject(R.id.tabLayout)
-    TabLayout tabLayout;
-    @ViewInject(R.id.viewPager)
-    ViewPager viewPager;
 
     private String mParam1;
     private String mParam2;
 
-    public TwoFragment() {
+    @ViewInject(R.id.listView)
+    ListView listView;
+    private RankAdapter adapter;
+
+    public DataFragment() {
     }
 
-    public static TwoFragment newInstance(String param1, String param2) {
-        TwoFragment fragment = new TwoFragment();
+    public static DataFragment newInstance(String param1, String param2) {
+        DataFragment fragment = new DataFragment();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -53,7 +54,7 @@ public class TwoFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_two, container, false);
+        View view = inflater.inflate(R.layout.fragment_data, container, false);
         ViewUtils.inject(this,view);
         return view;
     }
@@ -61,21 +62,12 @@ public class TwoFragment extends Fragment {
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        setupTabLayout();
+        //得到本地json文本内容
+        String fileName = "data.json";
+        String foodJson = LocalJsonResolutionUtils.getJson(getActivity(), fileName);
+        //转换为对象
+        List<RankBean> list = LocalJsonResolutionUtils.jsonToArrayList(foodJson, RankBean.class);
+        adapter = new RankAdapter(getActivity(),list.get(Integer.parseInt(mParam1)).getRanks_data());
+        listView.setAdapter(adapter);
     }
-
-    private void setupTabLayout() {
-        //ViewPager关联适配器
-        MyViewPagerAdapter adapter = new MyViewPagerAdapter(getChildFragmentManager());
-        adapter.addFragment(DataFragment.newInstance("0",null),"中甲");
-        adapter.addFragment(DataFragment.newInstance("1",null),"英甲");
-        adapter.addFragment(DataFragment.newInstance("2",null),"西甲");
-        adapter.addFragment(DataFragment.newInstance("3",null),"德甲");
-        adapter.addFragment(DataFragment.newInstance("4",null),"意甲");
-        adapter.addFragment(DataFragment.newInstance("5",null),"法甲");
-        viewPager.setAdapter(adapter);
-        //ViewPager和TabLayout关联
-        tabLayout.setupWithViewPager(viewPager);
-    }
-
 }

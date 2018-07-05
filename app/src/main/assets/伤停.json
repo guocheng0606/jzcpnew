@@ -1,0 +1,402 @@
+[
+  {
+    "flash_time": "2018-05-26 21:22:35",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "温哥华白帽 VS 新英格兰革命",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:主队射门数下降<font color=\"#FF0000\">3.27</font>%,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">0.79</font>%,抢断拦截率下降<font color=\"#FF0000\">1.31</font>%",
+    "router": "mojiety://forecast_detail?match_id=714354&model=data&tab=",
+    "flash_id": 5673,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-26 16:31:30",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "纽约红牛 VS 费城联合",
+    "content": "【伤停球员影响】<br>伤停球员人数:4<br>影响:主队射门数下降<font color=\"#FF0000\">9.4</font>%,进球数下降<font color=\"#FF0000\">11.24</font>%<br>,铲球率下降<font color=\"#FF0000\">13.27</font>%,抢断拦截率下降<font color=\"#FF0000\">19.95</font>%",
+    "router": "mojiety://forecast_detail?match_id=714349&model=data&tab=",
+    "flash_id": 5671,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-26 09:09:00",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "科罗拉多急流 VS 波特兰伐木工",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">6.14</font>%,进球数下降<font color=\"#FF0000\">20.92</font>%<br>,铲球率下降<font color=\"#FF0000\">8.97</font>%,抢断拦截率下降<font color=\"#FF0000\">12.22</font>%",
+    "router": "mojiety://forecast_detail?match_id=714351&model=data&tab=",
+    "flash_id": 5665,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-26 08:22:05",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "明尼苏达联 VS 蒙特利尔冲击",
+    "content": "【伤停球员影响】<br>伤停球员人数:4<br>影响:主队射门数下降<font color=\"#FF0000\">13.4</font>%,进球数下降<font color=\"#FF0000\">8.87</font>%<br>,铲球率下降<font color=\"#FF0000\">6.27</font>%,抢断拦截率下降<font color=\"#FF0000\">12.44</font>%",
+    "router": "mojiety://forecast_detail?match_id=714347&model=data&tab=",
+    "flash_id": 5661,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-26 08:11:06",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "奥兰多城 VS 芝加哥火焰",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:主队射门数下降<font color=\"#FF0000\">3.76</font>%,进球数下降<font color=\"#FF0000\">8.58</font>%<br>,铲球率下降<font color=\"#FF0000\">2.5</font>%,抢断拦截率下降<font color=\"#FF0000\">2.17</font>%",
+    "router": "mojiety://forecast_detail?match_id=714348&model=data&tab=",
+    "flash_id": 5659,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-26 07:07:02",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "纽约红牛 VS 费城联合",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:客队射门数下降<font color=\"#FF0000\">2.08</font>%,进球数下降<font color=\"#FF0000\">5.6</font>%<br>,铲球率下降<font color=\"#FF0000\">6.66</font>%,抢断拦截率下降<font color=\"#FF0000\">6.93</font>%",
+    "router": "mojiety://forecast_detail?match_id=714349&model=data&tab=",
+    "flash_id": 5656,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-26 06:34:20",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "温哥华白帽 VS 新英格兰革命",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:主队射门数下降<font color=\"#FF0000\">3.57</font>%,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">0.99</font>%,抢断拦截率下降<font color=\"#FF0000\">3.29</font>%",
+    "router": "mojiety://forecast_detail?match_id=714354&model=data&tab=",
+    "flash_id": 5653,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-26 05:06:21",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "西雅图海湾人 VS 皇家盐湖城",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:主队射门数下降<font color=\"#FF0000\">25.95</font>%,进球数下降<font color=\"#FF0000\">17.25</font>%<br>,铲球率下降<font color=\"#FF0000\">20.44</font>%,抢断拦截率下降<font color=\"#FF0000\">20.37</font>%",
+    "router": "mojiety://forecast_detail?match_id=714355&model=data&tab=",
+    "flash_id": 5647,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-25 19:50:13",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "洛杉矶银河 VS 圣何塞地震",
+    "content": "【伤停球员影响】<br>伤停球员人数:1<br>影响:客队射门数没有变化,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">2.31</font>%,抢断拦截率下降<font color=\"#FF0000\">6.73</font>%",
+    "router": "mojiety://forecast_detail?match_id=714353&model=data&tab=",
+    "flash_id": 5635,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-25 19:24:51",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "休斯顿迪纳摩 VS 纽约城",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">5.47</font>%,进球数下降<font color=\"#FF0000\">7.54</font>%<br>,铲球率下降<font color=\"#FF0000\">20.18</font>%,抢断拦截率下降<font color=\"#FF0000\">21.06</font>%",
+    "router": "mojiety://forecast_detail?match_id=714356&model=data&tab=",
+    "flash_id": 5633,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-21 02:45:03",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "亚特兰大联 VS 纽约红牛",
+    "content": "【伤停球员影响】<br>伤停球员人数:1<br>影响:客队射门数没有变化,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">1.9</font>%,抢断拦截率下降<font color=\"#FF0000\">6.94</font>%",
+    "router": "mojiety://forecast_detail?match_id=714335&model=data&tab=",
+    "flash_id": 5618,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-21 02:39:16",
+    "league_name": "意甲",
+    "level": 1,
+    "title": "拉齐奥 VS 国米",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">39.17</font>%,进球数下降<font color=\"#FF0000\">23.14</font>%<br>,铲球率下降<font color=\"#FF0000\">12.5</font>%,抢断拦截率下降<font color=\"#FF0000\">10.05</font>%",
+    "router": "mojiety://forecast_detail?match_id=690375&model=data&tab=",
+    "flash_id": 5617,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-21 02:23:40",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "芝加哥火焰 VS 休斯顿迪纳摩",
+    "content": "【伤停球员影响】<br>伤停球员人数:4<br>影响:主队射门数下降<font color=\"#FF0000\">10.55</font>%,进球数下降<font color=\"#FF0000\">9.44</font>%<br>,铲球率下降<font color=\"#FF0000\">14.31</font>%,抢断拦截率下降<font color=\"#FF0000\">18.28</font>%",
+    "router": "mojiety://forecast_detail?match_id=714339&model=data&tab=",
+    "flash_id": 5615,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 22:28:09",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "第戎 VS 昂热",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:客队射门数下降<font color=\"#FF0000\">9.95</font>%,进球数下降<font color=\"#FF0000\">8.48</font>%<br>,铲球率下降<font color=\"#FF0000\">7.03</font>%,抢断拦截率下降<font color=\"#FF0000\">8.2</font>%",
+    "router": "mojiety://forecast_detail?match_id=665096&model=data&tab=",
+    "flash_id": 5596,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 22:03:58",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "里昂 VS 尼斯",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:客队射门数下降<font color=\"#FF0000\">8.12</font>%,进球数下降<font color=\"#FF0000\">5.39</font>%<br>,铲球率下降<font color=\"#FF0000\">13.27</font>%,抢断拦截率下降<font color=\"#FF0000\">10.13</font>%",
+    "router": "mojiety://forecast_detail?match_id=665097&model=data&tab=",
+    "flash_id": 5594,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 21:16:59",
+    "league_name": "意甲",
+    "level": 1,
+    "title": "热那亚 VS 都灵",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">8.56</font>%,进球数下降<font color=\"#FF0000\">1.18</font>%<br>,铲球率下降<font color=\"#FF0000\">14.5</font>%,抢断拦截率下降<font color=\"#FF0000\">14.66</font>%",
+    "router": "mojiety://forecast_detail?match_id=690373&model=data&tab=",
+    "flash_id": 5590,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 18:19:02",
+    "league_name": "西甲",
+    "level": 1,
+    "title": "巴伦西亚 VS 拉科",
+    "content": "【伤停球员影响】<br>伤停球员人数:7<br>影响:客队射门数下降<font color=\"#FF0000\">28.23</font>%,进球数下降<font color=\"#FF0000\">46.03</font>%<br>,铲球率下降<font color=\"#FF0000\">29.04</font>%,抢断拦截率下降<font color=\"#FF0000\">30.57</font>%",
+    "router": "mojiety://forecast_detail?match_id=687830&model=data&tab=",
+    "flash_id": 5578,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 17:10:42",
+    "league_name": "西甲",
+    "level": 1,
+    "title": "塞尔塔 VS 莱万特",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">4.86</font>%,进球数下降<font color=\"#FF0000\">6.91</font>%<br>,铲球率下降<font color=\"#FF0000\">10.77</font>%,抢断拦截率下降<font color=\"#FF0000\">8.3</font>%",
+    "router": "mojiety://forecast_detail?match_id=687825&model=data&tab=",
+    "flash_id": 5573,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-19 11:23:38",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "达拉斯FC VS 温哥华白帽",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:客队射门数下降<font color=\"#FF0000\">2.9</font>%,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">0.61</font>%,抢断拦截率没有变化",
+    "router": "mojiety://forecast_detail?match_id=714344&model=data&tab=",
+    "flash_id": 5560,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-19 10:54:24",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "新英格兰革命 VS 哥伦布机员",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:主队射门数下降<font color=\"#FF0000\">15.55</font>%,进球数下降<font color=\"#FF0000\">30.8</font>%<br>,铲球率下降<font color=\"#FF0000\">4.52</font>%,抢断拦截率下降<font color=\"#FF0000\">3.09</font>%",
+    "router": "mojiety://forecast_detail?match_id=714338&model=data&tab=",
+    "flash_id": 5556,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 10:41:24",
+    "league_name": "西甲",
+    "level": 1,
+    "title": "马拉加 VS 赫塔费",
+    "content": "【伤停球员影响】<br>伤停球员人数:11<br>影响:主队射门数下降<font color=\"#FF0000\">38.75</font>%,进球数下降<font color=\"#FF0000\">51.85</font>%<br>,铲球率下降<font color=\"#FF0000\">44.56</font>%,抢断拦截率下降<font color=\"#FF0000\">39.65</font>%",
+    "router": "mojiety://forecast_detail?match_id=687828&model=data&tab=",
+    "flash_id": 5554,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 10:36:07",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "圣何塞地震 VS 华盛顿联",
+    "content": "【伤停球员影响】<br>伤停球员人数:4<br>影响:客队射门数下降<font color=\"#FF0000\">9.56</font>%,进球数下降<font color=\"#FF0000\">9.62</font>%<br>,铲球率下降<font color=\"#FF0000\">23.01</font>%,抢断拦截率下降<font color=\"#FF0000\">14.55</font>%",
+    "router": "mojiety://forecast_detail?match_id=714337&model=data&tab=",
+    "flash_id": 5553,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-19 09:45:57",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "第戎 VS 昂热",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:客队射门数下降<font color=\"#FF0000\">9.53</font>%,进球数下降<font color=\"#FF0000\">24.12</font>%<br>,铲球率下降<font color=\"#FF0000\">4.44</font>%,抢断拦截率下降<font color=\"#FF0000\">6.56</font>%",
+    "router": "mojiety://forecast_detail?match_id=665096&model=data&tab=",
+    "flash_id": 5543,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 09:32:45",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "费城联合 VS 皇家盐湖城",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">12.18</font>%,进球数下降<font color=\"#FF0000\">11.68</font>%<br>,铲球率下降<font color=\"#FF0000\">10.56</font>%,抢断拦截率下降<font color=\"#FF0000\">9.13</font>%",
+    "router": "mojiety://forecast_detail?match_id=714342&model=data&tab=",
+    "flash_id": 5541,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 08:59:15",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "圣埃蒂安 VS 里尔",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:客队射门数下降<font color=\"#FF0000\">2.3</font>%,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">10.16</font>%,抢断拦截率下降<font color=\"#FF0000\">17.71</font>%",
+    "router": "mojiety://forecast_detail?match_id=665102&model=data&tab=",
+    "flash_id": 5533,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 08:44:28",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "特鲁瓦 VS 摩纳哥",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:主队射门数下降<font color=\"#FF0000\">8.79</font>%,进球数下降<font color=\"#FF0000\">6.17</font>%<br>,铲球率下降<font color=\"#FF0000\">7.38</font>%,抢断拦截率下降<font color=\"#FF0000\">7.65</font>%",
+    "router": "mojiety://forecast_detail?match_id=665104&model=data&tab=",
+    "flash_id": 5531,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 08:34:09",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "卡昂 VS 巴黎",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:主队射门数下降<font color=\"#FF0000\">9.42</font>%,进球数下降<font color=\"#FF0000\">34.97</font>%<br>,铲球率下降<font color=\"#FF0000\">14.38</font>%,抢断拦截率下降<font color=\"#FF0000\">7.6</font>%",
+    "router": "mojiety://forecast_detail?match_id=665095&model=data&tab=",
+    "flash_id": 5530,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 08:14:51",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "梅斯 VS 波尔多",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:主队射门数下降<font color=\"#FF0000\">6.41</font>%,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">18.47</font>%,抢断拦截率下降<font color=\"#FF0000\">22.95</font>%",
+    "router": "mojiety://forecast_detail?match_id=665099&model=data&tab=",
+    "flash_id": 5527,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 08:07:20",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "里昂 VS 尼斯",
+    "content": "【伤停球员影响】<br>伤停球员人数:1<br>影响:客队射门数下降<font color=\"#FF0000\">6.64</font>%,进球数下降<font color=\"#FF0000\">8.06</font>%<br>,铲球率下降<font color=\"#FF0000\">7.09</font>%,抢断拦截率下降<font color=\"#FF0000\">4.85</font>%",
+    "router": "mojiety://forecast_detail?match_id=665097&model=data&tab=",
+    "flash_id": 5525,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 07:56:31",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "雷恩 VS 蒙彼利埃",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:客队射门数下降<font color=\"#FF0000\">18.77</font>%,进球数下降<font color=\"#FF0000\">23.7</font>%<br>,铲球率下降<font color=\"#FF0000\">39.92</font>%,抢断拦截率下降<font color=\"#FF0000\">33.34</font>%",
+    "router": "mojiety://forecast_detail?match_id=665101&model=data&tab=",
+    "flash_id": 5524,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 07:04:06",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "南特 VS 斯特拉斯堡",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">18.01</font>%,进球数下降<font color=\"#FF0000\">23.73</font>%<br>,铲球率下降<font color=\"#FF0000\">12.84</font>%,抢断拦截率下降<font color=\"#FF0000\">8.26</font>%",
+    "router": "mojiety://forecast_detail?match_id=665100&model=data&tab=",
+    "flash_id": 5516,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_over.png"
+  },
+  {
+    "flash_time": "2018-05-19 06:47:11",
+    "league_name": "法甲",
+    "level": 1,
+    "title": "第戎 VS 昂热",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:客队射门数下降<font color=\"#FF0000\">9.95</font>%,进球数下降<font color=\"#FF0000\">8.48</font>%<br>,铲球率下降<font color=\"#FF0000\">7.3</font>%,抢断拦截率下降<font color=\"#FF0000\">4.76</font>%",
+    "router": "mojiety://forecast_detail?match_id=665096&model=data&tab=",
+    "flash_id": 5513,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 06:03:34",
+    "league_name": "土超",
+    "level": 2,
+    "title": "费内巴切 VS 科尼亚体育",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:客队射门数下降<font color=\"#FF0000\">5.0</font>%,进球数下降<font color=\"#FF0000\">31.06</font>%<br>,铲球率下降<font color=\"#FF0000\">9.92</font>%,抢断拦截率下降<font color=\"#FF0000\">8.08</font>%",
+    "router": "mojiety://forecast_detail?match_id=682893&model=data&tab=",
+    "flash_id": 5506,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 05:41:21",
+    "league_name": "西甲",
+    "level": 1,
+    "title": "塞维利亚 VS 阿拉维斯",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:客队射门数下降<font color=\"#FF0000\">16.38</font>%,进球数下降<font color=\"#FF0000\">12.31</font>%<br>,铲球率下降<font color=\"#FF0000\">23.91</font>%,抢断拦截率下降<font color=\"#FF0000\">21.49</font>%",
+    "router": "mojiety://forecast_detail?match_id=687829&model=data&tab=",
+    "flash_id": 5501,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 05:27:48",
+    "league_name": "美职联",
+    "level": 2,
+    "title": "纽约城 VS 科罗拉多急流",
+    "content": "【伤停球员影响】<br>伤停球员人数:4<br>影响:客队射门数下降<font color=\"#FF0000\">14.41</font>%,进球数下降<font color=\"#FF0000\">4.66</font>%<br>,铲球率下降<font color=\"#FF0000\">11.8</font>%,抢断拦截率下降<font color=\"#FF0000\">21.45</font>%",
+    "router": "mojiety://forecast_detail?match_id=714341&model=data&tab=",
+    "flash_id": 5498,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 05:17:35",
+    "league_name": "西甲",
+    "level": 1,
+    "title": "马拉加 VS 赫塔费",
+    "content": "【伤停球员影响】<br>伤停球员人数:7<br>影响:主队射门数下降<font color=\"#FF0000\">28.1</font>%,进球数下降<font color=\"#FF0000\">52.9</font>%<br>,铲球率下降<font color=\"#FF0000\">29.49</font>%,抢断拦截率下降<font color=\"#FF0000\">26.16</font>%",
+    "router": "mojiety://forecast_detail?match_id=687828&model=data&tab=",
+    "flash_id": 5496,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 05:06:21",
+    "league_name": "土超",
+    "level": 2,
+    "title": "哥兹塔比 VS 加拉塔萨雷",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:主队射门数下降<font color=\"#FF0000\">15.35</font>%,进球数下降<font color=\"#FF0000\">1.81</font>%<br>,铲球率下降<font color=\"#FF0000\">33.07</font>%,抢断拦截率下降<font color=\"#FF0000\">29.61</font>%",
+    "router": "mojiety://forecast_detail?match_id=682895&model=data&tab=",
+    "flash_id": 5495,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 05:03:05",
+    "league_name": "西甲",
+    "level": 1,
+    "title": "拉斯帕尔马斯 VS 赫罗纳",
+    "content": "【伤停球员影响】<br>伤停球员人数:3<br>影响:主队射门数下降<font color=\"#FF0000\">20.78</font>%,进球数下降<font color=\"#FF0000\">15.02</font>%<br>,铲球率下降<font color=\"#FF0000\">5.69</font>%,抢断拦截率下降<font color=\"#FF0000\">7.54</font>%",
+    "router": "mojiety://forecast_detail?match_id=687826&model=data&tab=",
+    "flash_id": 5494,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 04:12:16",
+    "league_name": "土超",
+    "level": 2,
+    "title": "伊斯坦布尔 VS 卡斯帕萨",
+    "content": "【伤停球员影响】<br>伤停球员人数:5<br>影响:客队射门数下降<font color=\"#FF0000\">34.1</font>%,进球数下降<font color=\"#FF0000\">22.19</font>%<br>,铲球率下降<font color=\"#FF0000\">33.92</font>%,抢断拦截率下降<font color=\"#FF0000\">35.33</font>%",
+    "router": "mojiety://forecast_detail?match_id=682891&model=data&tab=",
+    "flash_id": 5485,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  },
+  {
+    "flash_time": "2018-05-19 03:49:53",
+    "league_name": "土超",
+    "level": 2,
+    "title": "贝西克塔斯 VS 锡瓦斯体育",
+    "content": "【伤停球员影响】<br>伤停球员人数:2<br>影响:客队射门数下降<font color=\"#FF0000\">2.96</font>%,进球数没有变化<br>,铲球率下降<font color=\"#FF0000\">3.13</font>%,抢断拦截率下降<font color=\"#FF0000\">7.27</font>%",
+    "router": "mojiety://forecast_detail?match_id=682892&model=data&tab=",
+    "flash_id": 5481,
+    "news_tag": "https://ohduoklem.qnssl.com/ic_news_hit.png"
+  }
+]

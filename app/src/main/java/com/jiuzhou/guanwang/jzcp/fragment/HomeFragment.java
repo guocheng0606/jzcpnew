@@ -1,41 +1,49 @@
 package com.jiuzhou.guanwang.jzcp.fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.os.CountDownTimer;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.TextView;
 
 import com.jiuzhou.guanwang.jzcp.R;
+import com.jiuzhou.guanwang.jzcp.activity.HomeMoreNewsActivity;
+import com.jiuzhou.guanwang.jzcp.activity.SeasonDetailActivity;
+import com.jiuzhou.guanwang.jzcp.activity.WebNewsActivity;
+import com.jiuzhou.guanwang.jzcp.adapter.HomeNewsAdapter;
+import com.jiuzhou.guanwang.jzcp.adapter.SeasonAdapter;
+import com.jiuzhou.guanwang.jzcp.bean.HomeNewsBean;
+import com.jiuzhou.guanwang.jzcp.bean.SeasonBean;
+import com.jiuzhou.guanwang.jzcp.utils.LocalJsonResolutionUtils;
+import com.jiuzhou.guanwang.jzcp.views.HorizontalListView;
+import com.jiuzhou.guanwang.jzcp.views.NoScrollListView;
+import com.lidroid.xutils.ViewUtils;
+import com.lidroid.xutils.view.annotation.ViewInject;
 
-import java.util.Random;
+import java.util.List;
 
 /**
  *
  */
-public class HomeFragment extends Fragment {
+public class HomeFragment extends Fragment implements View.OnClickListener {
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
 
-    private View view;
-    private TextView tv_c;
-    private TextView tv_01;
-    private TextView tv_02;
-    private TextView tv_03;
-    private TextView tv_04;
-    private TextView tv_05;
-    private TextView tv_06;
-    private TextView tv_07;
-    private TextView tv_08;
-    private TextView tv_09;
-    private TextView tv_10;
-    private TextView tv_time;
-
     private String mParam1;
     private String mParam2;
+
+    @ViewInject(R.id.tv_more)
+    TextView tv_more;
+    @ViewInject(R.id.listView)
+    NoScrollListView listView;
+    @ViewInject(R.id.horizontalListView)
+    HorizontalListView horizontalListView;
+    private HomeNewsAdapter homeNewsAdapter;
+    private SeasonAdapter seasonAdapter;
 
     public HomeFragment() {
     }
@@ -61,62 +69,68 @@ public class HomeFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.fragment_home, container, false);
+        View view = inflater.inflate(R.layout.fragment_home, container, false);
+        ViewUtils.inject(this,view);
         return view;
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        initView();
-        Random random = new Random();
-        start(random.nextInt(5*60*1000));
-        tv_01.setText(""+random.nextInt(9));
-        tv_02.setText(""+random.nextInt(9));
-        tv_03.setText(""+random.nextInt(9));
-        tv_04.setText(""+random.nextInt(9));
-        tv_05.setText(""+random.nextInt(9));
-        tv_06.setText(""+random.nextInt(9));
-        tv_07.setText(""+random.nextInt(9));
-        tv_08.setText(""+random.nextInt(9));
-        tv_09.setText(""+random.nextInt(9));
-        tv_10.setText(""+random.nextInt(9));
+        getSeasonsData();
+        getNewsData();
+        initListener();
     }
 
-    private void start(int num) {
-        /** 倒计时60秒，一次1秒 */
-        new CountDownTimer(num, 1000) {
+    private void getSeasonsData() {
+        horizontalListView.setFocusable(false);
+        //得到本地json文本内容
+        String fileName = "猜你喜欢的联赛.json";
+        String foodJson = LocalJsonResolutionUtils.getJson(getActivity(), fileName);
+        List<SeasonBean> list = LocalJsonResolutionUtils.jsonToArrayList(foodJson, SeasonBean.class);
+        seasonAdapter = new SeasonAdapter(getActivity(),list);
+        horizontalListView.setAdapter(seasonAdapter);
+    }
+
+    private void getNewsData() {
+        listView.setFocusable(false);
+        //得到本地json文本内容
+        String fileName = "热点资讯.json";
+        String foodJson = LocalJsonResolutionUtils.getJson(getActivity(), fileName);
+        //转换为对象
+        List<HomeNewsBean> list = LocalJsonResolutionUtils.jsonToArrayList(foodJson, HomeNewsBean.class).subList(0,5);
+        homeNewsAdapter = new HomeNewsAdapter(getActivity(),list);
+        listView.setAdapter(homeNewsAdapter);
+    }
+
+    private void initListener() {
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onTick(long millisUntilFinished) {
-                int minutes = (int) ((millisUntilFinished/1000) / 60);
-                int remainingSeconds = (int) ((millisUntilFinished/1000) % 60);
-                String min = ""+minutes,sec=""+remainingSeconds;
-                if(minutes <= 9 )
-                    min = "0"+ minutes;
-                if(remainingSeconds <= 9 )
-                    sec = "0"+ remainingSeconds;
-                tv_time.setText("距下期开奖剩余："+min+":"+sec);
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url",""+homeNewsAdapter.getAllData().get(i).getNewsUrl());
+                startActivity(intent);
             }
-
+        });
+        horizontalListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onFinish() {
-                tv_time.setText("等待开奖");
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(getActivity(), SeasonDetailActivity.class);
+                intent.putExtra("title_name",seasonAdapter.getAllData().get(i).getSeason_name());
+                startActivity(intent);
             }
-        }.start();
+        });
+        tv_more.setOnClickListener(this);
     }
 
-    private void initView() {
-        tv_c = view.findViewById(R.id.tv_c);
-        tv_01 = view.findViewById(R.id.tv_01);
-        tv_02 = view.findViewById(R.id.tv_02);
-        tv_03 = view.findViewById(R.id.tv_03);
-        tv_04 = view.findViewById(R.id.tv_04);
-        tv_05 = view.findViewById(R.id.tv_05);
-        tv_06 = view.findViewById(R.id.tv_06);
-        tv_07 = view.findViewById(R.id.tv_07);
-        tv_08 = view.findViewById(R.id.tv_08);
-        tv_09 = view.findViewById(R.id.tv_09);
-        tv_10 = view.findViewById(R.id.tv_10);
-        tv_time = view.findViewById(R.id.tv_time);
+    @Override
+    public void onClick(View view) {
+        switch (view.getId()){
+            case R.id.tv_more:
+                startActivity(new Intent(getActivity(), HomeMoreNewsActivity.class));
+                break;
+        }
     }
+
+
 }

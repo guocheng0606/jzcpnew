@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@color/gray1"
     android:orientation="vertical">
 
     <LinearLayout
@@ -17,128 +17,118 @@
             android:text="首页"
             android:textSize="20sp"/>
     </LinearLayout>
-    <LinearLayout
+
+    <com.jiuzhou.guanwang.jzcp.views.MyScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
-        android:orientation="vertical"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp">
-        <TextView
-            android:id="@+id/tv_c"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:textSize="16sp"
-            android:text="第679908期最新开奖号码"
-            android:layout_marginLeft="10dp"/>
+        android:layout_height="match_parent">
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:orientation="horizontal"
-            android:layout_marginLeft="5dp"
-            android:layout_marginRight="5dp">
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_01"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_02"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_03"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_04"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_05"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_06"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_07"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_08"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_09"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-                <TextView
-                    android:id="@+id/tv_10"
-                    style="@style/circle_text_style"
-                    android:text="8"/>
-            </RelativeLayout>
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/gray1">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="25dp"
+                android:background="@color/white">
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray1"/>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp">
+                    <View
+                        android:layout_width="3dp"
+                        android:layout_height="40dp"
+                        android:background="@color/colorAccent"
+                        android:layout_centerVertical="true"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="猜你喜欢"
+                        android:textSize="16sp"
+                        android:textColor="@color/colorAccent"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="15dp"/>
+                </RelativeLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray1"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp">
+                    <com.jiuzhou.guanwang.jzcp.views.HorizontalListView
+                        android:id="@+id/horizontalListView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray1"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/white"
+                android:layout_marginTop="25dp">
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray1"/>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp">
+                    <View
+                        android:layout_width="4dp"
+                        android:layout_height="40dp"
+                        android:background="@color/colorAccent"
+                        android:layout_centerVertical="true"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="热点资讯"
+                        android:textSize="16sp"
+                        android:textColor="@color/colorAccent"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="15dp"/>
+                    <TextView
+                        android:id="@+id/tv_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="查看更多 >>"
+                        android:textSize="15sp"
+                        android:textColor="@color/gray_text"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="10dp"/>
+                </RelativeLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray1"/>
+                <com.jiuzhou.guanwang.jzcp.views.NoScrollListView
+                    android:id="@+id/listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray1"/>
+            </LinearLayout>
+
         </LinearLayout>
-        <TextView
-            android:id="@+id/tv_time"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:textSize="15sp"
-            android:text="距下期开奖剩余：00:00"
-            android:layout_marginLeft="10dp"/>
-    </LinearLayout>
-
-
+    </com.jiuzhou.guanwang.jzcp.views.MyScrollView>
 
 </LinearLayout>

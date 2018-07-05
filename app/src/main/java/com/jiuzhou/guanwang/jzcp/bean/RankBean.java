@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 import java.util.List;
 
 /**
- * Created by guocheng on 2018/7/2.
+ * Created by Administrator on 2018/7/2.
  */
 
 public class RankBean {

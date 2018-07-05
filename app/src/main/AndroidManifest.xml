@@ -24,6 +24,7 @@
     <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
     <uses-permission android:name="android.permission.GET_TASKS" />
+
     <application
         android:name=".BaseApplication"
         android:allowBackup="true"
@@ -52,17 +53,21 @@
                 <category android:name="com.jiuzhou.guanwang.jzcp" />
             </intent-filter>
         </receiver>
-        <activity android:name=".activity.MainActivity"
-            android:theme="@style/AppWelcome"
-            >
+
+        <activity
+            android:name=".activity.MainActivity"
+            android:theme="@style/AppWelcome">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.HomeActivity"/>
-        <activity android:name=".activity.WebActivity"/>
+        <activity android:name=".activity.HomeActivity" />
+        <activity android:name=".activity.WebActivity" />
+        <activity android:name=".activity.WebNewsActivity" />
+        <activity android:name=".activity.HomeMoreNewsActivity" />
+        <activity android:name=".activity.SeasonDetailActivity"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,114 @@
+[
+  {
+    "season_id": 4718,
+    "season_name": "日职乙",
+    "season_name_en": "J2 League",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/6686.png",
+    "push": "",
+    "color": "E9F6FF"
+  },
+  {
+    "season_id": 4748,
+    "season_name": "巴甲",
+    "season_name_en": "Brazlilian Serie A",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/5787.png",
+    "push": "",
+    "color": "E4FCF5"
+  },
+  {
+    "season_id": 4724,
+    "season_name": "美职联",
+    "season_name_en": "MLS",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/5558.png",
+    "push": "",
+    "color": "EEEBFF"
+  },
+  {
+    "season_id": 4680,
+    "season_name": "瑞典超",
+    "season_name_en": "Allsvenskan",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/5561.png",
+    "push": "",
+    "color": "FFF6DF"
+  },
+  {
+    "season_id": 4720,
+    "season_name": "智甲",
+    "season_name_en": "Chile Primera Division",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/7269.png",
+    "push": "",
+    "color": "E3F7DD"
+  },
+  {
+    "season_id": 4695,
+    "season_name": "挪超",
+    "season_name_en": "Eliteserien",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/5559.png",
+    "push": "",
+    "color": "E9F6FF"
+  },
+  {
+    "season_id": 4683,
+    "season_name": "友谊赛",
+    "season_name_en": null,
+    "season_image": "https://ojhwnbiut.qnssl.com/15.png",
+    "push": "",
+    "color": "E4FCF5"
+  },
+  {
+    "season_id": 4444,
+    "season_name": "欧冠",
+    "season_name_en": "Champions League",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/7098.png",
+    "push": "",
+    "color": "EEEBFF"
+  },
+  {
+    "season_id": 4456,
+    "season_name": "英冠",
+    "season_name_en": "EFL Championship",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/7128.png",
+    "push": "",
+    "color": "FFF6DF"
+  },
+  {
+    "season_id": 4435,
+    "season_name": "法甲",
+    "season_name_en": "Ligue 1",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/7095.png",
+    "push": "",
+    "color": "E3F7DD"
+  },
+  {
+    "season_id": 4432,
+    "season_name": "比甲",
+    "season_name_en": "Belgian First Division",
+    "season_image": "https://ojhwnbiut.qnssl.com/image/league/league_16.png",
+    "push": "",
+    "color": "E9F6FF"
+  },
+  {
+    "season_id": 4438,
+    "season_name": "法乙",
+    "season_name_en": "Ligue 2",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/7121.png",
+    "push": "",
+    "color": "E4FCF5"
+  },
+  {
+    "season_id": 4457,
+    "season_name": "英甲",
+    "season_name_en": "EFL League One",
+    "season_image": "https://ojhwnbiut.qnssl.com/develop/football/season/7129.png",
+    "push": "",
+    "color": "EEEBFF"
+  },
+  {
+    "season_id": 4458,
+    "season_name": "英乙",
+    "season_name_en": "EFL League Two",
+    "season_image": "https://ojhwnbiut.qnssl.com/image/league/35.png",
+    "push": "",
+    "color": "FFF6DF"
+  }
+]

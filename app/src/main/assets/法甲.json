@@ -1,0 +1,5014 @@
+[
+  {
+    "match_id": "665102",
+    "match_week": "周六",
+    "match_sn": "022",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "494",
+    "away_id": "998",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "5",
+    "away_score": "0",
+    "host_half_score": "3",
+    "away_half_score": "0",
+    "host_rank": "[08]",
+    "away_rank": "[15]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[33, 6, 1]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "98",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519022"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六022",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:01:20 +0800",
+    "match_half_time": "2018-05-20 04:03:52 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/494.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/998.png",
+    "host_name": "圣埃蒂安",
+    "host_name_en": "Saint-Etienne",
+    "away_name": "里尔",
+    "away_name_en": "Lille OSC",
+    "odds": {
+      "spf": [
+        1.37,
+        4.3,
+        6.0
+      ],
+      "rqspf": [
+        -1,
+        2.62,
+        3.55,
+        2.15
+      ],
+      "bifen": [
+        7.25,
+        7.25,
+        6.8,
+        11.0,
+        11.5,
+        19.0,
+        18.0,
+        19.0,
+        35.0,
+        40.0,
+        40.0,
+        70.0,
+        22.0,
+        15.0,
+        7.25,
+        14.0,
+        50.0,
+        250.0,
+        16.0,
+        16.0,
+        14.0,
+        80.0,
+        40.0,
+        40.0,
+        250.0,
+        150.0,
+        150.0,
+        700.0,
+        500.0,
+        500.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 4.3,
+    "avge_odds": 1.04,
+    "benefit": "竞彩实际回报1.37倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 7.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "班巴",
+        "content_en": "Jonathan Bamba"
+      },
+      {
+        "event_id": 1,
+        "time": 13.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "哈莫马",
+        "content_en": "Romain Hamouma"
+      },
+      {
+        "event_id": 2,
+        "time": 39.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "哈莫马",
+        "content_en": "Romain Hamouma"
+      },
+      {
+        "event_id": 3,
+        "time": 42.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(阿隆索)换入(阿劳乔)换出",
+        "content_en": "Junior Alonso",
+        "player_in": "阿隆索",
+        "player_out": "阿劳乔",
+        "player_in_en": "Junior Alonso",
+        "player_out_en": "Luiz de Araujo Guimares N"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(加齐)换入(比苏马)换出",
+        "content_en": "Anwar El Ghazi",
+        "player_in": "加齐",
+        "player_out": "比苏马",
+        "player_in_en": "Anwar El Ghazi",
+        "player_out_en": "Yves Bissouma"
+      },
+      {
+        "event_id": 5,
+        "time": 58.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "塞尔奈斯",
+        "content_en": "Ole Selnaes"
+      },
+      {
+        "event_id": 6,
+        "time": 62.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "莱波·莫西巴",
+        "content_en": "Lebogang Mothiba"
+      },
+      {
+        "event_id": 7,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "R. Hamouma",
+        "content_en": "R. Hamouma"
+      },
+      {
+        "event_id": 8,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(坦纳尼)换入(莫内-帕凯)换出",
+        "content_en": "Oussama Tannane",
+        "player_in": "坦纳尼",
+        "player_out": "莫内-帕凯",
+        "player_in_en": "Oussama Tannane",
+        "player_out_en": "Kévin Monnet-Paquet"
+      },
+      {
+        "event_id": 9,
+        "time": 64.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(恩泰普)换入(贝里奇)换出",
+        "content_en": "Paul-Georges Ntep de Madi",
+        "player_in": "恩泰普",
+        "player_out": "贝里奇",
+        "player_in_en": "Paul-Georges Ntep de Madi",
+        "player_out_en": "Robert Beric"
+      },
+      {
+        "event_id": 10,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "goal-own",
+        "content": "马尔库特",
+        "content_en": "Kevin Malcuit"
+      },
+      {
+        "event_id": 11,
+        "time": 71.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(加比莱尔)换入(德布希)换出",
+        "content_en": "Ronael Pierre Gabriel",
+        "player_in": "加比莱尔",
+        "player_out": "德布希",
+        "player_in_en": "Ronael Pierre Gabriel",
+        "player_out_en": "Mathieu Debuchy"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "鲁菲尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1341.png",
+            "player_id": "494-1341",
+            "name_en": "Stéphane Ruffier"
+          }
+        ],
+        [
+          {
+            "name": "德布希",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2424.png",
+            "player_id": "494-2424",
+            "name_en": "Mathieu Debuchy"
+          },
+          {
+            "name": "佩林",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1398.png",
+            "player_id": "494-1398",
+            "name_en": "Loic Perrin"
+          },
+          {
+            "name": "苏博蒂奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_220.png",
+            "player_id": "494-220",
+            "name_en": "Neven Subotic"
+          },
+          {
+            "name": "卡特林",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2655.png",
+            "player_id": "494-2655",
+            "name_en": "Kévin Théophile-Catherine"
+          }
+        ],
+        [
+          {
+            "name": "塞尔奈斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7207.png",
+            "player_id": "494-7207",
+            "name_en": "Ole Selnaes"
+          },
+          {
+            "name": "姆维拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_8344.png",
+            "player_id": "494-8344",
+            "name_en": "Yann M'Vila"
+          }
+        ],
+        [
+          {
+            "name": "班巴",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21203.png",
+            "player_id": "494-21203",
+            "name_en": "Jonathan Bamba"
+          },
+          {
+            "name": "哈莫马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1396.png",
+            "player_id": "494-1396",
+            "name_en": "Romain Hamouma"
+          },
+          {
+            "name": "莫内-帕凯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21202.png",
+            "player_id": "494-21202",
+            "name_en": "Kévin Monnet-Paquet"
+          }
+        ],
+        [
+          {
+            "name": "贝里奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12336.png",
+            "player_id": "494-12336",
+            "name_en": "Robert Beric"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "迈格南",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1317.png",
+            "player_id": "998-1317",
+            "name_en": "Mike Maignan"
+          }
+        ],
+        [
+          {
+            "name": "马尔库特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1349.png",
+            "player_id": "998-1349",
+            "name_en": "Kevin Malcuit"
+          },
+          {
+            "name": "耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5121.png",
+            "player_id": "998-5121",
+            "name_en": "Edgar Miguel Ié"
+          },
+          {
+            "name": "达比拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_44282.png",
+            "player_id": "998-44282",
+            "name_en": "Kouadio Yves Dabila"
+          },
+          {
+            "name": "巴洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42519.png",
+            "player_id": "998-42519",
+            "name_en": "Fode Ballo"
+          }
+        ],
+        [
+          {
+            "name": "比苏马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31276.png",
+            "player_id": "998-31276",
+            "name_en": "Yves Bissouma"
+          },
+          {
+            "name": "马伊亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27543.png",
+            "player_id": "998-27543",
+            "name_en": "Thiago Maia Alencar"
+          }
+        ],
+        [
+          {
+            "name": "佩佩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25444.png",
+            "player_id": "998-25444",
+            "name_en": "Nicolas Pepe"
+          },
+          {
+            "name": "门德斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10848.png",
+            "player_id": "998-10848",
+            "name_en": "Thiago Henrique Mendes Ri"
+          },
+          {
+            "name": "阿劳乔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30916.png",
+            "player_id": "998-30916",
+            "name_en": "Luiz de Araujo Guimares N"
+          }
+        ],
+        [
+          {
+            "name": "莱波·莫西巴",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "998-31275",
+            "name_en": "Lebogang Mothiba"
+          }
+        ]
+      ],
+      "host_static_shotnum": 14,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 7,
+      "away_static_shotznum": 3,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 6,
+      "away_static_foul": 5,
+      "host_static_corner": 7,
+      "away_static_corner": 4,
+      "host_static_offside": 3,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 1,
+      "host_static_controltime": "53.00",
+      "away_static_controltime": "47.00",
+      "host_static_attack": 48,
+      "away_static_attack": 49,
+      "host_static_risk_attack": 34,
+      "away_static_risk_attack": 34,
+      "host_static_free_kick": 5,
+      "away_static_free_kick": 9
+    }
+  },
+  {
+    "match_id": "665096",
+    "match_week": "周六",
+    "match_sn": "023",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "774",
+    "away_id": "597",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "2",
+    "away_score": "1",
+    "host_half_score": "1",
+    "away_half_score": "0",
+    "host_rank": "[13]",
+    "away_rank": "[14]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[23, 6, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "99",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519023"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六023",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:01:34 +0800",
+    "match_half_time": "2018-05-20 04:01:19 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/597.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/774.png",
+    "host_name": "第戎",
+    "host_name_en": "Dijon",
+    "away_name": "昂热",
+    "away_name_en": "Angers SCO",
+    "odds": {
+      "spf": [
+        2.02,
+        3.55,
+        2.84
+      ],
+      "rqspf": [
+        -1,
+        3.85,
+        3.96,
+        1.62
+      ],
+      "bifen": [
+        10.5,
+        12.5,
+        7.5,
+        22.0,
+        15.0,
+        15.0,
+        40.0,
+        31.0,
+        40.0,
+        100.0,
+        70.0,
+        80.0,
+        30.0,
+        17.0,
+        7.25,
+        10.5,
+        30.0,
+        150.0,
+        12.0,
+        12.0,
+        9.0,
+        31.0,
+        20.0,
+        21.0,
+        70.0,
+        40.0,
+        50.0,
+        200.0,
+        120.0,
+        150.0,
+        40.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.55,
+    "avge_odds": 1.29,
+    "benefit": "竞彩实际回报2.02倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 15.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(萨努)换入(杰夫·雷恩)换出",
+        "content_en": "Gilles Sunu",
+        "player_in": "萨努",
+        "player_out": "杰夫·雷恩",
+        "player_in_en": "Gilles Sunu",
+        "player_out_en": "Jeff Reine Adelaide"
+      },
+      {
+        "event_id": 1,
+        "time": 22.0,
+        "is_home": 1,
+        "event_type": "goal-own",
+        "content": "卡佩勒",
+        "content_en": "Pierrick Capelle"
+      },
+      {
+        "event_id": 2,
+        "time": 28.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "帕夫洛维奇",
+        "content_en": "Mateo Pavlovic"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "阿马尔菲塔诺",
+        "content_en": "Romain Amalfitano"
+      },
+      {
+        "event_id": 4,
+        "time": 48.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "萨努",
+        "content_en": "Gilles Sunu"
+      },
+      {
+        "event_id": 5,
+        "time": 53.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "泰特",
+        "content_en": "Flavien Tait"
+      },
+      {
+        "event_id": 6,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "塔瓦雷斯",
+        "content_en": "Julio Tavares"
+      },
+      {
+        "event_id": 7,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Adrian Sahibeddine)换入(权昶勋)换出",
+        "content_en": "Kwon Chang-Hoon",
+        "player_in": "Adrian Sahibeddine",
+        "player_out": "权昶勋"
+      },
+      {
+        "event_id": 8,
+        "time": 78.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(托马斯·图雷)换入(库里巴利)换出",
+        "content_en": "Thomas Touré",
+        "player_in": "托马斯·图雷",
+        "player_out": "库里巴利",
+        "player_in_en": "Thomas Touré",
+        "player_out_en": "Lassana Coulibaly"
+      },
+      {
+        "event_id": 9,
+        "time": 82.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(班巴)换入(特劳雷)换出",
+        "content_en": "Abdoulaye Bamba",
+        "player_in": "班巴",
+        "player_out": "特劳雷",
+        "player_in_en": "Abdoulaye Bamba",
+        "player_out_en": "Ismael Traoré"
+      },
+      {
+        "event_id": 10,
+        "time": 84.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(劳托阿)换入(瓦劳尔特)换出",
+        "content_en": "Wesley Lautoa",
+        "player_in": "劳托阿",
+        "player_out": "瓦劳尔特",
+        "player_in_en": "Wesley Lautoa",
+        "player_out_en": "Cedric Varrault"
+      },
+      {
+        "event_id": 11,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿诺德·莫托)换入(哈达迪)换出",
+        "content_en": "Arnold Bouka Moutou",
+        "player_in": "阿诺德·莫托",
+        "player_out": "哈达迪",
+        "player_in_en": "Arnold Bouka Moutou",
+        "player_out_en": "Oussama Haddadi"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "5-3-2",
+      "away_formation": "5-4-1",
+      "host_players": [
+        [
+          {
+            "name": "雷奈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1508.png",
+            "player_id": "774-1508",
+            "name_en": "Baptiste Reynet"
+          }
+        ],
+        [
+          {
+            "name": "罗西耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31257.png",
+            "player_id": "774-31257",
+            "name_en": "Valentin Rosier"
+          },
+          {
+            "name": "雅姆贝尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_23341.png",
+            "player_id": "774-23341",
+            "name_en": "Cédric Yambéré"
+          },
+          {
+            "name": "瓦劳尔特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1945.png",
+            "player_id": "774-1945",
+            "name_en": "Cedric Varrault"
+          },
+          {
+            "name": "吉洛鲍吉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1483.png",
+            "player_id": "774-1483",
+            "name_en": "Papy Djilobodji"
+          },
+          {
+            "name": "哈达迪",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42477.png",
+            "player_id": "774-42477",
+            "name_en": "Oussama Haddadi"
+          }
+        ],
+        [
+          {
+            "name": "阿马尔菲塔诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1940.png",
+            "player_id": "774-1940",
+            "name_en": "Romain Amalfitano"
+          },
+          {
+            "name": "斯利蒂",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28555.png",
+            "player_id": "774-28555",
+            "name_en": "Naim Sliti"
+          },
+          {
+            "name": "权昶勋",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_14025.png",
+            "player_id": "774-14025",
+            "name_en": "Kwon Chang-Hoon"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "塔瓦雷斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1934.png",
+            "player_id": "774-1934",
+            "name_en": "Julio Tavares"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "布特勒",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2072.png",
+            "player_id": "597-2072",
+            "name_en": "Ludovic Butelle"
+          }
+        ],
+        [
+          {
+            "name": "芒索",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2005.png",
+            "player_id": "597-2005",
+            "name_en": "Vincent Manceau"
+          },
+          {
+            "name": "帕夫洛维奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_489.png",
+            "player_id": "597-489",
+            "name_en": "Mateo Pavlovic"
+          },
+          {
+            "name": "特劳雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3623.png",
+            "player_id": "597-3623",
+            "name_en": "Ismael Traoré"
+          },
+          {
+            "name": "托马斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3636.png",
+            "player_id": "597-3636",
+            "name_en": "Romain Thomas"
+          },
+          {
+            "name": "卡佩勒",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2097.png",
+            "player_id": "597-2097",
+            "name_en": "Pierrick Capelle"
+          }
+        ],
+        [
+          {
+            "name": "杰夫·雷恩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24322.png",
+            "player_id": "597-24322",
+            "name_en": "Jeff Reine Adelaide"
+          },
+          {
+            "name": "库里巴利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28614.png",
+            "player_id": "597-28614",
+            "name_en": "Lassana Coulibaly"
+          },
+          {
+            "name": "圣马里亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25577.png",
+            "player_id": "597-25577",
+            "name_en": "Baptiste Santamaria"
+          },
+          {
+            "name": "泰特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2192.png",
+            "player_id": "597-2192",
+            "name_en": "Flavien Tait"
+          }
+        ],
+        [
+          {
+            "name": "埃坎比",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25551.png",
+            "player_id": "597-25551",
+            "name_en": "Karl Ekambi"
+          }
+        ]
+      ],
+      "host_static_shotnum": 7,
+      "away_static_shotnum": 16,
+      "host_static_shotznum": 1,
+      "away_static_shotznum": 8,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 17,
+      "away_static_foul": 7,
+      "host_static_corner": 1,
+      "away_static_corner": 9,
+      "host_static_offside": 1,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 2,
+      "host_static_controltime": "52.00",
+      "away_static_controltime": "48.00",
+      "host_static_attack": 68,
+      "away_static_attack": 69,
+      "host_static_risk_attack": 52,
+      "away_static_risk_attack": 57,
+      "host_static_free_kick": 8,
+      "away_static_free_kick": 19
+    }
+  },
+  {
+    "match_id": "665104",
+    "match_week": "周六",
+    "match_sn": "024",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1225",
+    "away_id": "1105",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "3",
+    "host_half_score": "0",
+    "away_half_score": "1",
+    "host_rank": "[19]",
+    "away_rank": "[02]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[0, 0, 15]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "99",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519024"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六024",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:09 +0800",
+    "match_half_time": "2018-05-20 04:00:10 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1105.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1225.png",
+    "host_name": "特鲁瓦",
+    "host_name_en": "ES Troyes AC",
+    "away_name": "摩纳哥",
+    "away_name_en": "Monaco",
+    "odds": {
+      "spf": [
+        4.5,
+        3.95,
+        1.53
+      ],
+      "rqspf": [
+        1,
+        2.11,
+        3.65,
+        2.62
+      ],
+      "bifen": [
+        16.0,
+        26.0,
+        12.0,
+        60.0,
+        31.0,
+        30.0,
+        150.0,
+        80.0,
+        80.0,
+        500.0,
+        300.0,
+        300.0,
+        80.0,
+        17.0,
+        7.25,
+        12.0,
+        40.0,
+        200.0,
+        8.75,
+        8.75,
+        7.0,
+        13.0,
+        12.0,
+        15.0,
+        22.0,
+        21.0,
+        31.0,
+        50.0,
+        40.0,
+        70.0,
+        23.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.53,
+    "avge_odds": 1.53,
+    "benefit": "竞彩实际回报1.53倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 22.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马科斯·洛佩斯",
+        "content_en": "Marcos Paulo Mesquita Lop"
+      },
+      {
+        "event_id": 1,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(佩莱)换入(本萨达)换出",
+        "content_en": "Bryan Pele",
+        "player_in": "佩莱",
+        "player_out": "本萨达",
+        "player_in_en": "Bryan Pele",
+        "player_out_en": "Chaouki Ben Saada"
+      },
+      {
+        "event_id": 2,
+        "time": 68.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "哈尔拉",
+        "content_en": "Christophe Herelle"
+      },
+      {
+        "event_id": 3,
+        "time": 71.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马科斯·洛佩斯",
+        "content_en": "Marcos Paulo Mesquita Lop"
+      },
+      {
+        "event_id": 4,
+        "time": 71.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(A. Niane)换入(B. Nivet)换出",
+        "content_en": "(A. Niane)换入(B. Nivet)换出",
+        "player_in": "A. Niane",
+        "player_out": "B. Nivet"
+      },
+      {
+        "event_id": 5,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(尼亚内)换入(尼维特)换出",
+        "content_en": "Adama Niane",
+        "player_in": "尼亚内",
+        "player_out": "尼维特",
+        "player_in_en": "Adama Niane",
+        "player_out_en": "Benjamin Nivet"
+      },
+      {
+        "event_id": 6,
+        "time": 80.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(法尔考)换入(希拉)换出",
+        "content_en": "Radamel Falcao García Zár",
+        "player_in": "法尔考",
+        "player_out": "希拉",
+        "player_in_en": "Radamel Falcao García Zár",
+        "player_out_en": "Moussa Sylla"
+      },
+      {
+        "event_id": 7,
+        "time": 80.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Bryan Mbeumo)换入(石铉俊)换出",
+        "content_en": "Suk Hyun-Jun",
+        "player_in": "Bryan Mbeumo",
+        "player_out": "石铉俊"
+      },
+      {
+        "event_id": 8,
+        "time": 87.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(阿尔马米·图雷)换入(西迪比)换出",
+        "content_en": "Almamy Toure",
+        "player_in": "阿尔马米·图雷",
+        "player_out": "西迪比",
+        "player_in_en": "Almamy Toure",
+        "player_out_en": "Djibril Sidibe"
+      },
+      {
+        "event_id": 9,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "马科斯·洛佩斯",
+        "content_en": "Marcos Paulo Mesquita Lop"
+      },
+      {
+        "event_id": 10,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(姆布拉)换入(马科斯·洛佩斯)换出",
+        "content_en": "Jordi Mboula",
+        "player_in": "姆布拉",
+        "player_out": "马科斯·洛佩斯",
+        "player_in_en": "Jordi Mboula",
+        "player_out_en": "Marcos Paulo Mesquita Lop"
+      },
+      {
+        "event_id": 11,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "姆布拉",
+        "content_en": "Jordi Mboula"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "泽拉兹尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1494.png",
+            "player_id": "1225-1494",
+            "name_en": "Edwin Zelazny"
+          }
+        ],
+        [
+          {
+            "name": "科尔多瓦尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2115.png",
+            "player_id": "1225-2115",
+            "name_en": "Jeremy Cordoval"
+          },
+          {
+            "name": "利宁",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32449.png",
+            "player_id": "1225-32449",
+            "name_en": "Jimmy Giraudon"
+          },
+          {
+            "name": "哈尔拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28575.png",
+            "player_id": "1225-28575",
+            "name_en": "Christophe Herelle"
+          },
+          {
+            "name": "特拉奥雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32453.png",
+            "player_id": "1225-32453",
+            "name_en": "Charles Traore"
+          }
+        ],
+        [
+          {
+            "name": "孔法伊斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25566.png",
+            "player_id": "1225-25566",
+            "name_en": "Alois Confais"
+          },
+          {
+            "name": "阿萨莫姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2021.png",
+            "player_id": "1225-2021",
+            "name_en": "Karim Azamoum"
+          }
+        ],
+        [
+          {
+            "name": "本萨达",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2075.png",
+            "player_id": "1225-2075",
+            "name_en": "Chaouki Ben Saada"
+          },
+          {
+            "name": "尼维特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2015.png",
+            "player_id": "1225-2015",
+            "name_en": "Benjamin Nivet"
+          },
+          {
+            "name": "格朗西尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32451.png",
+            "player_id": "1225-32451",
+            "name_en": "Samuel Grandsir"
+          }
+        ],
+        [
+          {
+            "name": "石铉俊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21391.png",
+            "player_id": "1225-21391",
+            "name_en": "Suk Hyun-Jun"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "苏巴希奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3527.png",
+            "player_id": "1105-3527",
+            "name_en": "Danijel Subasic"
+          }
+        ],
+        [
+          {
+            "name": "西迪比",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1366.png",
+            "player_id": "1105-1366",
+            "name_en": "Djibril Sidibe"
+          },
+          {
+            "name": "格利克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4001.png",
+            "player_id": "1105-4001",
+            "name_en": "Kamil Glik"
+          },
+          {
+            "name": "詹姆森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10776.png",
+            "player_id": "1105-10776",
+            "name_en": "Jemerson de Jesus Nascime"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "穆蒂尼奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3532.png",
+            "player_id": "1105-3532",
+            "name_en": "Joao Filipe Iria Santos M"
+          },
+          {
+            "name": "法比尼奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3528.png",
+            "player_id": "1105-3528",
+            "name_en": "Fabio Henrique Tavares"
+          }
+        ],
+        [
+          {
+            "name": "马科斯·洛佩斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21156.png",
+            "player_id": "1105-21156",
+            "name_en": "Marcos Paulo Mesquita Lop"
+          },
+          {
+            "name": "蒂莱曼斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17232.png",
+            "player_id": "1105-17232",
+            "name_en": "Yoeri Tielemans"
+          },
+          {
+            "name": "勒马尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1881.png",
+            "player_id": "1105-1881",
+            "name_en": "Thomas Lemar"
+          }
+        ],
+        [
+          {
+            "name": "希拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1105-47112",
+            "name_en": "Moussa Sylla"
+          }
+        ]
+      ],
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 21,
+      "host_static_shotznum": 4,
+      "away_static_shotznum": 14,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 14,
+      "away_static_foul": 13,
+      "host_static_corner": 6,
+      "away_static_corner": 2,
+      "host_static_offside": 1,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 1,
+      "host_static_controltime": "43.00",
+      "away_static_controltime": "57.00",
+      "host_static_attack": 71,
+      "away_static_attack": 73,
+      "host_static_risk_attack": 38,
+      "away_static_risk_attack": 48,
+      "host_static_free_kick": 15,
+      "away_static_free_kick": 15
+    }
+  },
+  {
+    "match_id": "665099",
+    "match_week": "周六",
+    "match_sn": "025",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1084",
+    "away_id": "693",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "4",
+    "host_half_score": "0",
+    "away_half_score": "3",
+    "host_rank": "[20]",
+    "away_rank": "[07]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[1, 3, 13]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "76",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519025"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六025",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:05 +0800",
+    "match_half_time": "2018-05-20 04:00:05 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/693.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1084.png",
+    "host_name": "梅斯",
+    "host_name_en": "FC Metz",
+    "away_name": "波尔多",
+    "away_name_en": "Bordeaux",
+    "odds": {
+      "spf": [
+        8.0,
+        5.05,
+        1.24
+      ],
+      "rqspf": [
+        1,
+        3.32,
+        3.6,
+        1.82
+      ],
+      "bifen": [
+        20.0,
+        40.0,
+        16.0,
+        80.0,
+        40.0,
+        40.0,
+        250.0,
+        150.0,
+        120.0,
+        700.0,
+        500.0,
+        500.0,
+        120.0,
+        21.0,
+        8.0,
+        14.0,
+        50.0,
+        250.0,
+        8.0,
+        8.0,
+        7.0,
+        10.0,
+        10.0,
+        19.0,
+        16.0,
+        17.0,
+        30.0,
+        30.0,
+        32.0,
+        55.0,
+        18.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.24,
+    "avge_odds": 1.24,
+    "benefit": "竞彩实际回报1.24倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 10.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "布莱斯维特",
+        "content_en": "Martin Braithwaite"
+      },
+      {
+        "event_id": 1,
+        "time": 17.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马尔孔",
+        "content_en": "Malcom Filipe Silva de Ol"
+      },
+      {
+        "event_id": 2,
+        "time": 44.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "卡马诺",
+        "content_en": "Francois Kamano"
+      },
+      {
+        "event_id": 3,
+        "time": 52.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "尼亚哈特 ",
+        "content_en": "Moussa Niakhate"
+      },
+      {
+        "event_id": 4,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(布拉亚)换入(尼亚内)换出",
+        "content_en": "Farid Boulaya",
+        "player_in": "布拉亚",
+        "player_out": "尼亚内",
+        "player_in_en": "Farid Boulaya",
+        "player_out_en": "I. Niane"
+      },
+      {
+        "event_id": 5,
+        "time": 67.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "曼杰克",
+        "content_en": "Georges Mandjeck"
+      },
+      {
+        "event_id": 6,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(德普列维尔)换入(卡马诺)换出",
+        "content_en": "Nicolas de Preville",
+        "player_in": "德普列维尔",
+        "player_out": "卡马诺",
+        "player_in_en": "Nicolas de Preville",
+        "player_out_en": "Francois Kamano"
+      },
+      {
+        "event_id": 7,
+        "time": 68.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(普拉西尔)换入(桑哈尔)换出",
+        "content_en": "Jaroslav Plasil",
+        "player_in": "普拉西尔",
+        "player_out": "桑哈尔",
+        "player_in_en": "Jaroslav Plasil",
+        "player_out_en": "Younousse Sankhare"
+      },
+      {
+        "event_id": 8,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "德普列维尔",
+        "content_en": "Nicolas de Preville"
+      },
+      {
+        "event_id": 9,
+        "time": 82.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "莫莱",
+        "content_en": "Florent Mollet"
+      },
+      {
+        "event_id": 10,
+        "time": 82.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(孔滕托)换入(马尔孔)换出",
+        "content_en": "Diego Contento",
+        "player_in": "孔滕托",
+        "player_out": "马尔孔",
+        "player_in_en": "Diego Contento",
+        "player_out_en": "Malcom Filipe Silva de Ol"
+      },
+      {
+        "event_id": 11,
+        "time": 82.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Rivierez)换入(L. Goudiaby)换出",
+        "content_en": "(J. Rivierez)换入(L. Goudiaby)换出",
+        "player_in": "J. Rivierez",
+        "player_out": "L. Goudiaby"
+      },
+      {
+        "event_id": 12,
+        "time": 82.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(里维埃雷斯)换入(古迪亚比)换出",
+        "content_en": "Jonathan Rivierez",
+        "player_in": "里维埃雷斯",
+        "player_out": "古迪亚比",
+        "player_in_en": "Jonathan Rivierez",
+        "player_out_en": "Lemouya Goudiaby"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "川岛永嗣",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17346.png",
+            "player_id": "1084-17346",
+            "name_en": "Eiji Kawashima"
+          }
+        ],
+        [
+          {
+            "name": "古迪亚比",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42504.png",
+            "player_id": "1084-42504",
+            "name_en": "Lemouya Goudiaby"
+          },
+          {
+            "name": "塞利莫维奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31076.png",
+            "player_id": "1084-31076",
+            "name_en": "Vahid Selimovic"
+          },
+          {
+            "name": "尼亚哈特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25599.png",
+            "player_id": "1084-25599",
+            "name_en": "Moussa Niakhate"
+          },
+          {
+            "name": "巴辛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31075.png",
+            "player_id": "1084-31075",
+            "name_en": "Nicolas Basin"
+          }
+        ],
+        [
+          {
+            "name": "科哈德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1389.png",
+            "player_id": "1084-1389",
+            "name_en": "Renaud Cohade"
+          },
+          {
+            "name": "曼杰克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1084-8957",
+            "name_en": "Georges Mandjeck"
+          }
+        ],
+        [
+          {
+            "name": "多塞维",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1773.png",
+            "player_id": "1084-1773",
+            "name_en": "Mathieu Dossevi"
+          },
+          {
+            "name": "莫莱",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1946.png",
+            "player_id": "1084-1946",
+            "name_en": "Florent Mollet"
+          },
+          {
+            "name": "尼亚内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_44286.png",
+            "player_id": "1084-44286",
+            "name_en": "I. Niane"
+          }
+        ],
+        [
+          {
+            "name": "里维埃尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3549.png",
+            "player_id": "1084-3549",
+            "name_en": "Emmanuel Riviere"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "科斯蒂尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1584.png",
+            "player_id": "693-1584",
+            "name_en": "Benoit Costil"
+          }
+        ],
+        [
+          {
+            "name": "萨巴利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1647.png",
+            "player_id": "693-1647",
+            "name_en": "Youssouf Sabaly"
+          },
+          {
+            "name": "孔德",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "693-48526",
+            "name_en": "孔德"
+          },
+          {
+            "name": "帕布罗·纳西蒙托·卡斯特罗",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "693-27527",
+            "name_en": "Pablo Nascimento Castro"
+          },
+          {
+            "name": "普恩杰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1475.png",
+            "player_id": "693-1475",
+            "name_en": "Maxime Poundje"
+          }
+        ],
+        [
+          {
+            "name": "莱拉格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_33715.png",
+            "player_id": "693-33715",
+            "name_en": "Lukas Lerager"
+          },
+          {
+            "name": "梅特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1363.png",
+            "player_id": "693-1363",
+            "name_en": "Soualiho Meite"
+          },
+          {
+            "name": "桑哈尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1690.png",
+            "player_id": "693-1690",
+            "name_en": "Younousse Sankhare"
+          }
+        ],
+        [
+          {
+            "name": "马尔孔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12913.png",
+            "player_id": "693-12913",
+            "name_en": "Malcom Filipe Silva de Ol"
+          },
+          {
+            "name": "布莱斯维特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1538.png",
+            "player_id": "693-1538",
+            "name_en": "Martin Braithwaite"
+          },
+          {
+            "name": "卡马诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21127.png",
+            "player_id": "693-21127",
+            "name_en": "Francois Kamano"
+          }
+        ]
+      ],
+      "host_static_shotnum": 7,
+      "away_static_shotnum": 15,
+      "host_static_shotznum": 0,
+      "away_static_shotznum": 7,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 11,
+      "away_static_foul": 16,
+      "host_static_corner": 4,
+      "away_static_corner": 6,
+      "host_static_offside": 0,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 0,
+      "host_static_controltime": "41.00",
+      "away_static_controltime": "59.00",
+      "host_static_attack": 62,
+      "away_static_attack": 84,
+      "host_static_risk_attack": 25,
+      "away_static_risk_attack": 36,
+      "host_static_free_kick": 17,
+      "away_static_free_kick": 11
+    }
+  },
+  {
+    "match_id": "665100",
+    "match_week": "周六",
+    "match_sn": "026",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1129",
+    "away_id": "1194",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "0",
+    "host_half_score": "1",
+    "away_half_score": "0",
+    "host_rank": "[10]",
+    "away_rank": "[16]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[11, 3, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "79",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519026"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六026",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:02 +0800",
+    "match_half_time": "2018-05-20 04:00:47 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1129.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/image/team/1194.png",
+    "host_name": "南特",
+    "host_name_en": "Nantes",
+    "away_name": "斯特拉斯堡",
+    "away_name_en": "Strasbourg",
+    "odds": {
+      "spf": [
+        1.62,
+        3.6,
+        4.3
+      ],
+      "rqspf": [
+        -1,
+        2.95,
+        3.45,
+        2.0
+      ],
+      "bifen": [
+        7.25,
+        8.25,
+        7.0,
+        13.0,
+        12.5,
+        20.0,
+        29.0,
+        27.0,
+        40.0,
+        70.0,
+        60.0,
+        100.0,
+        40.0,
+        12.5,
+        7.0,
+        12.5,
+        50.0,
+        250.0,
+        11.5,
+        11.5,
+        11.0,
+        50.0,
+        30.0,
+        30.0,
+        150.0,
+        80.0,
+        100.0,
+        400.0,
+        300.0,
+        300.0,
+        100.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.62,
+    "avge_odds": 1.62,
+    "benefit": "竞彩实际回报1.62倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 32.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "莱昂·杜波依斯",
+        "content_en": "Leo Dubois"
+      },
+      {
+        "event_id": 1,
+        "time": 56.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(吉罗托)换入(隆吉耶)换出",
+        "content_en": "Andrei Girotto",
+        "player_in": "吉罗托",
+        "player_out": "隆吉耶",
+        "player_in_en": "Andrei Girotto",
+        "player_out_en": "Valentin Rongier"
+      },
+      {
+        "event_id": 2,
+        "time": 58.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(萨迪)换入(巴奥康)换出",
+        "content_en": "Idriss Saadi",
+        "player_in": "萨迪",
+        "player_out": "巴奥康",
+        "player_in_en": "Idriss Saadi",
+        "player_out_en": "Stephane Bahoken"
+      },
+      {
+        "event_id": 3,
+        "time": 59.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(布拉耶克)换入(林纳德)换出",
+        "content_en": "Jeremy Blayac",
+        "player_in": "布拉耶克",
+        "player_out": "林纳德",
+        "player_in_en": "Jeremy Blayac",
+        "player_out_en": "Dimitri Lienard"
+      },
+      {
+        "event_id": 4,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(西格索尔森)换入(库利巴利)换出",
+        "content_en": "Kolbeinn Sigthorsson",
+        "player_in": "西格索尔森",
+        "player_out": "库利巴利",
+        "player_in_en": "Kolbeinn Sigthorsson",
+        "player_out_en": "Kalifa Coulibaly"
+      },
+      {
+        "event_id": 5,
+        "time": 80.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(特利尔)换入(福尔基耶)换出",
+        "content_en": "Martin Terrier",
+        "player_in": "特利尔",
+        "player_out": "福尔基耶",
+        "player_in_en": "Martin Terrier",
+        "player_out_en": "Dimitri Foulquier"
+      },
+      {
+        "event_id": 6,
+        "time": 84.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(卡洛斯)换入(穆图萨米)换出",
+        "content_en": "Diego Carlos",
+        "player_in": "卡洛斯",
+        "player_out": "穆图萨米",
+        "player_in_en": "Diego Carlos",
+        "player_out_en": "Samuel Moutoussamy"
+      },
+      {
+        "event_id": 7,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Diego Carlos)换入(S. Moutoussamy)换出",
+        "content_en": "(Diego Carlos)换入(S. Moutoussamy)换出",
+        "player_in": "Diego Carlos",
+        "player_out": "S. Moutoussamy"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-1-2",
+      "away_formation": "5-3-2",
+      "host_players": [
+        [
+          {
+            "name": "特特鲁沙努",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21085.png",
+            "player_id": "1129-21085",
+            "name_en": "Ciprian Tatarusanu"
+          }
+        ],
+        [
+          {
+            "name": "莱昂·杜波依斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1507.png",
+            "player_id": "1129-1507",
+            "name_en": "Leo Dubois"
+          },
+          {
+            "name": "吉吉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1504.png",
+            "player_id": "1129-1504",
+            "name_en": "Koffi Djidji"
+          },
+          {
+            "name": "帕洛瓦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1923.png",
+            "player_id": "1129-1923",
+            "name_en": "Nicolas Pallois"
+          },
+          {
+            "name": "利马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7011.png",
+            "player_id": "1129-7011",
+            "name_en": "Sandro Lima"
+          }
+        ],
+        [
+          {
+            "name": "图雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28641.png",
+            "player_id": "1129-28641",
+            "name_en": "Abdoulaye Touré"
+          },
+          {
+            "name": "科尔辛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24203.png",
+            "player_id": "1129-24203",
+            "name_en": "Rene Krhin"
+          },
+          {
+            "name": "穆图萨米",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1129-47115",
+            "name_en": "Samuel Moutoussamy"
+          }
+        ],
+        [
+          {
+            "name": "隆吉耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21191.png",
+            "player_id": "1129-21191",
+            "name_en": "Valentin Rongier"
+          }
+        ],
+        [
+          {
+            "name": "库利巴利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32816.png",
+            "player_id": "1129-32816",
+            "name_en": "Kalifa Coulibaly"
+          },
+          {
+            "name": "萨拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1912.png",
+            "player_id": "1129-1912",
+            "name_en": "Emiliano Sala"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "卡马拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25586.png",
+            "player_id": "1194-25586",
+            "name_en": "Bingourou Kamara"
+          }
+        ],
+        [
+          {
+            "name": "福尔基耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5422.png",
+            "player_id": "1194-5422",
+            "name_en": "Dimitri Foulquier"
+          },
+          {
+            "name": "瑟卡",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32303.png",
+            "player_id": "1194-32303",
+            "name_en": "Ernest Seka"
+          },
+          {
+            "name": "曼加尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_8951.png",
+            "player_id": "1194-8951",
+            "name_en": "Kader Mangane"
+          },
+          {
+            "name": "马丁内斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25388.png",
+            "player_id": "1194-25388",
+            "name_en": "Pablo Martinez"
+          },
+          {
+            "name": "拉拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1778.png",
+            "player_id": "1194-1778",
+            "name_en": "Kenny Lala"
+          }
+        ],
+        [
+          {
+            "name": "冈萨尔维斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3671.png",
+            "player_id": "1194-3671",
+            "name_en": "Anthony Goncalves"
+          },
+          {
+            "name": "格里姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32302.png",
+            "player_id": "1194-32302",
+            "name_en": "Jeremy Grimm"
+          },
+          {
+            "name": "科格奈特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1387.png",
+            "player_id": "1194-1387",
+            "name_en": "Benjamin Corgnet"
+          }
+        ],
+        [
+          {
+            "name": "林纳德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32304.png",
+            "player_id": "1194-32304",
+            "name_en": "Dimitri Lienard"
+          },
+          {
+            "name": "巴奥康",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_8050.png",
+            "player_id": "1194-8050",
+            "name_en": "Stephane Bahoken"
+          }
+        ]
+      ],
+      "host_static_shotnum": 9,
+      "away_static_shotnum": 10,
+      "host_static_shotznum": 2,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 6,
+      "away_static_foul": 12,
+      "host_static_corner": 2,
+      "away_static_corner": 7,
+      "host_static_offside": 1,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 0,
+      "host_static_controltime": "43.00",
+      "away_static_controltime": "57.00",
+      "host_static_attack": 55,
+      "away_static_attack": 59,
+      "host_static_risk_attack": 38,
+      "away_static_risk_attack": 42,
+      "host_static_free_kick": 13,
+      "away_static_free_kick": 7
+    }
+  },
+  {
+    "match_id": "665101",
+    "match_week": "周六",
+    "match_sn": "027",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "990",
+    "away_id": "1090",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "1",
+    "host_half_score": "1",
+    "away_half_score": "1",
+    "host_rank": "[05]",
+    "away_rank": "[09]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[16, 5, 5]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "81",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519027"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六027",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:06 +0800",
+    "match_half_time": "2018-05-20 04:01:08 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/990.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1090.png",
+    "host_name": "雷恩",
+    "host_name_en": "Stade Rennais FC",
+    "away_name": "蒙彼利埃",
+    "away_name_en": "Montpellier",
+    "odds": {
+      "spf": [
+        1.68,
+        3.25,
+        4.42
+      ],
+      "rqspf": [
+        -1,
+        3.25,
+        3.35,
+        1.91
+      ],
+      "bifen": [
+        6.6,
+        7.75,
+        7.0,
+        14.0,
+        14.0,
+        23.0,
+        30.0,
+        30.0,
+        50.0,
+        70.0,
+        70.0,
+        150.0,
+        50.0,
+        9.5,
+        6.3,
+        13.0,
+        60.0,
+        300.0,
+        11.0,
+        11.0,
+        11.5,
+        50.0,
+        35.0,
+        40.0,
+        150.0,
+        100.0,
+        120.0,
+        500.0,
+        400.0,
+        400.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.25,
+    "avge_odds": 1.11,
+    "benefit": "竞彩实际回报3.25倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 13.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "胡努",
+        "content_en": "Adrien Hunou"
+      },
+      {
+        "event_id": 1,
+        "time": 17.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "姆本萨",
+        "content_en": "Isaac Mbenza"
+      },
+      {
+        "event_id": 2,
+        "time": 53.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "波尔桑-克莱芒特",
+        "content_en": "Jérémie Porsan-Clemente"
+      },
+      {
+        "event_id": 3,
+        "time": 57.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(萨科霍)换入(斯利基)换出",
+        "content_en": "Diafra Sakho",
+        "player_in": "萨科霍",
+        "player_out": "斯利基",
+        "player_in_en": "Diafra Sakho",
+        "player_out_en": "Lea Siliki"
+      },
+      {
+        "event_id": 4,
+        "time": 59.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(拉斯尼)换入(斯希里)换出",
+        "content_en": "Paul Lasne",
+        "player_in": "拉斯尼",
+        "player_out": "斯希里",
+        "player_in_en": "Paul Lasne",
+        "player_out_en": "Ellyes Skhiri"
+      },
+      {
+        "event_id": 5,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(宁加)换入(西奥)换出",
+        "content_en": "Rodrigue Casimir Ninga",
+        "player_in": "宁加",
+        "player_out": "西奥",
+        "player_in_en": "Rodrigue Casimir Ninga",
+        "player_out_en": "Giovanni Sio"
+      },
+      {
+        "event_id": 6,
+        "time": 82.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(古尔库夫)换入(泽法内)换出",
+        "content_en": "Yoann Gourcuff",
+        "player_in": "古尔库夫",
+        "player_out": "泽法内",
+        "player_in_en": "Yoann Gourcuff",
+        "player_out_en": "Mehdi Zeffane"
+      },
+      {
+        "event_id": 7,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(丹泽)换入(布里若)换出",
+        "content_en": "Romain Danze",
+        "player_in": "丹泽",
+        "player_out": "布里若",
+        "player_in_en": "Romain Danze",
+        "player_out_en": "Benjamin Bourigeaud"
+      },
+      {
+        "event_id": 8,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(阿吉拉尔)换入(波尔桑-克莱芒特)换出",
+        "content_en": "Ruben Aguilar",
+        "player_in": "阿吉拉尔",
+        "player_out": "波尔桑-克莱芒特",
+        "player_in_en": "Ruben Aguilar",
+        "player_out_en": "Jérémie Porsan-Clemente"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "3-4-1-2",
+      "host_players": [
+        [
+          {
+            "name": "库贝克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_29958.png",
+            "player_id": "990-29958",
+            "name_en": "Tomas Koubek"
+          }
+        ],
+        [
+          {
+            "name": "特拉奥雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28608.png",
+            "player_id": "990-28608",
+            "name_en": "Hamari Traore"
+          },
+          {
+            "name": "吉林",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "990-48532",
+            "name_en": "吉林"
+          },
+          {
+            "name": "格纳格诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30201.png",
+            "player_id": "990-30201",
+            "name_en": "Joris Gnagnon"
+          },
+          {
+            "name": "本瑟拜尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28637.png",
+            "player_id": "990-28637",
+            "name_en": "Rami Bensebaini"
+          }
+        ],
+        [
+          {
+            "name": "安德烈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3599.png",
+            "player_id": "990-3599",
+            "name_en": "Benjamin André"
+          },
+          {
+            "name": "普尔西奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1757.png",
+            "player_id": "990-1757",
+            "name_en": "Sanjin Prcic"
+          },
+          {
+            "name": "斯利基",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42480.png",
+            "player_id": "990-42480",
+            "name_en": "Lea Siliki"
+          }
+        ],
+        [
+          {
+            "name": "泽法内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1407.png",
+            "player_id": "990-1407",
+            "name_en": "Mehdi Zeffane"
+          },
+          {
+            "name": "胡努",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1609.png",
+            "player_id": "990-1609",
+            "name_en": "Adrien Hunou"
+          },
+          {
+            "name": "布里若",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21142.png",
+            "player_id": "990-21142",
+            "name_en": "Benjamin Bourigeaud"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "莱康特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1948.png",
+            "player_id": "1090-1948",
+            "name_en": "Benjamin Lecomte"
+          }
+        ],
+        [
+          {
+            "name": "康格尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1660.png",
+            "player_id": "1090-1660",
+            "name_en": "Daniel Congre"
+          },
+          {
+            "name": "门德斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4332.png",
+            "player_id": "1090-4332",
+            "name_en": "Pedro Filipe Teodósio Men"
+          },
+          {
+            "name": "科扎",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_44288.png",
+            "player_id": "1090-44288",
+            "name_en": "N. Cozza"
+          }
+        ],
+        [
+          {
+            "name": "波尔桑-克莱芒特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21163.png",
+            "player_id": "1090-21163",
+            "name_en": "Jérémie Porsan-Clemente"
+          },
+          {
+            "name": "斯希里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21179.png",
+            "player_id": "1090-21179",
+            "name_en": "Ellyes Skhiri"
+          },
+          {
+            "name": "皮利兹",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_29987.png",
+            "player_id": "1090-29987",
+            "name_en": "Facundo Julian Piriz Gonz"
+          },
+          {
+            "name": "奥永戈",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1090-13542",
+            "name_en": "Ambroise Oyongo"
+          }
+        ],
+        [
+          {
+            "name": "多利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42507.png",
+            "player_id": "1090-42507",
+            "name_en": "Keagan Dolly"
+          }
+        ],
+        [
+          {
+            "name": "姆本萨",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25598.png",
+            "player_id": "1090-25598",
+            "name_en": "Isaac Mbenza"
+          },
+          {
+            "name": "西奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_8396.png",
+            "player_id": "1090-8396",
+            "name_en": "Giovanni Sio"
+          }
+        ]
+      ],
+      "host_static_shotnum": 9,
+      "away_static_shotnum": 9,
+      "host_static_shotznum": 1,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 10,
+      "away_static_foul": 12,
+      "host_static_corner": 8,
+      "away_static_corner": 4,
+      "host_static_offside": 0,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 1,
+      "host_static_controltime": "57.00",
+      "away_static_controltime": "43.00",
+      "host_static_attack": 56,
+      "away_static_attack": 51,
+      "host_static_risk_attack": 36,
+      "away_static_risk_attack": 34,
+      "host_static_free_kick": 12,
+      "away_static_free_kick": 10
+    }
+  },
+  {
+    "match_id": "665103",
+    "match_week": "周六",
+    "match_sn": "028",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1233",
+    "away_id": "813",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "2",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "[18]",
+    "away_rank": "[11]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[29, 3, 1]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "88",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519028"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六028",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:06 +0800",
+    "match_half_time": "2018-05-20 04:00:19 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/813.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1233.png",
+    "host_name": "图卢兹",
+    "host_name_en": "Toulouse",
+    "away_name": "甘冈",
+    "away_name_en": "Guingamp",
+    "odds": {
+      "spf": [
+        1.41,
+        4.2,
+        5.5
+      ],
+      "rqspf": [
+        -1,
+        2.31,
+        3.5,
+        2.44
+      ],
+      "bifen": [
+        7.75,
+        7.25,
+        7.0,
+        11.0,
+        11.0,
+        17.0,
+        20.0,
+        20.0,
+        35.0,
+        40.0,
+        40.0,
+        70.0,
+        23.0,
+        18.0,
+        7.25,
+        12.0,
+        46.0,
+        250.0,
+        16.0,
+        16.0,
+        14.0,
+        70.0,
+        40.0,
+        35.0,
+        250.0,
+        120.0,
+        120.0,
+        700.0,
+        400.0,
+        400.0,
+        120.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.41,
+    "avge_odds": 1.41,
+    "benefit": "竞彩实际回报1.41倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 16.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "雅戈",
+        "content_en": "Steeve Yago"
+      },
+      {
+        "event_id": 1,
+        "time": 31.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "罗贝克",
+        "content_en": "Pedro Miguel Braga Reboch"
+      },
+      {
+        "event_id": 2,
+        "time": 47.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "塔巴努",
+        "content_en": "Franck Tabanou"
+      },
+      {
+        "event_id": 3,
+        "time": 59.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "格拉德尔",
+        "content_en": "Max Gradel"
+      },
+      {
+        "event_id": 4,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "萨诺戈",
+        "content_en": "Yaya Sanogo"
+      },
+      {
+        "event_id": 5,
+        "time": 66.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "克莱门特·吉尼尔",
+        "content_en": "Clement Grenier"
+      },
+      {
+        "event_id": 6,
+        "time": 67.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿杜)换入(雅戈)换出",
+        "content_en": "Kelvin Amian Adou",
+        "player_in": "阿杜",
+        "player_out": "雅戈",
+        "player_in_en": "Kelvin Amian Adou",
+        "player_out_en": "Steeve Yago"
+      },
+      {
+        "event_id": 7,
+        "time": 68.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "杜马斯",
+        "content_en": "Jakup Jimmy Durmaz"
+      },
+      {
+        "event_id": 8,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(菲里)换入(德沃)换出",
+        "content_en": "Lebogang Phiri",
+        "player_in": "菲里",
+        "player_out": "德沃",
+        "player_in_en": "Lebogang Phiri",
+        "player_out_en": "Lucas Deaux"
+      },
+      {
+        "event_id": 9,
+        "time": 74.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(恩格巴科托)换入(图拉姆 )换出",
+        "content_en": "Yeni N'Gbakoto",
+        "player_in": "恩格巴科托",
+        "player_out": "图拉姆 ",
+        "player_in_en": "Yeni N'Gbakoto",
+        "player_out_en": "Marcus Thuram"
+      },
+      {
+        "event_id": 10,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "桑加尔",
+        "content_en": "Ibrahima Sangare"
+      },
+      {
+        "event_id": 11,
+        "time": 77.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "I. Sangaré",
+        "content_en": "I. Sangaré"
+      },
+      {
+        "event_id": 12,
+        "time": 80.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(姆贝勒)换入(杜马斯)换出",
+        "content_en": "Firmin Ndombe Mubele",
+        "player_in": "姆贝勒",
+        "player_out": "杜马斯",
+        "player_in_en": "Firmin Ndombe Mubele",
+        "player_out_en": "Jakup Jimmy Durmaz"
+      },
+      {
+        "event_id": 13,
+        "time": 85.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(格雷瑟)换入(罗贝克)换出",
+        "content_en": "Thibault Giresse",
+        "player_in": "格雷瑟",
+        "player_out": "罗贝克",
+        "player_in_en": "Thibault Giresse",
+        "player_out_en": "Pedro Miguel Braga Reboch"
+      },
+      {
+        "event_id": 14,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(托伊沃宁)换入(索马利亚)换出",
+        "content_en": "Ola Toivonen",
+        "player_in": "托伊沃宁",
+        "player_out": "索马利亚",
+        "player_in_en": "Ola Toivonen",
+        "player_out_en": "Wergiton do Rosário Calmo"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "拉夫特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30199.png",
+            "player_id": "1233-30199",
+            "name_en": "Alban Lafont"
+          }
+        ],
+        [
+          {
+            "name": "雅戈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1550.png",
+            "player_id": "1233-1550",
+            "name_en": "Steeve Yago"
+          },
+          {
+            "name": "迪奥普",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30198.png",
+            "player_id": "1233-30198",
+            "name_en": "Issa Diop"
+          },
+          {
+            "name": "尤利安",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_548.png",
+            "player_id": "1233-548",
+            "name_en": "Christopher Jullien"
+          },
+          {
+            "name": "穆班杰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1558.png",
+            "player_id": "1233-1558",
+            "name_en": "Franois Moubandje"
+          }
+        ],
+        [
+          {
+            "name": "因布拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1451.png",
+            "player_id": "1233-1451",
+            "name_en": "Giannelli Imbula"
+          },
+          {
+            "name": "桑加尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31328.png",
+            "player_id": "1233-31328",
+            "name_en": "Ibrahima Sangare"
+          },
+          {
+            "name": "索马利亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27716.png",
+            "player_id": "1233-27716",
+            "name_en": "Wergiton do Rosário Calmo"
+          }
+        ],
+        [
+          {
+            "name": "杜马斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_8825.png",
+            "player_id": "1233-8825",
+            "name_en": "Jakup Jimmy Durmaz"
+          },
+          {
+            "name": "萨诺戈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_15.png",
+            "player_id": "1233-15",
+            "name_en": "Yaya Sanogo"
+          },
+          {
+            "name": "格拉德尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1386.png",
+            "player_id": "1233-1386",
+            "name_en": "Max Gradel"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "约翰松",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_6561.png",
+            "player_id": "813-6561",
+            "name_en": "Karl-Johan Johnsson"
+          }
+        ],
+        [
+          {
+            "name": "罗贝克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_33847.png",
+            "player_id": "813-33847",
+            "name_en": "Pedro Miguel Braga Reboch"
+          },
+          {
+            "name": "凯尔布拉特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1705.png",
+            "player_id": "813-1705",
+            "name_en": "Christophe Kerbrat"
+          },
+          {
+            "name": "索尔邦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1694.png",
+            "player_id": "813-1694",
+            "name_en": "Jérémy Sorbon"
+          },
+          {
+            "name": "塔巴努",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1400.png",
+            "player_id": "813-1400",
+            "name_en": "Franck Tabanou"
+          }
+        ],
+        [
+          {
+            "name": "德沃",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1496.png",
+            "player_id": "813-1496",
+            "name_en": "Lucas Deaux"
+          },
+          {
+            "name": "巴拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28601.png",
+            "player_id": "813-28601",
+            "name_en": "Ludovic Blas"
+          }
+        ],
+        [
+          {
+            "name": "科科",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_23952.png",
+            "player_id": "813-23952",
+            "name_en": "Marcus Coco"
+          },
+          {
+            "name": "克莱门特·吉尼尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1411.png",
+            "player_id": "813-1411",
+            "name_en": "Clement Grenier"
+          },
+          {
+            "name": "图拉姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25560.png",
+            "player_id": "813-25560",
+            "name_en": "Marcus Thuram"
+          }
+        ],
+        [
+          {
+            "name": "布里安德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1419.png",
+            "player_id": "813-1419",
+            "name_en": "Jimmy Briand"
+          }
+        ]
+      ],
+      "host_static_shotnum": 17,
+      "away_static_shotnum": 13,
+      "host_static_shotznum": 7,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 9,
+      "away_static_foul": 14,
+      "host_static_corner": 9,
+      "away_static_corner": 5,
+      "host_static_offside": 1,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 2,
+      "host_static_controltime": "54.00",
+      "away_static_controltime": "46.00",
+      "host_static_attack": 53,
+      "away_static_attack": 41,
+      "host_static_risk_attack": 41,
+      "away_static_risk_attack": 30,
+      "host_static_free_kick": 16,
+      "away_static_free_kick": 10
+    }
+  },
+  {
+    "match_id": "665097",
+    "match_week": "周六",
+    "match_sn": "029",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "997",
+    "away_id": "1134",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "3",
+    "away_score": "2",
+    "host_half_score": "0",
+    "away_half_score": "1",
+    "host_rank": "[03]",
+    "away_rank": "[06]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[10, 1, 3]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "71",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519029"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六029",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:07 +0800",
+    "match_half_time": "2018-05-20 04:00:45 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/997.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1134.png",
+    "host_name": "里昂",
+    "host_name_en": "Lyonnais",
+    "away_name": "尼斯",
+    "away_name_en": "Nice",
+    "odds": {
+      "spf": [
+        1.27,
+        5.15,
+        6.8
+      ],
+      "rqspf": [
+        -1,
+        1.9,
+        3.75,
+        2.98
+      ],
+      "bifen": [
+        11.0,
+        8.5,
+        7.25,
+        10.0,
+        9.0,
+        14.0,
+        17.0,
+        17.0,
+        25.0,
+        28.0,
+        27.0,
+        40.0,
+        12.0,
+        26.0,
+        9.25,
+        13.5,
+        35.0,
+        150.0,
+        23.0,
+        23.0,
+        16.0,
+        100.0,
+        45.0,
+        32.0,
+        300.0,
+        120.0,
+        100.0,
+        600.0,
+        400.0,
+        300.0,
+        80.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.27,
+    "avge_odds": 1.27,
+    "benefit": "竞彩实际回报1.27倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 18.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "普利亚",
+        "content_en": "Alassane Plea"
+      },
+      {
+        "event_id": 1,
+        "time": 21.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "巴洛特利",
+        "content_en": "Mario Balotelli"
+      },
+      {
+        "event_id": 2,
+        "time": 40.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "莫雷尔",
+        "content_en": "Jérémy Morel"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(迪亚茨)换入(恩东贝莱)换出",
+        "content_en": "Mariano Diaz Mejia",
+        "player_in": "迪亚茨",
+        "player_out": "恩东贝莱",
+        "player_in_en": "Mariano Diaz Mejia",
+        "player_out_en": "T. NDombèlé"
+      },
+      {
+        "event_id": 4,
+        "time": 48.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "德佩",
+        "content_en": "Memphis Depay"
+      },
+      {
+        "event_id": 5,
+        "time": 52.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "贝尼特斯",
+        "content_en": "Walter Benítez"
+      },
+      {
+        "event_id": 6,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "德佩",
+        "content_en": "Memphis Depay"
+      },
+      {
+        "event_id": 7,
+        "time": 70.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "拉斐尔",
+        "content_en": "Rafael Pereira da Silva"
+      },
+      {
+        "event_id": 8,
+        "time": 70.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "普利亚",
+        "content_en": "Alassane Plea"
+      },
+      {
+        "event_id": 9,
+        "time": 71.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(勒比汉)换入(塔梅泽)换出",
+        "content_en": "Mickael Le Bihan",
+        "player_in": "勒比汉",
+        "player_out": "塔梅泽",
+        "player_in_en": "Mickael Le Bihan",
+        "player_out_en": "Adrien Tameze"
+      },
+      {
+        "event_id": 10,
+        "time": 71.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "费里",
+        "content_en": "Jordan Ferri"
+      },
+      {
+        "event_id": 11,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(斯拉弗里)换入(圣马西明)换出",
+        "content_en": "Bassem Srarfi",
+        "player_in": "斯拉弗里",
+        "player_out": "圣马西明",
+        "player_in_en": "Bassem Srarfi",
+        "player_out_en": "Allan Saint-Maximin"
+      },
+      {
+        "event_id": 12,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(马萨尔)换入(拉斐尔)换出",
+        "content_en": "Fernando Marcal",
+        "player_in": "马萨尔",
+        "player_out": "拉斐尔",
+        "player_in_en": "Fernando Marcal",
+        "player_out_en": "Rafael Pereira da Silva"
+      },
+      {
+        "event_id": 13,
+        "time": 84.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(费里)换入(费基尔)换出",
+        "content_en": "Jordan Ferri",
+        "player_in": "费里",
+        "player_out": "费基尔",
+        "player_in_en": "Jordan Ferri",
+        "player_out_en": "Nabil Fekir"
+      },
+      {
+        "event_id": 14,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "德佩",
+        "content_en": "Memphis Depay"
+      },
+      {
+        "event_id": 15,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "普利亚",
+        "content_en": "Alassane Plea"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-1-2-1-2",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "格尔戈林",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1428.png",
+            "player_id": "997-1428",
+            "name_en": "Mathieu Gorgelin"
+          }
+        ],
+        [
+          {
+            "name": "拉斐尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_9325.png",
+            "player_id": "997-9325",
+            "name_en": "Rafael Pereira da Silva"
+          },
+          {
+            "name": "马塞洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_6792.png",
+            "player_id": "997-6792",
+            "name_en": "Marcelo"
+          },
+          {
+            "name": "莫雷尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1444.png",
+            "player_id": "997-1444",
+            "name_en": "Jérémy Morel"
+          },
+          {
+            "name": "门迪",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25495.png",
+            "player_id": "997-25495",
+            "name_en": "Ferland Mendy"
+          }
+        ],
+        [
+          {
+            "name": "图萨尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25601.png",
+            "player_id": "997-25601",
+            "name_en": "Lucas Tousart"
+          }
+        ],
+        [
+          {
+            "name": "恩东贝莱",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32330.png",
+            "player_id": "997-32330",
+            "name_en": "T. NDombèlé"
+          },
+          {
+            "name": "奥亚尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31274.png",
+            "player_id": "997-31274",
+            "name_en": "Houssem Aouar"
+          }
+        ],
+        [
+          {
+            "name": "费基尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1429.png",
+            "player_id": "997-1429",
+            "name_en": "Nabil Fekir"
+          }
+        ],
+        [
+          {
+            "name": "德佩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_90.png",
+            "player_id": "997-90",
+            "name_en": "Memphis Depay"
+          },
+          {
+            "name": "特劳雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21309.png",
+            "player_id": "997-21309",
+            "name_en": "Bertrand Traore"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "贝尼特斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_13245.png",
+            "player_id": "1134-13245",
+            "name_en": "Walter Benítez"
+          }
+        ],
+        [
+          {
+            "name": "索奎特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28298.png",
+            "player_id": "1134-28298",
+            "name_en": "Arnaud Souquet"
+          },
+          {
+            "name": "马隆·桑托斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12903.png",
+            "player_id": "1134-12903",
+            "name_en": "Marlon Santos da Silva Ba"
+          },
+          {
+            "name": "丹特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_39.png",
+            "player_id": "1134-39",
+            "name_en": "Dante Bonfim Costa Santos"
+          },
+          {
+            "name": "勒马尔尚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2065.png",
+            "player_id": "1134-2065",
+            "name_en": "Maxime Le Marchand"
+          }
+        ],
+        [
+          {
+            "name": "西普里安",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1853.png",
+            "player_id": "1134-1853",
+            "name_en": "Wylan Cyprien"
+          },
+          {
+            "name": "塔梅泽",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28938.png",
+            "player_id": "1134-28938",
+            "name_en": "Adrien Tameze"
+          },
+          {
+            "name": "基恩·麦克·瑟尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7117.png",
+            "player_id": "1134-7117",
+            "name_en": "Jean Michael Seri"
+          }
+        ],
+        [
+          {
+            "name": "圣马西明",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1404.png",
+            "player_id": "1134-1404",
+            "name_en": "Allan Saint-Maximin"
+          },
+          {
+            "name": "巴洛特利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4037.png",
+            "player_id": "1134-4037",
+            "name_en": "Mario Balotelli"
+          },
+          {
+            "name": "普利亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2154.png",
+            "player_id": "1134-2154",
+            "name_en": "Alassane Plea"
+          }
+        ]
+      ],
+      "host_static_shotnum": 23,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 8,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 15,
+      "away_static_foul": 13,
+      "host_static_corner": 8,
+      "away_static_corner": 7,
+      "host_static_offside": 0,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 3,
+      "host_static_controltime": "47.00",
+      "away_static_controltime": "53.00",
+      "host_static_attack": 64,
+      "away_static_attack": 60,
+      "host_static_risk_attack": 42,
+      "away_static_risk_attack": 26,
+      "host_static_free_kick": 12,
+      "away_static_free_kick": 14
+    }
+  },
+  {
+    "match_id": "665098",
+    "match_week": "周六",
+    "match_sn": "030",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1064",
+    "away_id": "1307",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "2",
+    "away_score": "1",
+    "host_half_score": "2",
+    "away_half_score": "1",
+    "host_rank": "[04]",
+    "away_rank": "[12]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[19, 2, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "90",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519030"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六030",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:19 +0800",
+    "match_half_time": "2018-05-20 04:00:51 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1064.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1307.png",
+    "host_name": "马赛",
+    "host_name_en": "Marseille",
+    "away_name": "亚眠",
+    "away_name_en": "Amiens SC",
+    "odds": {
+      "spf": [
+        1.15,
+        6.15,
+        10.3
+      ],
+      "rqspf": [
+        -2,
+        2.38,
+        4.0,
+        2.18
+      ],
+      "bifen": [
+        9.2,
+        7.0,
+        7.25,
+        7.5,
+        9.5,
+        19.0,
+        12.0,
+        14.0,
+        29.0,
+        20.0,
+        23.0,
+        50.0,
+        11.0,
+        28.0,
+        10.5,
+        17.0,
+        55.0,
+        200.0,
+        28.0,
+        28.0,
+        21.0,
+        150.0,
+        70.0,
+        50.0,
+        500.0,
+        250.0,
+        200.0,
+        1000.0,
+        700.0,
+        600.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.15,
+    "avge_odds": 1.15,
+    "benefit": "竞彩实际回报1.15倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 10.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "桑松",
+        "content_en": "Morgan Sanson"
+      },
+      {
+        "event_id": 1,
+        "time": 18.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "米特罗格卢",
+        "content_en": "Kostas Mitroglou"
+      },
+      {
+        "event_id": 2,
+        "time": 30.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "科纳特",
+        "content_en": "Moussa Konate"
+      },
+      {
+        "event_id": 3,
+        "time": 55.0,
+        "is_home": 0,
+        "event_type": "red-card",
+        "content": "蒙康杜特",
+        "content_en": "T. Monconduit"
+      },
+      {
+        "event_id": 4,
+        "time": 58.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(博德默)换入(加克佩)换出",
+        "content_en": "Mathieu Bodmer",
+        "player_in": "博德默",
+        "player_out": "加克佩",
+        "player_in_en": "Mathieu Bodmer",
+        "player_out_en": "Serge Gakpe"
+      },
+      {
+        "event_id": 5,
+        "time": 71.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(热尔曼)换入(米特罗格卢)换出",
+        "content_en": "Valère Germain",
+        "player_in": "热尔曼",
+        "player_out": "米特罗格卢",
+        "player_in_en": "Valère Germain",
+        "player_out_en": "Kostas Mitroglou"
+      },
+      {
+        "event_id": 6,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(科尔内特)换入(科纳特)换出",
+        "content_en": "Quentin Cornette",
+        "player_in": "科尔内特",
+        "player_out": "科纳特",
+        "player_in_en": "Quentin Cornette",
+        "player_out_en": "Moussa Konate"
+      },
+      {
+        "event_id": 7,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(赞博)换入(罗兰多·丰塞卡)换出",
+        "content_en": "F.Zambo",
+        "player_in": "赞博",
+        "player_out": "罗兰多·丰塞卡",
+        "player_in_en": "F.Zambo",
+        "player_out_en": "Rolando Da Fonseca"
+      },
+      {
+        "event_id": 8,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(图苏加码)换入(卡库塔)换出",
+        "content_en": "Harisson Manzala Tusumgam",
+        "player_in": "图苏加码",
+        "player_out": "卡库塔",
+        "player_in_en": "Harisson Manzala Tusumgam",
+        "player_out_en": "Gael Kakuta"
+      },
+      {
+        "event_id": 9,
+        "time": 87.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿马维)换入(托万)换出",
+        "content_en": "Jordan Amavi",
+        "player_in": "阿马维",
+        "player_out": "托万",
+        "player_in_en": "Jordan Amavi",
+        "player_out_en": "Florian Thauvin"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "曼丹达",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1456.png",
+            "player_id": "1064-1456",
+            "name_en": "Steve Mandanda"
+          }
+        ],
+        [
+          {
+            "name": "萨尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3606.png",
+            "player_id": "1064-3606",
+            "name_en": "Bouna Sarr"
+          },
+          {
+            "name": "卡马拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42500.png",
+            "player_id": "1064-42500",
+            "name_en": "Boubacar Kamara"
+          },
+          {
+            "name": "罗兰多·丰塞卡",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_26296.png",
+            "player_id": "1064-26296",
+            "name_en": "Rolando Da Fonseca"
+          },
+          {
+            "name": "酒井宏树",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_432.png",
+            "player_id": "1064-432",
+            "name_en": "Hiroki Sakai"
+          }
+        ],
+        [
+          {
+            "name": "马克西姆·洛佩斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28635.png",
+            "player_id": "1064-28635",
+            "name_en": "Maxime Lopez"
+          },
+          {
+            "name": "古斯塔沃",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_45.png",
+            "player_id": "1064-45",
+            "name_en": "Luiz Gustavo Dias"
+          }
+        ],
+        [
+          {
+            "name": "托万",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1443.png",
+            "player_id": "1064-1443",
+            "name_en": "Florian Thauvin"
+          },
+          {
+            "name": "桑松",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1672.png",
+            "player_id": "1064-1672",
+            "name_en": "Morgan Sanson"
+          },
+          {
+            "name": "奥坎波斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3535.png",
+            "player_id": "1064-3535",
+            "name_en": "Lucas Ocampos"
+          }
+        ],
+        [
+          {
+            "name": "米特罗格卢",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2624.png",
+            "player_id": "1064-2624",
+            "name_en": "Kostas Mitroglou"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "古特纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25483.png",
+            "player_id": "1307-25483",
+            "name_en": "Regis Gurtner"
+          }
+        ],
+        [
+          {
+            "name": "希索霍",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1500.png",
+            "player_id": "1307-1500",
+            "name_en": "Issa Cissokho"
+          },
+          {
+            "name": "古阿诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21333.png",
+            "player_id": "1307-21333",
+            "name_en": "Prince-Desir Gouano"
+          },
+          {
+            "name": "阿德农",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32315.png",
+            "player_id": "1307-32315",
+            "name_en": "K. Adénon"
+          },
+          {
+            "name": "迪巴西",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32327.png",
+            "player_id": "1307-32327",
+            "name_en": "B. Dibassy"
+          }
+        ],
+        [
+          {
+            "name": "蒙康杜特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_32321.png",
+            "player_id": "1307-32321",
+            "name_en": "T. Monconduit"
+          },
+          {
+            "name": "遵古",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1307-33918",
+            "name_en": "B. Zungu"
+          }
+        ],
+        [
+          {
+            "name": "加克佩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1354.png",
+            "player_id": "1307-1354",
+            "name_en": "Serge Gakpe"
+          },
+          {
+            "name": "卡库塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4057.png",
+            "player_id": "1307-4057",
+            "name_en": "Gael Kakuta"
+          },
+          {
+            "name": "阿维拉尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4243.png",
+            "player_id": "1307-4243",
+            "name_en": "Danilo Avelar"
+          }
+        ],
+        [
+          {
+            "name": "科纳特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_41554.png",
+            "player_id": "1307-41554",
+            "name_en": "Moussa Konate"
+          }
+        ]
+      ],
+      "host_static_shotnum": 27,
+      "away_static_shotnum": 5,
+      "host_static_shotznum": 11,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 12,
+      "away_static_foul": 12,
+      "host_static_corner": 7,
+      "away_static_corner": 3,
+      "host_static_offside": 2,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 1,
+      "host_static_yellow": 0,
+      "away_static_yellow": 0,
+      "host_static_controltime": "62.00",
+      "away_static_controltime": "38.00",
+      "host_static_attack": 54,
+      "away_static_attack": 48,
+      "host_static_risk_attack": 45,
+      "away_static_risk_attack": 20,
+      "host_static_free_kick": 13,
+      "away_static_free_kick": 13
+    }
+  },
+  {
+    "match_id": "665095",
+    "match_week": "周六",
+    "match_sn": "031",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "908",
+    "away_id": "647",
+    "season_id": 4435,
+    "match_desc": "17/18法甲第38轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "0",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "[17]",
+    "away_rank": "[01]",
+    "season_pre": "法甲",
+    "group_pre": "第38轮",
+    "extra_info": "",
+    "spf_cnt": "[1, 2, 6]",
+    "manual_sort": 0,
+    "match_time": "2018-05-20 03:00:00 +0800",
+    "caiqiu_index": "89",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-20 17:47:11 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180519031"
+    },
+    "league": "17/18法甲第38轮",
+    "season": "17/18法甲第38轮",
+    "bet_match_id": "周六031",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "1,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-20 03:00:24 +0800",
+    "match_half_time": "2018-05-20 04:02:41 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/647.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/908.png",
+    "host_name": "卡昂",
+    "host_name_en": "Caen",
+    "away_name": "巴黎圣日尔曼",
+    "away_name_en": "Paris Saint Germain",
+    "odds": {
+      "spf": [
+        4.55,
+        3.72,
+        1.56
+      ],
+      "rqspf": [
+        1,
+        2.08,
+        3.7,
+        2.65
+      ],
+      "bifen": [
+        16.0,
+        28.0,
+        14.0,
+        70.0,
+        40.0,
+        31.0,
+        200.0,
+        100.0,
+        100.0,
+        600.0,
+        400.0,
+        400.0,
+        100.0,
+        14.0,
+        7.0,
+        11.5,
+        40.0,
+        200.0,
+        8.5,
+        8.5,
+        7.0,
+        12.0,
+        11.5,
+        15.0,
+        23.0,
+        21.0,
+        31.0,
+        50.0,
+        45.0,
+        70.0,
+        23.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.72,
+    "avge_odds": 1.1,
+    "benefit": "竞彩实际回报3.72倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 9.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "Timothy Weah",
+        "content_en": "Timothy Weah"
+      },
+      {
+        "event_id": 1,
+        "time": 34.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "费雷特",
+        "content_en": "Julien Feret"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "卡吉伯特",
+        "content_en": "Frederic Guilbert"
+      },
+      {
+        "event_id": 3,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(阿德利)换入(恩昆库)换出",
+        "content_en": "",
+        "player_in": "阿德利",
+        "player_out": "恩昆库",
+        "player_in_en": "",
+        "player_out_en": "Christopher Nkunku"
+      },
+      {
+        "event_id": 4,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Kevin Rimane)换入(马基尼奥斯)换出",
+        "content_en": "Marcos Aoas Correa",
+        "player_in": "Kevin Rimane",
+        "player_out": "马基尼奥斯"
+      },
+      {
+        "event_id": 5,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "德米古特",
+        "content_en": "Jessy Deminguet"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "桑巴",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1445.png",
+            "player_id": "908-1445",
+            "name_en": "Brice Samba"
+          }
+        ],
+        [
+          {
+            "name": "热纳瓦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1729.png",
+            "player_id": "908-1729",
+            "name_en": "Romain Genevois"
+          },
+          {
+            "name": "达席尔瓦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3661.png",
+            "player_id": "908-3661",
+            "name_en": "Damien Da Silva"
+          },
+          {
+            "name": "吉库",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21130.png",
+            "player_id": "908-21130",
+            "name_en": "Alexander Djiku"
+          },
+          {
+            "name": "姆本圭",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_44278.png",
+            "player_id": "908-44278",
+            "name_en": "Adama Mbengue"
+          }
+        ],
+        [
+          {
+            "name": "费雷特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1589.png",
+            "player_id": "908-1589",
+            "name_en": "Julien Feret"
+          },
+          {
+            "name": "罗德林",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1369.png",
+            "player_id": "908-1369",
+            "name_en": "Ronny Rodelin"
+          },
+          {
+            "name": "本纳瑟尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28732.png",
+            "player_id": "908-28732",
+            "name_en": "Youssef Ait Bennasser"
+          }
+        ],
+        [
+          {
+            "name": "卡吉伯特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_23955.png",
+            "player_id": "908-23955",
+            "name_en": "Frederic Guilbert"
+          },
+          {
+            "name": "桑蒂尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31084.png",
+            "player_id": "908-31084",
+            "name_en": "Ivan Santini"
+          },
+          {
+            "name": "德米古特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "908-48430",
+            "name_en": "Jessy Deminguet"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "阿雷奥拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1850.png",
+            "player_id": "647-1850",
+            "name_en": "Alphonse Areola"
+          }
+        ],
+        [
+          {
+            "name": "穆尼耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17307.png",
+            "player_id": "647-17307",
+            "name_en": "Thomas Meunier"
+          },
+          {
+            "name": "马基尼奥斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_99.png",
+            "player_id": "647-99",
+            "name_en": "Marcos Aoas Correa"
+          },
+          {
+            "name": "吉姆佩贝",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_22841.png",
+            "player_id": "647-22841",
+            "name_en": "Presnel Kimpembe"
+          },
+          {
+            "name": "尤里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5078.png",
+            "player_id": "647-5078",
+            "name_en": "Yuri"
+          }
+        ],
+        [
+          {
+            "name": "迪亚拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "647-8276",
+            "name_en": "Lassana Diarra"
+          },
+          {
+            "name": "莫塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1312.png",
+            "player_id": "647-1312",
+            "name_en": "Thiago Motta"
+          },
+          {
+            "name": "拉比奥特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1322.png",
+            "player_id": "647-1322",
+            "name_en": "Adrien Rabiot"
+          }
+        ],
+        [
+          {
+            "name": "恩昆库",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28623.png",
+            "player_id": "647-28623",
+            "name_en": "Christopher Nkunku"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "帕斯托雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1324.png",
+            "player_id": "647-1324",
+            "name_en": "Javier Pastore"
+          }
+        ]
+      ],
+      "host_static_shotnum": 11,
+      "away_static_shotnum": 7,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 15,
+      "away_static_foul": 18,
+      "host_static_corner": 2,
+      "away_static_corner": 3,
+      "host_static_offside": 1,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 1,
+      "host_static_controltime": "25.00",
+      "away_static_controltime": "75.00",
+      "host_static_attack": 45,
+      "away_static_attack": 56,
+      "host_static_risk_attack": 30,
+      "away_static_risk_attack": 40,
+      "host_static_free_kick": 18,
+      "away_static_free_kick": 16
+    }
+  },
+  {
+    "match_id": "728410",
+    "match_week": "周三",
+    "match_sn": "012",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "560",
+    "away_id": "1233",
+    "season_id": 4435,
+    "match_desc": "17/18法甲附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "3",
+    "host_half_score": "0",
+    "away_half_score": "1",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "法甲",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[4, 1, 12]",
+    "manual_sort": 0,
+    "match_time": "2018-05-24 02:45:00 +0800",
+    "caiqiu_index": "71",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-24 19:53:47 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180523011"
+    },
+    "league": "17/18法甲附加赛",
+    "season": "17/18法甲附加赛",
+    "bet_match_id": "周三012",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-24 02:45:06 +0800",
+    "match_half_time": "2018-05-24 03:51:50 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/560.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1233.png",
+    "host_name": "阿雅克肖",
+    "host_name_en": "Ajaccio",
+    "away_name": "图卢兹",
+    "away_name_en": "Toulouse",
+    "odds": {
+      "spf": [
+        3.45,
+        2.95,
+        2.0
+      ],
+      "rqspf": [
+        1,
+        4.28,
+        3.45,
+        1.65
+      ],
+      "bifen": [
+        7.5,
+        15.0,
+        10.5,
+        34.0,
+        30.0,
+        40.0,
+        90.0,
+        90.0,
+        200.0,
+        275.0,
+        275.0,
+        275.0,
+        175.0,
+        6.75,
+        5.3,
+        15.0,
+        70.0,
+        400.0,
+        5.5,
+        5.5,
+        8.0,
+        23.0,
+        20.0,
+        31.0,
+        60.0,
+        60.0,
+        100.0,
+        200.0,
+        200.0,
+        250.0,
+        100.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.0,
+    "avge_odds": 2.0,
+    "benefit": "竞彩实际回报2.00倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "卡瓦利",
+        "content_en": "Johann Cavalli"
+      },
+      {
+        "event_id": 1,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "马林",
+        "content_en": "Anthony Marin"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "格拉德尔",
+        "content_en": "Max Gradel"
+      },
+      {
+        "event_id": 3,
+        "time": 46.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(R. Mandanda)换入(J. Leca)换出",
+        "content_en": "(R. Mandanda)换入(J. Leca)换出",
+        "player_in": "R. Mandanda",
+        "player_out": "J. Leca"
+      },
+      {
+        "event_id": 4,
+        "time": 51.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "尤利安",
+        "content_en": "Christopher Jullien"
+      },
+      {
+        "event_id": 5,
+        "time": 59.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(蒂鲍尔特)换入(基姆贝特)换出",
+        "content_en": "Thibault Vialla",
+        "player_in": "蒂鲍尔特",
+        "player_out": "基姆贝特",
+        "player_in_en": "Thibault Vialla",
+        "player_out_en": "Ghislain Gimbert"
+      },
+      {
+        "event_id": 6,
+        "time": 64.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "勒尤尼",
+        "content_en": "Kévin Lejeune"
+      },
+      {
+        "event_id": 7,
+        "time": 65.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "萨诺戈",
+        "content_en": "Yaya Sanogo"
+      },
+      {
+        "event_id": 8,
+        "time": 66.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(托伊沃宁)换入(杜马斯)换出",
+        "content_en": "Ola Toivonen",
+        "player_in": "托伊沃宁",
+        "player_out": "杜马斯",
+        "player_in_en": "Ola Toivonen",
+        "player_out_en": "Jakup Jimmy Durmaz"
+      },
+      {
+        "event_id": 9,
+        "time": 69.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(卡齐姆·拉齐)换入(卡瓦利)换出",
+        "content_en": "Qazim Laci",
+        "player_in": "卡齐姆·拉齐",
+        "player_out": "卡瓦利",
+        "player_in_en": "Qazim Laci",
+        "player_out_en": "Johann Cavalli"
+      },
+      {
+        "event_id": 10,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "卡齐姆·拉齐",
+        "content_en": "Qazim Laci"
+      },
+      {
+        "event_id": 11,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(姆贝勒)换入(索马利亚)换出",
+        "content_en": "Firmin Ndombe Mubele",
+        "player_in": "姆贝勒",
+        "player_out": "索马利亚",
+        "player_in_en": "Firmin Ndombe Mubele",
+        "player_out_en": "Wergiton do Rosário Calmo"
+      },
+      {
+        "event_id": 12,
+        "time": 78.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(N. Mubele)换入(Somália)换出",
+        "content_en": "(N. Mubele)换入(Somália)换出",
+        "player_in": "N. Mubele",
+        "player_out": "Somália"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(比林)换入(萨诺戈)换出",
+        "content_en": "Alexis Blin",
+        "player_in": "比林",
+        "player_out": "萨诺戈",
+        "player_in_en": "Alexis Blin",
+        "player_out_en": "Yaya Sanogo"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "莱卡",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1621.png",
+            "player_id": "560-1621",
+            "name_en": "Jean-Louis Leca"
+          }
+        ],
+        [
+          {
+            "name": "杰罗姆·赫尔加鲁特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-28528",
+            "name_en": "Jerome Hergault"
+          },
+          {
+            "name": "马林",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-25523",
+            "name_en": "Anthony Marin"
+          },
+          {
+            "name": "阿维尼尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2092.png",
+            "player_id": "560-2092",
+            "name_en": "Cedric Avinel"
+          },
+          {
+            "name": "勒尤尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1830.png",
+            "player_id": "560-1830",
+            "name_en": "Kévin Lejeune"
+          }
+        ],
+        [
+          {
+            "name": "马蒂·卡马拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-47307",
+            "name_en": "Mohamed Mady Camara"
+          },
+          {
+            "name": "鲍伊-凯恩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2143.png",
+            "player_id": "560-2143",
+            "name_en": "Yann Boe-Kane"
+          }
+        ],
+        [
+          {
+            "name": "马佐",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1355.png",
+            "player_id": "560-1355",
+            "name_en": "Ouwo Maazou"
+          },
+          {
+            "name": "卡瓦利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1799.png",
+            "player_id": "560-1799",
+            "name_en": "Johann Cavalli"
+          },
+          {
+            "name": "努里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2121.png",
+            "player_id": "560-2121",
+            "name_en": "Riad Nouri"
+          }
+        ],
+        [
+          {
+            "name": "基姆贝特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-32394",
+            "name_en": "Ghislain Gimbert"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "拉夫特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30199.png",
+            "player_id": "1233-30199",
+            "name_en": "Alban Lafont"
+          }
+        ],
+        [
+          {
+            "name": "雅戈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1550.png",
+            "player_id": "1233-1550",
+            "name_en": "Steeve Yago"
+          },
+          {
+            "name": "迪奥普",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30198.png",
+            "player_id": "1233-30198",
+            "name_en": "Issa Diop"
+          },
+          {
+            "name": "尤利安",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_548.png",
+            "player_id": "1233-548",
+            "name_en": "Christopher Jullien"
+          },
+          {
+            "name": "穆班杰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1558.png",
+            "player_id": "1233-1558",
+            "name_en": "Franois Moubandje"
+          }
+        ],
+        [
+          {
+            "name": "索马利亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27716.png",
+            "player_id": "1233-27716",
+            "name_en": "Wergiton do Rosário Calmo"
+          },
+          {
+            "name": "桑加尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31328.png",
+            "player_id": "1233-31328",
+            "name_en": "Ibrahima Sangare"
+          },
+          {
+            "name": "因布拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1451.png",
+            "player_id": "1233-1451",
+            "name_en": "Giannelli Imbula"
+          }
+        ],
+        [
+          {
+            "name": "杜马斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_8825.png",
+            "player_id": "1233-8825",
+            "name_en": "Jakup Jimmy Durmaz"
+          },
+          {
+            "name": "萨诺戈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_15.png",
+            "player_id": "1233-15",
+            "name_en": "Yaya Sanogo"
+          },
+          {
+            "name": "格拉德尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1386.png",
+            "player_id": "1233-1386",
+            "name_en": "Max Gradel"
+          }
+        ]
+      ],
+      "host_static_shotnum": 4,
+      "away_static_shotnum": 12,
+      "host_static_shotznum": 1,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 18,
+      "away_static_foul": 13,
+      "host_static_corner": 0,
+      "away_static_corner": 2,
+      "host_static_offside": 1,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 0,
+      "host_static_controltime": "45.00",
+      "away_static_controltime": "55.00",
+      "host_static_attack": 46,
+      "away_static_attack": 54,
+      "host_static_risk_attack": 22,
+      "away_static_risk_attack": 36,
+      "host_static_free_kick": 13,
+      "away_static_free_kick": 19
+    }
+  },
+  {
+    "match_id": "728411",
+    "match_week": "周日",
+    "match_sn": "024",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1233",
+    "away_id": "560",
+    "season_id": 4435,
+    "match_desc": "17/18法甲附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 0,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "法甲",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[19, 4, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 03:00:00 +0800",
+    "caiqiu_index": "83",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527024"
+    },
+    "league": "17/18法甲附加赛",
+    "season": "17/18法甲附加赛",
+    "bet_match_id": "周日024",
+    "season_pre_en": "Ligue 1",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 03:02:17 +0800",
+    "match_half_time": "2018-05-28 04:02:40 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 31,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/560.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1233.png",
+    "host_name": "图卢兹",
+    "host_name_en": "Toulouse",
+    "away_name": "阿雅克肖",
+    "away_name_en": "Ajaccio",
+    "odds": {
+      "spf": [
+        1.59,
+        3.52,
+        4.61
+      ],
+      "rqspf": [
+        -1,
+        2.82,
+        3.35,
+        2.1
+      ],
+      "bifen": [
+        6.2,
+        6.7,
+        7.0,
+        10.5,
+        11.0,
+        23.0,
+        21.0,
+        23.0,
+        50.0,
+        50.0,
+        60.0,
+        100.0,
+        40.0,
+        10.5,
+        6.75,
+        15.0,
+        60.0,
+        400.0,
+        13.0,
+        13.0,
+        14.0,
+        80.0,
+        50.0,
+        50.0,
+        250.0,
+        150.0,
+        200.0,
+        800.0,
+        600.0,
+        600.0,
+        200.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.59,
+    "avge_odds": 1.59,
+    "benefit": "竞彩实际回报1.59倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 43.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "蒂鲍尔特",
+        "content_en": "Thibault Vialla"
+      },
+      {
+        "event_id": 1,
+        "time": 54.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(特莫尼)换入(蒂鲍尔特)换出",
+        "content_en": "Matteo Tramoni",
+        "player_in": "特莫尼",
+        "player_out": "蒂鲍尔特",
+        "player_in_en": "Matteo Tramoni",
+        "player_out_en": "Thibault Vialla"
+      },
+      {
+        "event_id": 2,
+        "time": 56.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(杜马斯)换入(托伊沃宁)换出",
+        "content_en": "Jakup Jimmy Durmaz",
+        "player_in": "杜马斯",
+        "player_out": "托伊沃宁",
+        "player_in_en": "Jakup Jimmy Durmaz",
+        "player_out_en": "Ola Toivonen"
+      },
+      {
+        "event_id": 3,
+        "time": 60.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(卡瓦利)换入(卡齐姆·拉齐)换出",
+        "content_en": "Johann Cavalli",
+        "player_in": "卡瓦利",
+        "player_out": "卡齐姆·拉齐",
+        "player_in_en": "Johann Cavalli",
+        "player_out_en": "Qazim Laci"
+      },
+      {
+        "event_id": 4,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(比林)换入(因布拉)换出",
+        "content_en": "Alexis Blin",
+        "player_in": "比林",
+        "player_out": "因布拉",
+        "player_in_en": "Alexis Blin",
+        "player_out_en": "Giannelli Imbula"
+      },
+      {
+        "event_id": 5,
+        "time": 79.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Leverton Pierre)换入(马佐)换出",
+        "content_en": "Ouwo Maazou",
+        "player_in": "Leverton Pierre",
+        "player_out": "马佐"
+      },
+      {
+        "event_id": 6,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "鲍伊-凯恩",
+        "content_en": "Yann Boe-Kane"
+      },
+      {
+        "event_id": 7,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(科朗坦)换入(索马利亚)换出",
+        "content_en": "Corentin Jean",
+        "player_in": "科朗坦",
+        "player_out": "索马利亚",
+        "player_in_en": "Corentin Jean",
+        "player_out_en": "Wergiton do Rosário Calmo"
+      },
+      {
+        "event_id": 8,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "杜马斯",
+        "content_en": "Jakup Jimmy Durmaz"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-1-4-1",
+      "away_formation": "4-4-1-1",
+      "host_players": [
+        [
+          {
+            "name": "拉夫特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30199.png",
+            "player_id": "1233-30199",
+            "name_en": "Alban Lafont"
+          }
+        ],
+        [
+          {
+            "name": "阿杜",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31326.png",
+            "player_id": "1233-31326",
+            "name_en": "Kelvin Amian Adou"
+          },
+          {
+            "name": "迪奥普",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30198.png",
+            "player_id": "1233-30198",
+            "name_en": "Issa Diop"
+          },
+          {
+            "name": "尤利安",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_548.png",
+            "player_id": "1233-548",
+            "name_en": "Christopher Jullien"
+          },
+          {
+            "name": "穆班杰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1558.png",
+            "player_id": "1233-1558",
+            "name_en": "Franois Moubandje"
+          }
+        ],
+        [
+          {
+            "name": "桑加尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31328.png",
+            "player_id": "1233-31328",
+            "name_en": "Ibrahima Sangare"
+          }
+        ],
+        [
+          {
+            "name": "索马利亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27716.png",
+            "player_id": "1233-27716",
+            "name_en": "Wergiton do Rosário Calmo"
+          },
+          {
+            "name": "托伊沃宁",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1590.png",
+            "player_id": "1233-1590",
+            "name_en": "Ola Toivonen"
+          },
+          {
+            "name": "因布拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1451.png",
+            "player_id": "1233-1451",
+            "name_en": "Giannelli Imbula"
+          },
+          {
+            "name": "格拉德尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1386.png",
+            "player_id": "1233-1386",
+            "name_en": "Max Gradel"
+          }
+        ],
+        [
+          {
+            "name": "萨诺戈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_15.png",
+            "player_id": "1233-15",
+            "name_en": "Yaya Sanogo"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "里芬·曼丹达",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-28292",
+            "name_en": "Riffi Mandanda"
+          }
+        ],
+        [
+          {
+            "name": "杰罗姆·赫尔加鲁特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-28528",
+            "name_en": "Jerome Hergault"
+          },
+          {
+            "name": "赛纳蒂",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-2216",
+            "name_en": "Joris Sainati"
+          },
+          {
+            "name": "阿维尼尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2092.png",
+            "player_id": "560-2092",
+            "name_en": "Cedric Avinel"
+          },
+          {
+            "name": "卡比特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-32342",
+            "name_en": "Manuel Cabit"
+          }
+        ],
+        [
+          {
+            "name": "马佐",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1355.png",
+            "player_id": "560-1355",
+            "name_en": "Ouwo Maazou"
+          },
+          {
+            "name": "阿卜杜拉耶·凯塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21123.png",
+            "player_id": "560-21123",
+            "name_en": "Abdoulaye Keita"
+          },
+          {
+            "name": "鲍伊-凯恩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2143.png",
+            "player_id": "560-2143",
+            "name_en": "Yann Boe-Kane"
+          },
+          {
+            "name": "蒂鲍尔特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-32345",
+            "name_en": "Thibault Vialla"
+          }
+        ],
+        [
+          {
+            "name": "卡齐姆·拉齐",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "560-29805",
+            "name_en": "Qazim Laci"
+          }
+        ],
+        [
+          {
+            "name": "努里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2121.png",
+            "player_id": "560-2121",
+            "name_en": "Riad Nouri"
+          }
+        ]
+      ],
+      "host_static_shotnum": 13,
+      "away_static_shotnum": 10,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 14,
+      "away_static_foul": 16,
+      "host_static_corner": 4,
+      "away_static_corner": 3,
+      "host_static_offside": 1,
+      "away_static_offside": 5,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 2,
+      "host_static_controltime": "42.00",
+      "away_static_controltime": "58.00",
+      "host_static_attack": 47,
+      "away_static_attack": 43,
+      "host_static_risk_attack": 33,
+      "away_static_risk_attack": 28,
+      "host_static_free_kick": 20,
+      "away_static_free_kick": 15
+    },
+    "match_time_1": "2018-05-28 03:02:29 +0800",
+    "match_time_2": "2018-05-28 04:03:29 +0800",
+    "match_time_3": null
+  }
+]

@@ -1,0 +1,2286 @@
+[
+  {
+    "match_id": "720774",
+    "match_week": "周六",
+    "match_sn": "011",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "6127",
+    "away_id": "2823",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "3",
+    "host_half_score": "0",
+    "away_half_score": "3",
+    "host_rank": "[14]",
+    "away_rank": "[02]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[8, 9, 23]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 00:00:00 +0800",
+    "caiqiu_index": "80",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-27 18:33:49 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180526011"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周六011",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "1,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 00:00:57 +0800",
+    "match_half_time": "2018-05-27 01:03:11 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/2823.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/6127.png",
+    "host_name": "基约塔",
+    "host_name_en": "San Luis Quillota",
+    "away_name": "康塞普西翁大学",
+    "away_name_en": "U.Concepcion",
+    "odds": {
+      "spf": [
+        2.65,
+        3.15,
+        2.3
+      ],
+      "rqspf": [
+        1,
+        5.1,
+        3.95,
+        1.47
+      ],
+      "bifen": [
+        8.0,
+        12.5,
+        8.5,
+        28.0,
+        21.0,
+        28.0,
+        70.0,
+        60.0,
+        80.0,
+        250.0,
+        200.0,
+        250.0,
+        80.0,
+        9.5,
+        6.2,
+        13.0,
+        60.0,
+        300.0,
+        7.5,
+        7.5,
+        7.5,
+        22.0,
+        19.0,
+        26.0,
+        60.0,
+        50.0,
+        70.0,
+        150.0,
+        150.0,
+        250.0,
+        80.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.15,
+    "avge_odds": 1.33,
+    "benefit": "竞彩实际回报2.30倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 13.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "W. Ponce",
+        "content_en": "W. Ponce"
+      },
+      {
+        "event_id": 1,
+        "time": 25.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "H. Droguett",
+        "content_en": "H. Droguett"
+      },
+      {
+        "event_id": 2,
+        "time": 25.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "米里维路",
+        "content_en": "米里维路"
+      },
+      {
+        "event_id": 3,
+        "time": 36.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "J. Meneses",
+        "content_en": "J. Meneses"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "B. Sagredo",
+        "content_en": "B. Sagredo"
+      },
+      {
+        "event_id": 5,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "J. Benítez",
+        "content_en": "J. Benítez"
+      },
+      {
+        "event_id": 9,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "B. Leal",
+        "content_en": "B. Leal"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": "4-5-1",
+      "host_players": null,
+      "away_players": [
+        [
+          {
+            "name": "穆尼奥斯",
+            "player_id": "2823-33266",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Cristian Muoz"
+          }
+        ],
+        [
+          {
+            "name": "富恩特",
+            "player_id": "2823-33283",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ronald de La Fuente"
+          },
+          {
+            "name": "帕切科",
+            "player_id": "2823-33280",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Guillermo Pacheco"
+          },
+          {
+            "name": "马丁内兹",
+            "player_id": "2823-33065",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Hans Martinez"
+          },
+          {
+            "name": "古斯塔沃.曼西亚",
+            "player_id": "2823-38798",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Gustavo Ramon Mencia Aval"
+          }
+        ],
+        [
+          {
+            "name": "梅内塞斯",
+            "player_id": "2823-33290",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jean David Meneses Villar"
+          },
+          {
+            "name": "贝尼特斯",
+            "player_id": "2823-33284",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jonathan Benitez"
+          },
+          {
+            "name": "甘马高",
+            "player_id": "2823-33276",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Alejandro Maximiliano Cam"
+          },
+          {
+            "name": "马里克斯",
+            "player_id": "2823-33265",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Fernando Alejandro Manriq"
+          },
+          {
+            "name": "德罗格特",
+            "player_id": "2823-14090",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Hugo Droguett"
+          }
+        ],
+        [
+          {
+            "name": "维特·彭斯",
+            "player_id": "2823-33515",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Walter Benjamin Ponce Gal"
+          }
+        ]
+      ],
+      "host_static_shotnum": 8,
+      "away_static_shotnum": 14,
+      "host_static_shotznum": 3,
+      "away_static_shotznum": 7,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 19,
+      "away_static_foul": 14,
+      "host_static_corner": 6,
+      "away_static_corner": 2,
+      "host_static_offside": 0,
+      "away_static_offside": 5,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 1,
+      "host_static_controltime": "48.00",
+      "away_static_controltime": "52.00",
+      "host_static_attack": 93,
+      "away_static_attack": 82,
+      "host_static_risk_attack": 56,
+      "away_static_risk_attack": 45,
+      "host_static_free_kick": 19,
+      "away_static_free_kick": 19
+    }
+  },
+  {
+    "match_id": "720773",
+    "match_week": "周六",
+    "match_sn": "013",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1908",
+    "away_id": "1907",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "[09]",
+    "away_rank": "[05]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[13, 5, 5]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 03:00:00 +0800",
+    "caiqiu_index": "78",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-27 18:33:49 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180526013"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周六013",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 03:01:49 +0800",
+    "match_half_time": "2018-05-27 04:06:44 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1907.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1908.png",
+    "host_name": "瓦奇巴托",
+    "host_name_en": "Huachipato",
+    "away_name": "智利大学",
+    "away_name_en": "Universidad de Chile",
+    "odds": {
+      "spf": [
+        2.35,
+        3.2,
+        2.56
+      ],
+      "rqspf": [
+        -1,
+        5.2,
+        4.05,
+        1.45
+      ],
+      "bifen": [
+        8.0,
+        11.0,
+        8.0,
+        23.0,
+        19.0,
+        24.0,
+        60.0,
+        50.0,
+        70.0,
+        200.0,
+        150.0,
+        200.0,
+        70.0,
+        10.0,
+        6.5,
+        12.5,
+        50.0,
+        300.0,
+        8.5,
+        8.5,
+        8.0,
+        25.0,
+        20.0,
+        25.0,
+        60.0,
+        50.0,
+        70.0,
+        200.0,
+        150.0,
+        250.0,
+        80.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.2,
+    "avge_odds": 1.35,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 16.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "C. Sepúlveda",
+        "content_en": "C. Sepúlveda"
+      },
+      {
+        "event_id": 1,
+        "time": 26.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "A. Araos",
+        "content_en": "A. Araos"
+      },
+      {
+        "event_id": 2,
+        "time": 43.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "K. Hidalgo",
+        "content_en": "K. Hidalgo"
+      },
+      {
+        "event_id": 3,
+        "time": 52.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "J. Córdova",
+        "content_en": "J. Córdova"
+      },
+      {
+        "event_id": 4,
+        "time": 52.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "F. Seymour",
+        "content_en": "F. Seymour"
+      },
+      {
+        "event_id": 6,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Parraguez)换入(N. Baeza)换出",
+        "content_en": "(J. Parraguez)换入(N. Baeza)换出",
+        "player_in": "J. Parraguez",
+        "player_out": "N. Baeza"
+      },
+      {
+        "event_id": 7,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "J. Bizama",
+        "content_en": "J. Bizama"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-5-1",
+      "away_formation": "4-5-1",
+      "host_players": [
+        [
+          {
+            "name": "卡洛斯·兰佩",
+            "player_id": "1908-30761",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Carlos Emilio Lampe Porra"
+          }
+        ],
+        [
+          {
+            "name": "古铁雷斯",
+            "player_id": "1908-33416",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Cristian Gutierrez"
+          },
+          {
+            "name": "科尔多巴",
+            "player_id": "1908-45598",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "J. Cordova"
+          },
+          {
+            "name": "伊达尔戈",
+            "player_id": "1908-33236",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Kevin Hidalgo Silva"
+          },
+          {
+            "name": "巴扎马",
+            "player_id": "1908-33243",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jose Bizama"
+          }
+        ],
+        [
+          {
+            "name": "塞普尔韦达",
+            "player_id": "1908-33224",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Claudio Elias Sepulveda C"
+          },
+          {
+            "name": "拜萨",
+            "player_id": "1908-43350",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "N. Baeza"
+          },
+          {
+            "name": "伯杜戈",
+            "player_id": "1908-45593",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "J. Verdugo"
+          },
+          {
+            "name": "马丁内兹",
+            "player_id": "1908-33244",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jimmy Martinez"
+          },
+          {
+            "name": "巴伦苏埃拉",
+            "player_id": "1908-33222",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Cesar Valenzuela Martinez"
+          }
+        ],
+        [
+          {
+            "name": "加布里埃尔·托雷斯",
+            "player_id": "1908-13856",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Gabriel Torres"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "费尔南多·德保尔",
+            "player_id": "1907-34046",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Fernando Carlos De Paul L"
+          }
+        ],
+        [
+          {
+            "name": "爱彻利维亚",
+            "player_id": "1907-34002",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Rodrigo Eduardo Echeverri"
+          },
+          {
+            "name": "拉斐尔·瓦兹",
+            "player_id": "1907-27564",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Rafael Vaz dos Santos"
+          },
+          {
+            "name": "简·博塞茹尔",
+            "player_id": "1907-2762",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jean Beausejour"
+          },
+          {
+            "name": "哈拉",
+            "player_id": "1907-2874",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Gonzalo Jara"
+          }
+        ],
+        [
+          {
+            "name": "耶科·雷瓦",
+            "player_id": "1907-34056",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Yerko Bastian Leiva Lazo"
+          },
+          {
+            "name": "索特尔多",
+            "player_id": "1907-43351",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Y. Soteldo"
+          },
+          {
+            "name": "卡路卡",
+            "player_id": "1907-34021",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Rafael Antonio Caroca Cor"
+          },
+          {
+            "name": "阿劳斯",
+            "player_id": "1907-33040",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Angelo Araos"
+          },
+          {
+            "name": "塞莫尔",
+            "player_id": "1907-4688",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Felipe Seymour"
+          }
+        ],
+        [
+          {
+            "name": "伊萨克·迪亚兹",
+            "player_id": "1907-26812",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Isaac Alejandro Diaz Lobo"
+          }
+        ]
+      ],
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 16,
+      "host_static_shotznum": 4,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 12,
+      "away_static_foul": 15,
+      "host_static_corner": 4,
+      "away_static_corner": 6,
+      "host_static_offside": 3,
+      "away_static_offside": 4,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 1,
+      "host_static_controltime": "55.00",
+      "away_static_controltime": "45.00",
+      "host_static_attack": 72,
+      "away_static_attack": 88,
+      "host_static_risk_attack": 40,
+      "away_static_risk_attack": 45,
+      "host_static_free_kick": 19,
+      "away_static_free_kick": 15
+    }
+  },
+  {
+    "match_id": "720778",
+    "match_week": "周六",
+    "match_sn": "015",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "3352",
+    "away_id": "5715",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "2",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "1",
+    "host_rank": "[08]",
+    "away_rank": "[12]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[21, 13, 13]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 05:30:00 +0800",
+    "caiqiu_index": "72",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-27 18:33:49 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180526015"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周六015",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 05:30:44 +0800",
+    "match_half_time": "2018-05-27 06:34:02 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/3352.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/5715.png",
+    "host_name": "奥伊金斯",
+    "host_name_en": "O Higgins",
+    "away_name": "伊基克体育",
+    "away_name_en": "Deportes Iquique",
+    "odds": {
+      "spf": [
+        1.94,
+        3.45,
+        3.1
+      ],
+      "rqspf": [
+        -1,
+        3.9,
+        3.65,
+        1.67
+      ],
+      "bifen": [
+        8.0,
+        9.5,
+        7.0,
+        18.0,
+        14.0,
+        20.0,
+        40.0,
+        30.0,
+        50.0,
+        100.0,
+        80.0,
+        120.0,
+        40.0,
+        12.5,
+        6.8,
+        13.0,
+        40.0,
+        250.0,
+        10.5,
+        10.5,
+        9.5,
+        35.0,
+        23.0,
+        25.0,
+        80.0,
+        60.0,
+        70.0,
+        300.0,
+        200.0,
+        250.0,
+        80.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.45,
+    "avge_odds": 1.24,
+    "benefit": "竞彩实际回报1.94倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "L. Espinoza",
+        "content_en": "L. Espinoza"
+      },
+      {
+        "event_id": 1,
+        "time": 50.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(H. Lópes)换入(M. Blázquez)换出",
+        "content_en": "(H. Lópes)换入(M. Blázquez)换出",
+        "player_in": "H. Lópes",
+        "player_out": "M. Blázquez"
+      },
+      {
+        "event_id": 2,
+        "time": 65.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "J. Mio",
+        "content_en": "J. Mio"
+      },
+      {
+        "event_id": 3,
+        "time": 66.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "A. Acevedo",
+        "content_en": "A. Acevedo"
+      },
+      {
+        "event_id": 4,
+        "time": 70.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(R. Becerra)换入(L. Espinoza)换出",
+        "content_en": "(R. Becerra)换入(L. Espinoza)换出",
+        "player_in": "R. Becerra",
+        "player_out": "L. Espinoza"
+      },
+      {
+        "event_id": 5,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "N. Oroz",
+        "content_en": "N. Oroz"
+      },
+      {
+        "event_id": 6,
+        "time": 74.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "J. Acosta",
+        "content_en": "J. Acosta"
+      },
+      {
+        "event_id": 7,
+        "time": 80.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(T. Alarcón)换入(R. Fernández)换出",
+        "content_en": "(T. Alarcón)换入(R. Fernández)换出",
+        "player_in": "T. Alarcón",
+        "player_out": "R. Fernández"
+      },
+      {
+        "event_id": 8,
+        "time": 81.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(P. Calandria)换入(N. Mazzola)换出",
+        "content_en": "(P. Calandria)换入(N. Mazzola)换出",
+        "player_in": "P. Calandria",
+        "player_out": "N. Mazzola"
+      },
+      {
+        "event_id": 9,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(J. Fuentes)换入(A. Moreno)换出",
+        "content_en": "(J. Fuentes)换入(A. Moreno)换出",
+        "player_in": "J. Fuentes",
+        "player_out": "A. Moreno"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "3-6-1",
+      "away_formation": "4-5-1",
+      "host_players": [
+        [
+          {
+            "name": "米格尔·平托",
+            "player_id": "3352-29384",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Miguel Angel Pinto Jerez"
+          }
+        ],
+        [
+          {
+            "name": "富恩特斯",
+            "player_id": "3352-33181",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Juan Eduardo Fuentes"
+          },
+          {
+            "name": "奥索里奥",
+            "player_id": "3352-33192",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Raul Osorio"
+          },
+          {
+            "name": "阿塞维多",
+            "player_id": "3352-33104",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Albert Acevedo"
+          }
+        ],
+        [
+          {
+            "name": "胡安·费尔南德斯",
+            "player_id": "3352-33394",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Juan Ramon Fernandez"
+          },
+          {
+            "name": "切雷切达",
+            "player_id": "3352-12569",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Roberto Cereceda"
+          },
+          {
+            "name": "马奎斯",
+            "player_id": "3352-33111",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Alejandro Samuel Marquez"
+          },
+          {
+            "name": "乔尔·阿科斯塔",
+            "player_id": "3352-27801",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Joel Acosta"
+          },
+          {
+            "name": "奥罗兹",
+            "player_id": "3352-22511",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Nicolas Oroz"
+          },
+          {
+            "name": "维拉",
+            "player_id": "3352-28250",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Gabriel Vera"
+          }
+        ],
+        [
+          {
+            "name": "马佐拉",
+            "player_id": "3352-28020",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Nicolas Mario Mazzola"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "罗德里戈.纳兰霍",
+            "player_id": "5715-34022",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Rodrigo Naranjo"
+          }
+        ],
+        [
+          {
+            "name": "莫雷诺",
+            "player_id": "5715-34034",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Alan Moreno"
+          },
+          {
+            "name": "森特诺",
+            "player_id": "5715-34016",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Mauricio Zenteno Morales"
+          },
+          {
+            "name": "佩拿里罗",
+            "player_id": "5715-33991",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Nicolas Ignacio Penailill"
+          },
+          {
+            "name": "布兰斯克斯",
+            "player_id": "5715-28057",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matias Blásquez"
+          }
+        ],
+        [
+          {
+            "name": "迭戈·托雷斯",
+            "player_id": "5715-34032",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Diego Torres"
+          },
+          {
+            "name": "米诺",
+            "player_id": "5715-33076",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Juan Pablo Mino"
+          },
+          {
+            "name": "尼古拉斯·罗扬",
+            "player_id": "5715-27803",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "N. Royón"
+          },
+          {
+            "name": "卡瓦哈尔",
+            "player_id": "5715-33459",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Esteban Andres Carvajal T"
+          },
+          {
+            "name": "萨利纳斯",
+            "player_id": "5715-45605",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "H. Salinas"
+          }
+        ],
+        [
+          {
+            "name": "埃斯皮诺萨",
+            "player_id": "5715-45606",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "L. Espinoza"
+          }
+        ]
+      ],
+      "host_static_shotnum": 13,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 8,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 9,
+      "away_static_foul": 8,
+      "host_static_corner": 9,
+      "away_static_corner": 4,
+      "host_static_offside": 6,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 1,
+      "host_static_controltime": "47.00",
+      "away_static_controltime": "53.00",
+      "host_static_attack": 53,
+      "away_static_attack": 45,
+      "host_static_risk_attack": 34,
+      "away_static_risk_attack": 32,
+      "host_static_free_kick": 8,
+      "away_static_free_kick": 15
+    }
+  },
+  {
+    "match_id": "720777",
+    "match_week": "周六",
+    "match_sn": "021",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1718",
+    "away_id": "3350",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "0",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "[01]",
+    "away_rank": "[05]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[29, 9, 1]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 08:00:00 +0800",
+    "caiqiu_index": "97",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-27 18:33:49 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180526021"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周六021",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 07:58:56 +0800",
+    "match_half_time": "2018-05-27 09:01:26 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1718.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/3350.png",
+    "host_name": "天主大学",
+    "host_name_en": "Univ. Catolica",
+    "away_name": "安托法加斯塔",
+    "away_name_en": "CSD Antofagasta",
+    "odds": {
+      "spf": [
+        1.51,
+        3.8,
+        4.9
+      ],
+      "rqspf": [
+        -1,
+        2.83,
+        3.22,
+        2.15
+      ],
+      "bifen": [
+        6.5,
+        7.5,
+        7.0,
+        13.0,
+        13.0,
+        22.0,
+        28.0,
+        29.0,
+        50.0,
+        70.0,
+        70.0,
+        120.0,
+        50.0,
+        10.5,
+        6.5,
+        14.0,
+        60.0,
+        400.0,
+        11.0,
+        11.0,
+        11.5,
+        50.0,
+        35.0,
+        35.0,
+        150.0,
+        100.0,
+        120.0,
+        600.0,
+        400.0,
+        400.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.8,
+    "avge_odds": 1.08,
+    "benefit": "竞彩实际回报3.80倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 25.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "M. Lepe",
+        "content_en": "M. Lepe"
+      },
+      {
+        "event_id": 1,
+        "time": 38.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "T. Astaburuaga",
+        "content_en": "T. Astaburuaga"
+      },
+      {
+        "event_id": 2,
+        "time": 54.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(C. Munder)换入(C. Lobos)换出",
+        "content_en": "(C. Munder)换入(C. Lobos)换出",
+        "player_in": "C. Munder",
+        "player_out": "C. Lobos"
+      },
+      {
+        "event_id": 3,
+        "time": 62.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(F. Ciampichetti)换入(R. Contreras)换出",
+        "content_en": "(F. Ciampichetti)换入(R. Contreras)换出",
+        "player_in": "F. Ciampichetti",
+        "player_out": "R. Contreras"
+      },
+      {
+        "event_id": 4,
+        "time": 69.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(P. Magalhaes)换入(L. Valenzuela)换出",
+        "content_en": "(P. Magalhaes)换入(L. Valenzuela)换出",
+        "player_in": "P. Magalhaes",
+        "player_out": "L. Valenzuela"
+      },
+      {
+        "event_id": 5,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(D. Llanos)换入(D. Henríquez)换出",
+        "content_en": "(D. Llanos)换入(D. Henríquez)换出",
+        "player_in": "D. Llanos",
+        "player_out": "D. Henríquez"
+      },
+      {
+        "event_id": 6,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "G. Voboril",
+        "content_en": "G. Voboril"
+      },
+      {
+        "event_id": 7,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "L. Aued",
+        "content_en": "L. Aued"
+      },
+      {
+        "event_id": 8,
+        "time": 85.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(R. González)换入(F. Flores)换出",
+        "content_en": "(R. González)换入(F. Flores)换出",
+        "player_in": "R. González",
+        "player_out": "F. Flores"
+      },
+      {
+        "event_id": 9,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(D. Rojas)换入(R. Rebolledo)换出",
+        "content_en": "(D. Rojas)换入(R. Rebolledo)换出",
+        "player_in": "D. Rojas",
+        "player_out": "R. Rebolledo"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": "4-5-1",
+      "host_players": null,
+      "away_players": [
+        [
+          {
+            "name": "查维尔",
+            "player_id": "3350-32985",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Fernando Javier Hurtado P"
+          }
+        ],
+        [
+          {
+            "name": "罗莫",
+            "player_id": "3350-45554",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "B. Romo"
+          },
+          {
+            "name": "阿斯塔布鲁亚加",
+            "player_id": "3350-43413",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "T. Astaburuaga"
+          },
+          {
+            "name": "科尔德罗",
+            "player_id": "3350-33041",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Salvador Cordero"
+          },
+          {
+            "name": "巴里奥斯",
+            "player_id": "3350-33022",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Augusto Barrios"
+          }
+        ],
+        [
+          {
+            "name": "贝洛",
+            "player_id": "3350-46355",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "E. Bello"
+          },
+          {
+            "name": "里皮",
+            "player_id": "3350-33274",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Michael Lepe Labrana"
+          },
+          {
+            "name": "瓦伦苏埃拉",
+            "player_id": "3350-43373",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "L. Valenzuela"
+          },
+          {
+            "name": "费利佩·弗洛雷斯",
+            "player_id": "3350-29407",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Felipe Ignacio Flores Cha"
+          },
+          {
+            "name": "山杜瓦尔",
+            "player_id": "3350-32986",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Gabriel Eduardo Sandoval"
+          }
+        ],
+        [
+          {
+            "name": "孔特雷拉斯",
+            "player_id": "3350-28021",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Rodrigo Contreras"
+          }
+        ]
+      ],
+      "host_static_shotnum": 8,
+      "away_static_shotnum": 12,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 11,
+      "away_static_foul": 14,
+      "host_static_corner": 5,
+      "away_static_corner": 3,
+      "host_static_offside": 2,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 2,
+      "host_static_controltime": "50.00",
+      "away_static_controltime": "50.00",
+      "host_static_attack": 68,
+      "away_static_attack": 65,
+      "host_static_risk_attack": 36,
+      "away_static_risk_attack": 40,
+      "host_static_free_kick": 15,
+      "away_static_free_kick": 13
+    }
+  },
+  {
+    "match_id": "720779",
+    "match_week": "周日",
+    "match_sn": "022",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "2032",
+    "away_id": "5714",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 2,
+    "away_score": 1,
+    "host_half_score": 2,
+    "away_half_score": 0,
+    "host_rank": "[10]",
+    "away_rank": "[11]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[27, 12, 7]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "85",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527022"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周日022",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:00:49 +0800",
+    "match_half_time": "2018-05-28 01:03:11 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/2032.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/images/team/5714A.png",
+    "host_name": "巴勒斯坦人",
+    "host_name_en": "Palestino",
+    "away_name": "库里科联",
+    "away_name_en": "Curico Unido",
+    "odds": {
+      "spf": [
+        2.41,
+        3.18,
+        2.5
+      ],
+      "rqspf": [
+        -1,
+        5.6,
+        4.05,
+        1.42
+      ],
+      "bifen": [
+        8.0,
+        11.0,
+        8.0,
+        22.0,
+        18.0,
+        23.0,
+        60.0,
+        40.0,
+        60.0,
+        150.0,
+        120.0,
+        200.0,
+        70.0,
+        10.5,
+        6.8,
+        12.0,
+        50.0,
+        250.0,
+        8.5,
+        8.5,
+        8.5,
+        26.0,
+        20.0,
+        24.0,
+        70.0,
+        50.0,
+        70.0,
+        200.0,
+        150.0,
+        250.0,
+        70.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.18,
+    "avge_odds": 1.37,
+    "benefit": "竞彩实际回报2.41倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 17.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "O. Paz Benítez",
+        "content_en": "O. Paz Benítez"
+      },
+      {
+        "event_id": 2,
+        "time": 59.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "C. Espinosa",
+        "content_en": "C. Espinosa"
+      },
+      {
+        "event_id": 6,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "吉列尔莫·索托",
+        "content_en": "吉列尔莫·索托"
+      },
+      {
+        "event_id": 7,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "D. Franco",
+        "content_en": "D. Franco"
+      },
+      {
+        "event_id": 9,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "G. Vargas",
+        "content_en": "G. Vargas"
+      },
+      {
+        "event_id": 10,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "埃斯比诺扎",
+        "content_en": "埃斯比诺扎"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": null,
+      "host_players": null,
+      "away_players": null,
+      "host_static_shotnum": 14,
+      "away_static_shotnum": 16,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 14,
+      "away_static_foul": 8,
+      "host_static_corner": 3,
+      "away_static_corner": 8,
+      "host_static_offside": 2,
+      "away_static_offside": 7,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 2,
+      "host_static_controltime": "52.00",
+      "away_static_controltime": "48.00",
+      "host_static_attack": 47,
+      "away_static_attack": 57,
+      "host_static_risk_attack": 36,
+      "away_static_risk_attack": 31,
+      "host_static_free_kick": 16,
+      "away_static_free_kick": 17
+    },
+    "match_time_1": "2018-05-28 00:01:33 +0800",
+    "match_time_2": "2018-05-28 01:04:29 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "720780",
+    "match_week": "周日",
+    "match_sn": "029",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1904",
+    "away_id": "1909",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 2,
+    "away_score": 2,
+    "host_half_score": 0,
+    "away_half_score": 1,
+    "host_rank": "[16]",
+    "away_rank": "[13]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[17, 7, 15]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 03:00:00 +0800",
+    "caiqiu_index": "82",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527029"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周日029",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 03:02:15 +0800",
+    "match_half_time": "2018-05-28 04:04:27 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1904.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1909.png",
+    "host_name": "埃弗顿VM",
+    "host_name_en": "Everton CD",
+    "away_name": "特木科体育",
+    "away_name_en": "Deportes Temuco",
+    "odds": {
+      "spf": [
+        1.69,
+        3.6,
+        3.85
+      ],
+      "rqspf": [
+        -1,
+        3.2,
+        3.45,
+        1.9
+      ],
+      "bifen": [
+        6.75,
+        8.5,
+        6.5,
+        14.0,
+        13.0,
+        21.0,
+        30.0,
+        30.0,
+        50.0,
+        80.0,
+        70.0,
+        120.0,
+        40.0,
+        10.5,
+        6.5,
+        13.0,
+        50.0,
+        300.0,
+        11.0,
+        11.0,
+        12.0,
+        50.0,
+        30.0,
+        40.0,
+        120.0,
+        100.0,
+        100.0,
+        400.0,
+        250.0,
+        300.0,
+        150.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.85,
+    "avge_odds": 1.17,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 21.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "M. Donoso",
+        "content_en": "M. Donoso"
+      },
+      {
+        "event_id": 1,
+        "time": 50.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "阿卢塞马",
+        "content_en": "阿卢塞马"
+      },
+      {
+        "event_id": 2,
+        "time": 50.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "卢卡斯",
+        "content_en": "卢卡斯"
+      },
+      {
+        "event_id": 4,
+        "time": 52.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "贝尔奴",
+        "content_en": "贝尔奴"
+      },
+      {
+        "event_id": 6,
+        "time": 74.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "奎瓦斯",
+        "content_en": "奎瓦斯"
+      },
+      {
+        "event_id": 7,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "M. Aceval",
+        "content_en": "M. Aceval"
+      },
+      {
+        "event_id": 11,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "阿尔弗雷多",
+        "content_en": "阿尔弗雷多"
+      },
+      {
+        "event_id": 12,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "C. Suarez",
+        "content_en": "C. Suarez"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": null,
+      "host_players": null,
+      "away_players": null,
+      "host_static_shotnum": 21,
+      "away_static_shotnum": 4,
+      "host_static_shotznum": 10,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 12,
+      "away_static_foul": 12,
+      "host_static_corner": 9,
+      "away_static_corner": 4,
+      "host_static_offside": 0,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 2,
+      "host_static_controltime": "53.00",
+      "away_static_controltime": "47.00",
+      "host_static_attack": 85,
+      "away_static_attack": 86,
+      "host_static_risk_attack": 63,
+      "away_static_risk_attack": 38,
+      "host_static_free_kick": 14,
+      "away_static_free_kick": 12
+    },
+    "match_time_1": "2018-05-28 03:03:31 +0800",
+    "match_time_2": "2018-05-28 04:06:29 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "720775",
+    "match_week": "周日",
+    "match_sn": "030",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "2219",
+    "away_id": "1883",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 1,
+    "host_half_score": 1,
+    "away_half_score": 1,
+    "host_rank": "[16]",
+    "away_rank": "[08]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[21, 11, 19]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 05:30:00 +0800",
+    "caiqiu_index": "78",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527030"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周日030",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 05:31:03 +0800",
+    "match_half_time": "2018-05-28 06:34:28 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1883.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/2219.png",
+    "host_name": "奥达科斯意大利人",
+    "host_name_en": "Audax Italiano",
+    "away_name": "西班牙联合",
+    "away_name_en": "Union Espanola",
+    "odds": {
+      "spf": [
+        2.84,
+        3.4,
+        2.07
+      ],
+      "rqspf": [
+        1,
+        1.58,
+        3.85,
+        4.24
+      ],
+      "bifen": [
+        9.5,
+        14.0,
+        9.0,
+        30.0,
+        20.0,
+        23.0,
+        70.0,
+        50.0,
+        60.0,
+        200.0,
+        150.0,
+        200.0,
+        80.0,
+        12.5,
+        6.8,
+        12.0,
+        40.0,
+        250.0,
+        8.0,
+        8.0,
+        7.5,
+        20.0,
+        17.0,
+        21.0,
+        45.0,
+        40.0,
+        60.0,
+        120.0,
+        100.0,
+        150.0,
+        50.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.84,
+    "avge_odds": 1.2,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 14.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "I. Ledesma",
+        "content_en": "I. Ledesma"
+      },
+      {
+        "event_id": 1,
+        "time": 26.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "P. Aránguiz",
+        "content_en": "P. Aránguiz"
+      },
+      {
+        "event_id": 2,
+        "time": 34.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": ". Pizzorno",
+        "content_en": ". Pizzorno"
+      },
+      {
+        "event_id": 3,
+        "time": 36.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "N. Crovetto",
+        "content_en": "N. Crovetto"
+      },
+      {
+        "event_id": 4,
+        "time": 40.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(O. Bosso)换入(B. Carrasco)换出",
+        "content_en": "(O. Bosso)换入(B. Carrasco)换出",
+        "player_in": "O. Bosso",
+        "player_out": "B. Carrasco"
+      },
+      {
+        "event_id": 6,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Leiva)换入(R. Tarifeo)换出",
+        "content_en": "(J. Leiva)换入(R. Tarifeo)换出",
+        "player_in": "J. Leiva",
+        "player_out": "R. Tarifeo"
+      },
+      {
+        "event_id": 7,
+        "time": 59.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "I. Ledesma",
+        "content_en": "I. Ledesma"
+      },
+      {
+        "event_id": 9,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(I. Poblete)换入(S. Jaime)换出",
+        "content_en": "(I. Poblete)换入(S. Jaime)换出",
+        "player_in": "I. Poblete",
+        "player_out": "S. Jaime"
+      },
+      {
+        "event_id": 10,
+        "time": 67.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(S. Díaz)换入(I. Vásquez)换出",
+        "content_en": "(S. Díaz)换入(I. Vásquez)换出",
+        "player_in": "S. Díaz",
+        "player_out": "I. Vásquez"
+      },
+      {
+        "event_id": 11,
+        "time": 79.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "B. Carrasco",
+        "content_en": "B. Carrasco"
+      },
+      {
+        "event_id": 12,
+        "time": 80.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Abrigo)换入(I. Geraldino)换出",
+        "content_en": "(J. Abrigo)换入(I. Geraldino)换出",
+        "player_in": "J. Abrigo",
+        "player_out": "I. Geraldino"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "T·费古尔罗亚",
+        "content_en": "T·费古尔罗亚"
+      },
+      {
+        "event_id": 14,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "T. Figueroa",
+        "content_en": "T. Figueroa"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": null,
+      "host_players": null,
+      "away_players": null,
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 12,
+      "host_static_shotznum": 4,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 12,
+      "away_static_foul": 16,
+      "host_static_corner": 5,
+      "away_static_corner": 4,
+      "host_static_offside": 1,
+      "away_static_offside": 6,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 3,
+      "host_static_controltime": "50.00",
+      "away_static_controltime": "50.00",
+      "host_static_attack": 60,
+      "away_static_attack": 49,
+      "host_static_risk_attack": 39,
+      "away_static_risk_attack": 33,
+      "host_static_free_kick": 22,
+      "away_static_free_kick": 13
+    },
+    "match_time_1": "2018-05-28 05:31:29 +0800",
+    "match_time_2": "2018-05-28 06:35:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "720776",
+    "match_week": "周一",
+    "match_sn": "005",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 0,
+    "match_status_desc": "未开赛",
+    "host_id": "1814",
+    "away_id": "6465",
+    "season_id": 4720,
+    "match_desc": "18智甲第15轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "",
+    "away_score": "",
+    "host_half_score": "",
+    "away_half_score": "",
+    "host_rank": "[06]",
+    "away_rank": "[03]",
+    "season_pre": "智甲",
+    "group_pre": "第15轮",
+    "extra_info": "",
+    "spf_cnt": "[30, 10, 3]",
+    "manual_sort": 0,
+    "match_time": "2018-05-29 08:00:00 +0800",
+    "caiqiu_index": "93",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": null,
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180528005"
+    },
+    "league": "18智甲第15轮",
+    "season": "18智甲第15轮",
+    "bet_match_id": "周一005",
+    "season_pre_en": "Chile Primera Division",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": null,
+    "match_half_time": null,
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Upcoming",
+    "match_status_desc_new": "2018年05月29日 08:00",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1814.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/6465.png",
+    "host_name": "科洛科洛",
+    "host_name_en": "Colo Colo",
+    "away_name": "拉卡莱拉联合",
+    "away_name_en": "Union La Calera",
+    "odds": {
+      "spf": [
+        1.71,
+        3.7,
+        3.65
+      ],
+      "rqspf": [
+        -1,
+        3.2,
+        3.55,
+        1.87
+      ],
+      "bifen": [
+        7.5,
+        8.5,
+        6.5,
+        14.0,
+        13.5,
+        22.0,
+        28.0,
+        26.0,
+        40.0,
+        60.0,
+        60.0,
+        80.0,
+        40.0,
+        13.0,
+        7.0,
+        12.0,
+        50.0,
+        250.0,
+        12.0,
+        12.0,
+        11.0,
+        40.0,
+        27.0,
+        30.0,
+        150.0,
+        100.0,
+        100.0,
+        500.0,
+        300.0,
+        400.0,
+        100.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.7,
+    "avge_odds": 1.17,
+    "benefit": "竞彩最高回报3.70倍",
+    "match_details": [],
+    "match_statis": {
+      "host_formation": "4-2-3-12018-05-25 国民竞技 VS 科洛科",
+      "away_formation": "暂无2018-05-20 拉卡莱 VS 奥伊金斯",
+      "host_players": [
+        [
+          {
+            "name": "奥里昂",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_13156.png",
+            "player_id": "1814-13156",
+            "name_en": "Agustín Orión"
+          }
+        ],
+        [
+          {
+            "name": "冈萨洛·菲耶罗",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-30414",
+            "name_en": "Gonzalo Fierro"
+          },
+          {
+            "name": "萨尔迪维亚",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-13088",
+            "name_en": "Matías Zaldivia"
+          },
+          {
+            "name": "恩沙奥拉迪",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_29566.png",
+            "player_id": "1814-29566",
+            "name_en": "Juan Insaurralde"
+          },
+          {
+            "name": "奥斯卡.奥柏素",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-33565",
+            "name_en": "Oscar Opazo Lara"
+          }
+        ],
+        [
+          {
+            "name": "克劳迪奥·巴埃萨",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-30416",
+            "name_en": "Claudio Baeza"
+          },
+          {
+            "name": "卡尔莫纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4115.png",
+            "player_id": "1814-4115",
+            "name_en": "Carlos Carmona"
+          }
+        ],
+        [
+          {
+            "name": "玛图拉纳",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-34048",
+            "name_en": "Nicolas Alexander Maturan"
+          },
+          {
+            "name": "巴尔迪维亚",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-11070",
+            "name_en": "Jorge Valdivia"
+          },
+          {
+            "name": "哈伊梅·巴尔德斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-3962",
+            "name_en": "Jaime Valdes"
+          }
+        ],
+        [
+          {
+            "name": "埃斯特班·帕雷德斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1814-30410",
+            "name_en": "Esteban Paredes"
+          }
+        ]
+      ],
+      "away_players": null,
+      "host_static_shotnum": 0,
+      "away_static_shotnum": 0,
+      "host_static_shotznum": 0,
+      "away_static_shotznum": 0,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 0,
+      "away_static_foul": 0,
+      "host_static_corner": 0,
+      "away_static_corner": 0,
+      "host_static_offside": 0,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 0,
+      "host_static_controltime": "0.00",
+      "away_static_controltime": "0.00",
+      "host_static_attack": 0,
+      "away_static_attack": 0,
+      "host_static_risk_attack": 0,
+      "away_static_risk_attack": 0,
+      "host_static_free_kick": 0,
+      "away_static_free_kick": 0
+    },
+    "match_time_1": null,
+    "match_time_2": null,
+    "match_time_3": null
+  }
+]

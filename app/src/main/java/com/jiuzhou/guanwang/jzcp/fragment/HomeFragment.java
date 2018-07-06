@@ -1,6 +1,7 @@
 package com.jiuzhou.guanwang.jzcp.fragment;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -16,14 +17,19 @@ import com.jiuzhou.guanwang.jzcp.activity.SeasonDetailActivity;
 import com.jiuzhou.guanwang.jzcp.activity.WebNewsActivity;
 import com.jiuzhou.guanwang.jzcp.adapter.HomeNewsAdapter;
 import com.jiuzhou.guanwang.jzcp.adapter.SeasonAdapter;
+import com.jiuzhou.guanwang.jzcp.bean.BannerBean;
 import com.jiuzhou.guanwang.jzcp.bean.HomeNewsBean;
 import com.jiuzhou.guanwang.jzcp.bean.SeasonBean;
+import com.jiuzhou.guanwang.jzcp.loader.GlideImageLoader;
 import com.jiuzhou.guanwang.jzcp.utils.LocalJsonResolutionUtils;
 import com.jiuzhou.guanwang.jzcp.views.HorizontalListView;
 import com.jiuzhou.guanwang.jzcp.views.NoScrollListView;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
+import com.youth.banner.Banner;
+import com.youth.banner.listener.OnBannerListener;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -36,6 +42,8 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
     private String mParam1;
     private String mParam2;
 
+    @ViewInject(R.id.banner)
+    Banner mBanner;
     @ViewInject(R.id.tv_more)
     TextView tv_more;
     @ViewInject(R.id.listView)
@@ -78,8 +86,35 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         getSeasonsData();
+        setBannerData();
         getNewsData();
         initListener();
+    }
+
+    private void setBannerData() {
+        //得到本地json文本内容
+        String fileName = "banner.json";
+        String foodJson = LocalJsonResolutionUtils.getJson(getActivity(), fileName);
+        final List<BannerBean> bannerList = LocalJsonResolutionUtils.jsonToArrayList(foodJson, BannerBean.class);
+        List<String> images = new ArrayList<>();
+        for(BannerBean bean : bannerList){
+            images.add(""+bean.getPicture());
+        }
+        //设置自动轮播，默认为true
+        mBanner.isAutoPlay(true);
+        //设置轮播时间
+        mBanner.setDelayTime(3000);
+        mBanner.setImages(images)
+                .setImageLoader(new GlideImageLoader())
+                .start();
+        mBanner.setOnBannerListener(new OnBannerListener() {
+            @Override
+            public void OnBannerClick(int i) {
+                Uri uri = Uri.parse(""+bannerList.get(i).getClickHref());
+                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                startActivity(intent);
+            }
+        });
     }
 
     private void getSeasonsData() {

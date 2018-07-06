@@ -1,0 +1,3067 @@
+[
+  {
+    "match_id": "718592",
+    "match_week": "周日",
+    "match_sn": "011",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1584",
+    "away_id": "1571",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 0,
+    "away_score": 0,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "[20]",
+    "away_rank": "[17]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[5, 7, 9]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 22:00:00 +0800",
+    "caiqiu_index": "76",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527011"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日011",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "1,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 22:00:47 +0800",
+    "match_half_time": "2018-05-27 23:03:51 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1571.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1584.png",
+    "host_name": "巴拉纳",
+    "host_name_en": "Parana PR",
+    "away_name": "巴拉纳竞技",
+    "away_name_en": "Atletico Paranaense",
+    "odds": {
+      "spf": [
+        2.47,
+        2.98,
+        2.57
+      ],
+      "rqspf": [
+        1,
+        1.38,
+        4.1,
+        6.25
+      ],
+      "bifen": [
+        6.0,
+        11.0,
+        8.5,
+        27.0,
+        23.0,
+        35.0,
+        80.0,
+        75.0,
+        75.0,
+        150.0,
+        200.0,
+        300.0,
+        150.0,
+        7.0,
+        5.95,
+        15.0,
+        80.0,
+        500.0,
+        6.2,
+        6.2,
+        8.75,
+        28.0,
+        24.0,
+        37.0,
+        90.0,
+        80.0,
+        80.0,
+        200.0,
+        250.0,
+        350.0,
+        175.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 2.98,
+    "avge_odds": 1.38,
+    "benefit": "竞彩实际回报2.98倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 12.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Leandro Vilela Sales Teixeira",
+        "content_en": "Leandro Vilela Sales Teixeira"
+      },
+      {
+        "event_id": 1,
+        "time": 15.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "古莱尔莫·米霍蒙",
+        "content_en": "Guilherme Milhonmem Gusma"
+      },
+      {
+        "event_id": 2,
+        "time": 40.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Ozealison Santos Gomes",
+        "content_en": "Ozealison Santos Gomes"
+      },
+      {
+        "event_id": 3,
+        "time": 44.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "许格勒·多斯",
+        "content_en": "Hueglo dos Santos Neris"
+      },
+      {
+        "event_id": 4,
+        "time": 63.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "马特乌斯·罗塞托",
+        "content_en": "Matheus Rossetto"
+      },
+      {
+        "event_id": 5,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(卡洛斯·埃杜阿多)换入(Leandro Vilela Sales Teixeira)换出",
+        "content_en": "Carlos Eduardo Marques",
+        "player_in": "卡洛斯·埃杜阿多",
+        "player_out": "Leandro Vilela Sales Teixeira"
+      },
+      {
+        "event_id": 6,
+        "time": 80.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(伊塔佩鲁纳)换入(冈萨雷斯)换出",
+        "content_en": "Leo Itaperuna",
+        "player_in": "伊塔佩鲁纳",
+        "player_out": "冈萨雷斯",
+        "player_in_en": "Leo Itaperuna",
+        "player_out_en": "J. González"
+      },
+      {
+        "event_id": 7,
+        "time": 87.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Guilherme Bitencourt da Silva)换入(西尔维奥·儒尼奥尔)换出",
+        "content_en": "Silvio José Cardoso Reis ",
+        "player_in": "Guilherme Bitencourt da Silva",
+        "player_out": "西尔维奥·儒尼奥尔"
+      },
+      {
+        "event_id": 8,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(拉斐尔·维加)换入(马特乌斯·罗塞托)换出",
+        "content_en": "Raphael Cavalcante Veiga",
+        "player_in": "拉斐尔·维加",
+        "player_out": "马特乌斯·罗塞托",
+        "player_in_en": "Raphael Cavalcante Veiga",
+        "player_out_en": "Matheus Rossetto"
+      },
+      {
+        "event_id": 9,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(布鲁诺)换入(卢乔·冈萨雷斯)换出",
+        "content_en": "Bruno",
+        "player_in": "布鲁诺",
+        "player_out": "卢乔·冈萨雷斯",
+        "player_in_en": "Bruno",
+        "player_out_en": "Luis Oscar Gonzalez"
+      },
+      {
+        "event_id": 10,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(拉斐尔·维加)换入(古莱尔莫·米霍蒙)换出",
+        "content_en": "Raphael Cavalcante Veiga",
+        "player_in": "拉斐尔·维加",
+        "player_out": "古莱尔莫·米霍蒙",
+        "player_in_en": "Raphael Cavalcante Veiga",
+        "player_out_en": "Guilherme Milhonmem Gusma"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-1-4-1",
+      "away_formation": "3-4-2-1",
+      "host_players": [
+        [
+          {
+            "name": "蒂亚戈·奥利韦拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1584-30733",
+            "name_en": "Thiago Rodrigues de Olive"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "许格勒·多斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1584-30888",
+            "name_en": "Hueglo dos Santos Neris"
+          },
+          {
+            "name": "克莱伯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10670.png",
+            "player_id": "1584-10670",
+            "name_en": "Cleber"
+          },
+          {
+            "name": "乔利顿·利马",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1584-31009",
+            "name_en": "Joeliton Lima Santos"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "卡洛斯·卡瓦尔霍",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12809.png",
+            "player_id": "1584-12809",
+            "name_en": "Carlos Alberto Carvalho d"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "冈萨雷斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1584-38851",
+            "name_en": "J. González"
+          },
+          {
+            "name": "西尔维奥·儒尼奥尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1584-12460",
+            "name_en": "Silvio José Cardoso Reis "
+          }
+        ],
+        [
+          {
+            "name": "凯奥",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1584-31179",
+            "name_en": "Caio Henrique"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "阿德巴伯尔·多斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10815.png",
+            "player_id": "1571-10815",
+            "name_en": "Aderbar Melo dos Santos N"
+          }
+        ],
+        [
+          {
+            "name": "万德森·桑托斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-30929",
+            "name_en": "Wanderson Santos Pereira"
+          },
+          {
+            "name": "埃莱诺",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-10945",
+            "name_en": "Thiago Heleno Henrique Fe"
+          },
+          {
+            "name": "何塞·席尔瓦",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-33055",
+            "name_en": "Jose Ivaldo Almeida Silva"
+          }
+        ],
+        [
+          {
+            "name": "马特乌斯·罗塞托",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-31002",
+            "name_en": "Matheus Rossetto"
+          },
+          {
+            "name": "卢乔·冈萨雷斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-29745",
+            "name_en": "Luis Oscar Gonzalez"
+          },
+          {
+            "name": "卡马乔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27706.png",
+            "player_id": "1571-27706",
+            "name_en": "Camacho"
+          },
+          {
+            "name": "蒂亚戈.卡雷托",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-27702",
+            "name_en": "Thiago Carleto"
+          }
+        ],
+        [
+          {
+            "name": "梅孔·维尼修斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-27505",
+            "name_en": "Maycon Vinicius Ferreira "
+          },
+          {
+            "name": "古莱尔莫·米霍蒙",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10763.png",
+            "player_id": "1571-10763",
+            "name_en": "Guilherme Milhonmem Gusma"
+          }
+        ],
+        [
+          {
+            "name": "帕布罗·费利佩",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1571-12578",
+            "name_en": "Pablo Felipe Teixeira"
+          }
+        ]
+      ],
+      "host_static_shotnum": 15,
+      "away_static_shotnum": 6,
+      "host_static_shotznum": 2,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 8,
+      "away_static_foul": 14,
+      "host_static_corner": 10,
+      "away_static_corner": 4,
+      "host_static_offside": 1,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 2,
+      "host_static_controltime": "32.00",
+      "away_static_controltime": "68.00",
+      "host_static_attack": 55,
+      "away_static_attack": 59,
+      "host_static_risk_attack": 32,
+      "away_static_risk_attack": 39,
+      "host_static_free_kick": 15,
+      "away_static_free_kick": 9
+    },
+    "match_time_1": "2018-05-27 22:01:29 +0800",
+    "match_time_2": "2018-05-27 23:04:30 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "718587",
+    "match_week": "周日",
+    "match_sn": "025",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "2277",
+    "away_id": "1588",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 3,
+    "away_score": 0,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "[18]",
+    "away_rank": "[10]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[21, 8, 6]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 03:00:00 +0800",
+    "caiqiu_index": "83",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527025"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日025",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 03:00:40 +0800",
+    "match_half_time": "2018-05-28 04:05:57 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1588.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/2277.png",
+    "host_name": "巴伊亚",
+    "host_name_en": "Bahia(BA)",
+    "away_name": "瓦斯科达伽马",
+    "away_name_en": "Vasco da Gama(RJ)",
+    "odds": {
+      "spf": [
+        1.57,
+        3.52,
+        4.8
+      ],
+      "rqspf": [
+        -1,
+        3.06,
+        3.2,
+        2.04
+      ],
+      "bifen": [
+        5.5,
+        6.8,
+        7.25,
+        12.0,
+        14.0,
+        29.0,
+        29.0,
+        35.0,
+        70.0,
+        70.0,
+        80.0,
+        200.0,
+        60.0,
+        8.25,
+        6.1,
+        17.0,
+        80.0,
+        500.0,
+        9.5,
+        9.5,
+        12.5,
+        60.0,
+        40.0,
+        50.0,
+        250.0,
+        150.0,
+        200.0,
+        700.0,
+        600.0,
+        600.0,
+        250.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.52,
+    "avge_odds": 1.09,
+    "benefit": "竞彩实际回报1.57倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 37.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "José Francisco dos Santos Júni",
+        "content_en": "José Francisco dos Santos Júni"
+      },
+      {
+        "event_id": 1,
+        "time": 38.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "德萨巴托",
+        "content_en": "Leandro Desábato"
+      },
+      {
+        "event_id": 2,
+        "time": 40.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "法布里西奥·多斯桑托斯",
+        "content_en": "Fabricio dos Santos Silva"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(保罗·瓦托尔)换入(凯尔文)换出",
+        "content_en": "Paulo Vitor",
+        "player_in": "保罗·瓦托尔",
+        "player_out": "凯尔文",
+        "player_in_en": "Paulo Vitor",
+        "player_out_en": "Kelvin Mateus de Oliveira"
+      },
+      {
+        "event_id": 4,
+        "time": 60.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(奥古斯托)换入(Bruno da Silva Barbosa)换出",
+        "content_en": "Giovanni Augusto",
+        "player_in": "奥古斯托",
+        "player_out": "Bruno da Silva Barbosa"
+      },
+      {
+        "event_id": 5,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(雷吉斯)换入(José Francisco dos Santos Júni)换出",
+        "content_en": "Regis Augusto Salmazzo",
+        "player_in": "雷吉斯",
+        "player_out": "José Francisco dos Santos Júni"
+      },
+      {
+        "event_id": 6,
+        "time": 67.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "皮蒙特尔",
+        "content_en": "José Elber Pimentel da Si"
+      },
+      {
+        "event_id": 7,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Matheus Celestino Moresche Rod)换入(C.蒙特罗)换出",
+        "content_en": "Caio Monteiro",
+        "player_in": "Matheus Celestino Moresche Rod",
+        "player_out": "C.蒙特罗"
+      },
+      {
+        "event_id": 8,
+        "time": 80.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "Ricardo Queiroz de Alencastro ",
+        "content_en": "Ricardo Queiroz de Alencastro "
+      },
+      {
+        "event_id": 9,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "瓦格纳F",
+        "content_en": "Wagner"
+      },
+      {
+        "event_id": 10,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "奥古斯托",
+        "content_en": "Giovanni Augusto"
+      },
+      {
+        "event_id": 12,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(弗拉沃·米达利奥斯)换入(维尼休斯·戈斯)换出",
+        "content_en": "Flavio Medeiros da Silva",
+        "player_in": "弗拉沃·米达利奥斯",
+        "player_out": "维尼休斯·戈斯",
+        "player_in_en": "Flavio Medeiros da Silva",
+        "player_out_en": "Vinicius Goes Barbosa de "
+      },
+      {
+        "event_id": 13,
+        "time": 85.0,
+        "is_home": 0,
+        "event_type": "yellow-card2",
+        "content": "德萨巴托",
+        "content_en": "Leandro Desábato"
+      },
+      {
+        "event_id": 14,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿利奥内)换入(皮蒙特尔)换出",
+        "content_en": "Agustín Allione",
+        "player_in": "阿利奥内",
+        "player_out": "皮蒙特尔",
+        "player_in_en": "Agustín Allione",
+        "player_out_en": "José Elber Pimentel da Si"
+      },
+      {
+        "event_id": 15,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "拉斐尔",
+        "content_en": "Ze Rafael"
+      },
+      {
+        "event_id": 16,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "雷吉斯",
+        "content_en": "Regis Augusto Salmazzo"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "安德森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-42924",
+            "name_en": "Anderso"
+          }
+        ],
+        [
+          {
+            "name": "若奥·佩德罗",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-27500",
+            "name_en": "Joao Pedro Maturano dos S"
+          },
+          {
+            "name": "蒂亚戈·帕格努萨特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12821.png",
+            "player_id": "2277-12821",
+            "name_en": "Tiago Pagnussat"
+          },
+          {
+            "name": "卢卡斯·丰塞卡",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-28285",
+            "name_en": "Lucas Fonseca"
+          },
+          {
+            "name": "梅纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10744.png",
+            "player_id": "2277-10744",
+            "name_en": "Eugenio Mena"
+          }
+        ],
+        [
+          {
+            "name": "格瑞格利",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-33123",
+            "name_en": "Gregore"
+          },
+          {
+            "name": "埃利维顿·维森特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-27525",
+            "name_en": "Elivelton Fabrizio Vicent"
+          }
+        ],
+        [
+          {
+            "name": "皮蒙特尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-10635",
+            "name_en": "José Elber Pimentel da Si"
+          },
+          {
+            "name": "维尼休斯·戈斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-27183",
+            "name_en": "Vinicius Goes Barbosa de "
+          },
+          {
+            "name": "拉斐尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2277-11001",
+            "name_en": "Ze Rafael"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "费尔南多·米盖尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1588-23270",
+            "name_en": "Fernando Miguel Kaufmann"
+          }
+        ],
+        [
+          {
+            "name": "加尔哈多",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11018.png",
+            "player_id": "1588-11018",
+            "name_en": "Rafael Galhardo de Souza"
+          },
+          {
+            "name": "埃拉佐",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10906.png",
+            "player_id": "1588-10906",
+            "name_en": "Frickson Erazo"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "法布里西奥·多斯桑托斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27356.png",
+            "player_id": "1588-27356",
+            "name_en": "Fabricio dos Santos Silva"
+          }
+        ],
+        [
+          {
+            "name": "德萨巴托",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1588-12959",
+            "name_en": "Leandro Desábato"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "凯尔文",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_6809.png",
+            "player_id": "1588-6809",
+            "name_en": "Kelvin Mateus de Oliveira"
+          },
+          {
+            "name": "瓦格纳F",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10695.png",
+            "player_id": "1588-10695",
+            "name_en": "Wagner"
+          },
+          {
+            "name": "亚戈",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1588-42964",
+            "name_en": "Yago Picachu"
+          }
+        ],
+        [
+          {
+            "name": "C.蒙特罗",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1588-42957",
+            "name_en": "Caio Monteiro"
+          }
+        ]
+      ],
+      "host_static_shotnum": 14,
+      "away_static_shotnum": 6,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 20,
+      "away_static_foul": 16,
+      "host_static_corner": 4,
+      "away_static_corner": 2,
+      "host_static_offside": 3,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 1,
+      "host_static_yellow": 1,
+      "away_static_yellow": 5,
+      "host_static_controltime": "51.00",
+      "away_static_controltime": "49.00",
+      "host_static_attack": 55,
+      "away_static_attack": 52,
+      "host_static_risk_attack": 29,
+      "away_static_risk_attack": 26,
+      "host_static_free_kick": 18,
+      "away_static_free_kick": 23
+    },
+    "match_time_1": "2018-05-28 03:01:28 +0800",
+    "match_time_2": "2018-05-28 04:08:30 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "718595",
+    "match_week": "周日",
+    "match_sn": "026",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1582",
+    "away_id": "1572",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 2,
+    "away_score": 1,
+    "host_half_score": 0,
+    "away_half_score": 1,
+    "host_rank": "[11]",
+    "away_rank": "[04]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[29, 8, 9]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 03:00:00 +0800",
+    "caiqiu_index": "83",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527026"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日026",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 03:00:19 +0800",
+    "match_half_time": "2018-05-28 04:02:32 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1572.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1582.png",
+    "host_name": "巴西国际",
+    "host_name_en": "Internacional (RS)",
+    "away_name": "科林蒂安",
+    "away_name_en": "Corinthians Paulista (SP)",
+    "odds": {
+      "spf": [
+        1.79,
+        3.12,
+        4.0
+      ],
+      "rqspf": [
+        -1,
+        3.9,
+        3.25,
+        1.77
+      ],
+      "bifen": [
+        4.7,
+        6.7,
+        7.5,
+        13.0,
+        18.0,
+        40.0,
+        35.0,
+        40.0,
+        100.0,
+        100.0,
+        120.0,
+        300.0,
+        100.0,
+        6.2,
+        6.2,
+        20.0,
+        120.0,
+        700.0,
+        8.0,
+        8.0,
+        13.0,
+        60.0,
+        50.0,
+        60.0,
+        250.0,
+        200.0,
+        250.0,
+        800.0,
+        600.0,
+        800.0,
+        400.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 4.0,
+    "avge_odds": 1.24,
+    "benefit": "竞彩实际回报1.79倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 5.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马特乌斯·维塔尔",
+        "content_en": "Mateus da Silva Vital Ass"
+      },
+      {
+        "event_id": 1,
+        "time": 26.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Iago Amaral Borduchi",
+        "content_en": "Iago Amaral Borduchi"
+      },
+      {
+        "event_id": 2,
+        "time": 61.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(洛佩斯)换入(Iago Amaral Borduchi)换出",
+        "content_en": "Nicolás López",
+        "player_in": "洛佩斯",
+        "player_out": "Iago Amaral Borduchi"
+      },
+      {
+        "event_id": 3,
+        "time": 61.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "E.安德鲁德",
+        "content_en": "E.安德鲁德"
+      },
+      {
+        "event_id": 4,
+        "time": 64.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "莱昂德罗·达米昂",
+        "content_en": "Leandro Damiao da Silva d"
+      },
+      {
+        "event_id": 5,
+        "time": 64.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "莱昂德罗·达米昂",
+        "content_en": "Leandro Damiao da Silva d"
+      },
+      {
+        "event_id": 6,
+        "time": 65.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(杜特拉)换入(维拉马约)换出",
+        "content_en": "Junior Dutra",
+        "player_in": "杜特拉",
+        "player_out": "维拉马约",
+        "player_in_en": "Junior Dutra",
+        "player_out_en": "Angel Rodrigo Romero Vill"
+      },
+      {
+        "event_id": 7,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "巴贝兰",
+        "content_en": "Maycon de Andrade Barbera"
+      },
+      {
+        "event_id": 8,
+        "time": 74.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(罗西)换入(威廉·波特克)换出",
+        "content_en": "Rossi",
+        "player_in": "罗西",
+        "player_out": "威廉·波特克",
+        "player_in_en": "Rossi",
+        "player_out_en": "William De Oliveira Pottk"
+      },
+      {
+        "event_id": 9,
+        "time": 82.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Juan Matheus Alano Nascimento)换入(博格斯)换出",
+        "content_en": "Lucca Borges De Brito",
+        "player_in": "Juan Matheus Alano Nascimento",
+        "player_out": "博格斯"
+      },
+      {
+        "event_id": 10,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(佩德里尼奥)换入(马特乌斯·维塔尔)换出",
+        "content_en": "Pedrinho",
+        "player_in": "佩德里尼奥",
+        "player_out": "马特乌斯·维塔尔",
+        "player_in_en": "Pedrinho",
+        "player_out_en": "Mateus da Silva Vital Ass"
+      },
+      {
+        "event_id": 11,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(库尼亚)换入(贾德森)换出",
+        "content_en": "Marcus Vinicius Vidal Cun",
+        "player_in": "库尼亚",
+        "player_out": "贾德森",
+        "player_in_en": "Marcus Vinicius Vidal Cun",
+        "player_out_en": "Jadson Rodriguez"
+      },
+      {
+        "event_id": 12,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "罗西",
+        "content_en": "Rossi"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "达尼洛·费尔南德斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11112.png",
+            "player_id": "1582-11112",
+            "name_en": "Danilo Fernandes Batista"
+          }
+        ],
+        [
+          {
+            "name": "泽卡洛斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12740.png",
+            "player_id": "1582-12740",
+            "name_en": "Jose Carlos Cracco Neto"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "Rodrigo Moledo",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1582-29019",
+            "name_en": "Rodrigo Moledo"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "埃德尼尔松",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21236.png",
+            "player_id": "1582-21236",
+            "name_en": "Edenilson Andrade dos San"
+          },
+          {
+            "name": "罗德里格·库尼亚",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1582-27095",
+            "name_en": "Rodrigo Dourado Cunha"
+          }
+        ],
+        [
+          {
+            "name": "威廉·波特克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1582-27154",
+            "name_en": "William De Oliveira Pottk"
+          },
+          {
+            "name": "帕特里克·贝泽拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1582-27209",
+            "name_en": "Patrick Bezerra do Nascim"
+          },
+          {
+            "name": "博格斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1582-30940",
+            "name_en": "Lucca Borges De Brito"
+          }
+        ],
+        [
+          {
+            "name": "莱昂德罗·达米昂",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27361.png",
+            "player_id": "1582-27361",
+            "name_en": "Leandro Damiao da Silva d"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "沃尔特·莱昂纳多",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10680.png",
+            "player_id": "1572-10680",
+            "name_en": "Walter Leandro Capeloza A"
+          }
+        ],
+        [
+          {
+            "name": "曼图安",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42995.png",
+            "player_id": "1572-42995",
+            "name_en": "Guilherme Mantua"
+          },
+          {
+            "name": "巴尔布埃纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30398.png",
+            "player_id": "1572-30398",
+            "name_en": "Fabián Balbuena"
+          },
+          {
+            "name": "亨里克·阿德里亚诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_34.png",
+            "player_id": "1572-34",
+            "name_en": "Henrique Adriano Buss"
+          },
+          {
+            "name": "斯德莱·费雷拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1572-29772",
+            "name_en": "Sidcley Ferreira Pereira"
+          }
+        ],
+        [
+          {
+            "name": "罗伯托",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12579.png",
+            "player_id": "1572-12579",
+            "name_en": "Paulo Roberto da Silva"
+          },
+          {
+            "name": "巴贝兰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_30939.png",
+            "player_id": "1572-30939",
+            "name_en": "Maycon de Andrade Barbera"
+          }
+        ],
+        [
+          {
+            "name": "维拉马约",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_22934.png",
+            "player_id": "1572-22934",
+            "name_en": "Angel Rodrigo Romero Vill"
+          },
+          {
+            "name": "贾德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11109.png",
+            "player_id": "1572-11109",
+            "name_en": "Jadson Rodriguez"
+          },
+          {
+            "name": "马特乌斯·维塔尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1572-30003",
+            "name_en": "Mateus da Silva Vital Ass"
+          }
+        ],
+        [
+          {
+            "name": "罗杰·罗德里格斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_14015.png",
+            "player_id": "1572-14015",
+            "name_en": "Roger Rodrigues da Silva"
+          }
+        ]
+      ],
+      "host_static_shotnum": 19,
+      "away_static_shotnum": 4,
+      "host_static_shotznum": 7,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 13,
+      "away_static_foul": 10,
+      "host_static_corner": 12,
+      "away_static_corner": 2,
+      "host_static_offside": 2,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 1,
+      "host_static_controltime": "55.00",
+      "away_static_controltime": "45.00",
+      "host_static_attack": 74,
+      "away_static_attack": 44,
+      "host_static_risk_attack": 57,
+      "away_static_risk_attack": 30,
+      "host_static_free_kick": 10,
+      "away_static_free_kick": 15
+    },
+    "match_time_1": "2018-05-28 03:00:30 +0800",
+    "match_time_2": "2018-05-28 04:05:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "718591",
+    "match_week": "周日",
+    "match_sn": "027",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "472",
+    "away_id": "1575",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 0,
+    "away_score": 1,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "[16]",
+    "away_rank": "[13]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[22, 10, 4]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 03:00:00 +0800",
+    "caiqiu_index": "89",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527027"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日027",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 03:03:07 +0800",
+    "match_half_time": "2018-05-28 04:06:51 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/472.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1575.png",
+    "host_name": "桑托斯",
+    "host_name_en": "Santos",
+    "away_name": "克鲁塞罗",
+    "away_name_en": "Cruzeiro (MG)",
+    "odds": {
+      "spf": [
+        2.33,
+        2.7,
+        3.03
+      ],
+      "rqspf": [
+        -1,
+        5.68,
+        3.66,
+        1.47
+      ],
+      "bifen": [
+        5.9,
+        8.75,
+        7.75,
+        20.0,
+        20.0,
+        35.0,
+        50.0,
+        50.0,
+        80.0,
+        150.0,
+        150.0,
+        300.0,
+        120.0,
+        6.9,
+        5.9,
+        16.0,
+        80.0,
+        600.0,
+        7.0,
+        7.0,
+        10.0,
+        35.0,
+        30.0,
+        40.0,
+        100.0,
+        80.0,
+        150.0,
+        400.0,
+        300.0,
+        500.0,
+        200.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.7,
+    "avge_odds": 1.25,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 18.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "亨里克·帕切科",
+        "content_en": "Henrique Pacheco Lima"
+      },
+      {
+        "event_id": 1,
+        "time": 55.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "埃吉迪奥",
+        "content_en": "Egidio de Araujo Pereira "
+      },
+      {
+        "event_id": 2,
+        "time": 60.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Diego Cristiano Evaristo",
+        "content_en": "Diego Cristiano Evaristo"
+      },
+      {
+        "event_id": 3,
+        "time": 64.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(拉雷勒)换入(T.内维斯)换出",
+        "content_en": "Raniel",
+        "player_in": "拉雷勒",
+        "player_out": "T.内维斯",
+        "player_in_en": "Raniel",
+        "player_out_en": "Thiago Neve"
+      },
+      {
+        "event_id": 4,
+        "time": 69.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(布鲁诺·恩里克)换入(Diego Cristiano Evaristo)换出",
+        "content_en": "Bruno Henrique Pinto",
+        "player_in": "布鲁诺·恩里克",
+        "player_out": "Diego Cristiano Evaristo"
+      },
+      {
+        "event_id": 5,
+        "time": 71.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(卢卡斯·罗梅罗)换入(埃迪尔森·塔瓦雷斯)换出",
+        "content_en": "Lucas Daniel Romero",
+        "player_in": "卢卡斯·罗梅罗",
+        "player_out": "埃迪尔森·塔瓦雷斯",
+        "player_in_en": "Lucas Daniel Romero",
+        "player_out_en": "Edilson Tavares dos Santo"
+      },
+      {
+        "event_id": 6,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(布鲁诺·席尔瓦)换入(路易斯·里卡多)换出",
+        "content_en": "Bruno César Pereira da Si",
+        "player_in": "布鲁诺·席尔瓦",
+        "player_out": "路易斯·里卡多",
+        "player_in_en": "Bruno César Pereira da Si",
+        "player_out_en": "Luis Ricardo Alves"
+      },
+      {
+        "event_id": 7,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "布鲁诺·席尔瓦",
+        "content_en": "Bruno César Pereira da Si"
+      },
+      {
+        "event_id": 8,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "埃迪尔森·塔瓦雷斯",
+        "content_en": "Edilson Tavares dos Santo"
+      },
+      {
+        "event_id": 9,
+        "time": 77.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(莱昂德罗·奇塔迪尼)换入(雷纳托·德尔尼)换出",
+        "content_en": "Leonardo Cittadini",
+        "player_in": "莱昂德罗·奇塔迪尼",
+        "player_out": "雷纳托·德尔尼",
+        "player_in_en": "Leonardo Cittadini",
+        "player_out_en": "Renato Dirnei Florencio"
+      },
+      {
+        "event_id": 10,
+        "time": 78.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "罗伯森·迈克尔",
+        "content_en": "Robson Michael Signorini"
+      },
+      {
+        "event_id": 11,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Yuri Alberto Monteiro da Silva)换入(爱德华多·安图内斯)换出",
+        "content_en": "Eduardo Sasha",
+        "player_in": "Yuri Alberto Monteiro da Silva",
+        "player_out": "爱德华多·安图内斯"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "万德雷·法里亚斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "472-10982",
+            "name_en": "Vanderlei Farias da Silva"
+          }
+        ],
+        [
+          {
+            "name": "丹尼尔·古埃德斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27545.png",
+            "player_id": "472-27545",
+            "name_en": "Daniel Guedes da Silva"
+          },
+          {
+            "name": "戴维",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11214.png",
+            "player_id": "472-11214",
+            "name_en": "David Braz De Oliveira Fi"
+          },
+          {
+            "name": "古斯塔沃·亨里克·瓦伦内斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27542.png",
+            "player_id": "472-27542",
+            "name_en": "Gustavo Henrique Vernes"
+          },
+          {
+            "name": "多多",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3200.png",
+            "player_id": "472-3200",
+            "name_en": "Dodo"
+          }
+        ],
+        [
+          {
+            "name": "雷纳托·德尔尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10970.png",
+            "player_id": "472-10970",
+            "name_en": "Renato Dirnei Florencio"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "杰安·莫塔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "472-30876",
+            "name_en": "Jean Mota Oliveira de Sou"
+          }
+        ],
+        [
+          {
+            "name": "加布里埃尔·巴尔博萨·阿尔梅达",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12817.png",
+            "player_id": "472-12817",
+            "name_en": "Gabriel Barbosa Almeida"
+          },
+          {
+            "name": "爱德华多·安图内斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10863.png",
+            "player_id": "472-10863",
+            "name_en": "Eduardo Sasha"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "法比奥·戴夫森·洛佩斯·马歇尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11095.png",
+            "player_id": "1575-11095",
+            "name_en": "Fábio Deivson Lopes Macie"
+          }
+        ],
+        [
+          {
+            "name": "埃迪尔森·塔瓦雷斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1575-10981",
+            "name_en": "Edilson Tavares dos Santo"
+          },
+          {
+            "name": "德德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11100.png",
+            "player_id": "1575-11100",
+            "name_en": "Anderson Vital da Silva"
+          },
+          {
+            "name": "莱奥·雷南",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10623.png",
+            "player_id": "1575-10623",
+            "name_en": "Leonardo Renan Simes de L"
+          },
+          {
+            "name": "埃吉迪奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_22448.png",
+            "player_id": "1575-22448",
+            "name_en": "Egidio de Araujo Pereira "
+          }
+        ],
+        [
+          {
+            "name": "亨里克·帕切科",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11097.png",
+            "player_id": "1575-11097",
+            "name_en": "Henrique Pacheco Lima"
+          },
+          {
+            "name": "席尔瓦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_22467.png",
+            "player_id": "1575-22467",
+            "name_en": "Lucas Silva Borges"
+          }
+        ],
+        [
+          {
+            "name": "罗伯森·迈克尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27492.png",
+            "player_id": "1575-27492",
+            "name_en": "Robson Michael Signorini"
+          },
+          {
+            "name": "T.内维斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1575-42998",
+            "name_en": "Thiago Neve"
+          },
+          {
+            "name": "索比斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10697.png",
+            "player_id": "1575-10697",
+            "name_en": "Rafael Sobis"
+          }
+        ],
+        [
+          {
+            "name": "路易斯·里卡多",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1575-10979",
+            "name_en": "Luis Ricardo Alves"
+          }
+        ]
+      ],
+      "host_static_shotnum": 16,
+      "away_static_shotnum": 17,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 12,
+      "away_static_foul": 12,
+      "host_static_corner": 5,
+      "away_static_corner": 7,
+      "host_static_offside": 0,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 4,
+      "host_static_controltime": "55.00",
+      "away_static_controltime": "45.00",
+      "host_static_attack": 63,
+      "away_static_attack": 58,
+      "host_static_risk_attack": 43,
+      "away_static_risk_attack": 38,
+      "host_static_free_kick": 12,
+      "away_static_free_kick": 11
+    },
+    "match_time_1": "2018-05-28 03:03:30 +0800",
+    "match_time_2": "2018-05-28 04:07:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "718593",
+    "match_week": "周日",
+    "match_sn": "028",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1568",
+    "away_id": "1589",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 1,
+    "host_half_score": 1,
+    "away_half_score": 1,
+    "host_rank": "[12]",
+    "away_rank": "[14]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[10, 11, 7]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 03:00:00 +0800",
+    "caiqiu_index": "75",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527028"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日028",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 03:00:57 +0800",
+    "match_half_time": "2018-05-28 04:03:43 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1568.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1589.png",
+    "host_name": "博塔弗戈",
+    "host_name_en": "Botafogo (RJ)",
+    "away_name": "维多利亚",
+    "away_name_en": "Vitoria Salvador BA",
+    "odds": {
+      "spf": [
+        1.75,
+        3.35,
+        3.85
+      ],
+      "rqspf": [
+        -1,
+        3.55,
+        3.4,
+        1.81
+      ],
+      "bifen": [
+        6.0,
+        7.75,
+        7.25,
+        14.0,
+        14.0,
+        25.0,
+        35.0,
+        35.0,
+        60.0,
+        80.0,
+        80.0,
+        150.0,
+        60.0,
+        9.0,
+        6.2,
+        15.0,
+        70.0,
+        400.0,
+        9.0,
+        9.0,
+        11.0,
+        50.0,
+        35.0,
+        40.0,
+        150.0,
+        100.0,
+        150.0,
+        500.0,
+        400.0,
+        500.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.35,
+    "avge_odds": 1.15,
+    "benefit": "竞彩实际回报3.35倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 10.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "纳斯西门托",
+        "content_en": "Rhayner Santos Nascimento"
+      },
+      {
+        "event_id": 1,
+        "time": 39.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "Denilson Pereira Junior",
+        "content_en": "Denilson Pereira Junior"
+      },
+      {
+        "event_id": 2,
+        "time": 44.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "维尔克·阿尔梅达",
+        "content_en": "Welker Marcal Almeida"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(罗德里戈·阿吉雷)换入(古斯塔沃·科斯塔)换出",
+        "content_en": "Rodrigo Aguirre",
+        "player_in": "罗德里戈·阿吉雷",
+        "player_out": "古斯塔沃·科斯塔",
+        "player_in_en": "Rodrigo Aguirre",
+        "player_out_en": "Gustavo Costa"
+      },
+      {
+        "event_id": 4,
+        "time": 49.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "卡瓦略·杰弗森",
+        "content_en": "Jeferson de Araujo de Car"
+      },
+      {
+        "event_id": 5,
+        "time": 58.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Ezequiel Santos da Silva)换入(若奥·佩德罗)换出",
+        "content_en": "Joao Pedro Heinen Silva",
+        "player_in": "Ezequiel Santos da Silva",
+        "player_out": "若奥·佩德罗"
+      },
+      {
+        "event_id": 6,
+        "time": 59.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "费尔南德斯",
+        "content_en": "Matheus Fernandes"
+      },
+      {
+        "event_id": 7,
+        "time": 70.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(卢卡斯·费尔南德)换入(纳斯西门托)换出",
+        "content_en": "Lucas Fernandes",
+        "player_in": "卢卡斯·费尔南德",
+        "player_out": "纳斯西门托",
+        "player_in_en": "Lucas Fernandes",
+        "player_out_en": "Rhayner Santos Nascimento"
+      },
+      {
+        "event_id": 8,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(莱昂纳多·瓦伦西亚)换入(Luiz Fernando Moraes dos Santo)换出",
+        "content_en": "Leonardo Felipe Valencia ",
+        "player_in": "莱昂纳多·瓦伦西亚",
+        "player_out": "Luiz Fernando Moraes dos Santo"
+      },
+      {
+        "event_id": 9,
+        "time": 79.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(安德烈·利马)换入(沃里森·里卡多)换出",
+        "content_en": "Andre Luiz Barreto Silva ",
+        "player_in": "安德烈·利马",
+        "player_out": "沃里森·里卡多",
+        "player_in_en": "Andre Luiz Barreto Silva ",
+        "player_out_en": "Wallyson Ricardo Maciel M"
+      },
+      {
+        "event_id": 10,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(亚戈·菲利普)换入(尼尔顿·梅拉)换出",
+        "content_en": "Yago Felipe da Costa Roch",
+        "player_in": "亚戈·菲利普",
+        "player_out": "尼尔顿·梅拉",
+        "player_in_en": "Yago Felipe da Costa Roch",
+        "player_out_en": "Neilton Meira Mestzk"
+      },
+      {
+        "event_id": 11,
+        "time": 87.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "尼尔顿·梅拉",
+        "content_en": "Neilton Meira Mestzk"
+      },
+      {
+        "event_id": 12,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Yago)换入(Denílson)换出",
+        "content_en": "(Yago)换入(Denílson)换出",
+        "player_in": "Yago",
+        "player_out": "Denílson"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "亚戈·菲利普",
+        "content_en": "Yago Felipe da Costa Roch"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-2-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "杰弗森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_31.png",
+            "player_id": "1568-31",
+            "name_en": "Jefferson de Oliveira Gal"
+          }
+        ],
+        [
+          {
+            "name": "马奇尼奥",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-30730",
+            "name_en": "Marcio Almeida de Oliveir"
+          },
+          {
+            "name": "费尔南多",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-27342",
+            "name_en": "Yago Fernando da silva"
+          },
+          {
+            "name": "I.拉贝洛",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-42946",
+            "name_en": "Igor Rabello"
+          },
+          {
+            "name": "莫伊塞斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42997.png",
+            "player_id": "1568-42997",
+            "name_en": "Moise"
+          }
+        ],
+        [
+          {
+            "name": "费尔南德斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-42952",
+            "name_en": "Matheus Fernandes"
+          },
+          {
+            "name": "罗德里格·林多索",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-30719",
+            "name_en": "Rodrigo Oliveira Lindoso"
+          },
+          {
+            "name": "古斯塔沃·科斯塔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-32859",
+            "name_en": "Gustavo Costa"
+          }
+        ],
+        [
+          {
+            "name": "若奥·佩德罗",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-27517",
+            "name_en": "Joao Pedro Heinen Silva"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "维尔克·阿尔梅达",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1568-30917",
+            "name_en": "Welker Marcal Almeida"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "埃利亚斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1589-43052",
+            "name_en": "Elia"
+          }
+        ],
+        [
+          {
+            "name": "卢卡斯·里奥斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1589-11188",
+            "name_en": "Lucas Rios Marques"
+          },
+          {
+            "name": "雷蒙·梅内塞斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1589-30921",
+            "name_en": "Ramon Menezes Roma"
+          },
+          {
+            "name": "桑托斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_6936.png",
+            "player_id": "1589-6936",
+            "name_en": "Aderllan Santos"
+          },
+          {
+            "name": "卡瓦略·杰弗森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1589-11195",
+            "name_en": "Jeferson de Araujo de Car"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "何塞·威利森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1589-23268",
+            "name_en": "José Welison da Silva"
+          }
+        ],
+        [
+          {
+            "name": "纳斯西门托",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_11017.png",
+            "player_id": "1589-11017",
+            "name_en": "Rhayner Santos Nascimento"
+          },
+          {
+            "name": "尼尔顿·梅拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10731.png",
+            "player_id": "1589-10731",
+            "name_en": "Neilton Meira Mestzk"
+          },
+          {
+            "name": "沃里森·里卡多",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1589-10972",
+            "name_en": "Wallyson Ricardo Maciel M"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ]
+      ],
+      "host_static_shotnum": 8,
+      "away_static_shotnum": 6,
+      "host_static_shotznum": 3,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 10,
+      "away_static_foul": 18,
+      "host_static_corner": 6,
+      "away_static_corner": 1,
+      "host_static_offside": 6,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 4,
+      "host_static_controltime": "58.00",
+      "away_static_controltime": "42.00",
+      "host_static_attack": 63,
+      "away_static_attack": 59,
+      "host_static_risk_attack": 59,
+      "away_static_risk_attack": 44,
+      "host_static_free_kick": 20,
+      "away_static_free_kick": 16
+    },
+    "match_time_1": "2018-05-28 03:01:29 +0800",
+    "match_time_2": "2018-05-28 04:05:29 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "718586",
+    "match_week": "周日",
+    "match_sn": "031",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "2407",
+    "away_id": "1580",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 0,
+    "away_score": 1,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "[19]",
+    "away_rank": "[11]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[10, 5, 12]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 06:00:00 +0800",
+    "caiqiu_index": "81",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527031"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日031",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 05:59:41 +0800",
+    "match_half_time": "2018-05-28 07:03:55 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1580.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/2407.png",
+    "host_name": "塞阿拉",
+    "host_name_en": "Ceara",
+    "away_name": "格雷米奥",
+    "away_name_en": "Gremio (RS)",
+    "odds": {
+      "spf": [
+        3.72,
+        2.9,
+        1.94
+      ],
+      "rqspf": [
+        1,
+        1.67,
+        3.5,
+        4.08
+      ],
+      "bifen": [
+        7.25,
+        16.0,
+        12.0,
+        50.0,
+        35.0,
+        50.0,
+        120.0,
+        100.0,
+        150.0,
+        500.0,
+        400.0,
+        600.0,
+        250.0,
+        6.4,
+        5.75,
+        17.0,
+        80.0,
+        600.0,
+        5.2,
+        5.2,
+        8.0,
+        18.0,
+        20.0,
+        35.0,
+        40.0,
+        50.0,
+        100.0,
+        120.0,
+        200.0,
+        300.0,
+        100.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.72,
+    "avge_odds": 1.28,
+    "benefit": "竞彩实际回报1.94倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 2.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Richardson Fernandes dos Santo",
+        "content_en": "Richardson Fernandes dos Santo"
+      },
+      {
+        "event_id": 1,
+        "time": 38.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "拉米洛",
+        "content_en": "Ramiro Moschen Benetti"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Andrevaldo de Jesus Santos)换入(Rafael Pereira dos Santos)换出",
+        "content_en": "(Andrevaldo de Jesus Santos)换入(Rafael Pereira dos Santos)换出",
+        "player_in": "Andrevaldo de Jesus Santos",
+        "player_out": "Rafael Pereira dos Santos"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(尤里)换入(菲利佩·阿泽维多)换出",
+        "content_en": "Hyuri Henrique de Oliveir",
+        "player_in": "尤里",
+        "player_out": "菲利佩·阿泽维多",
+        "player_in_en": "Hyuri Henrique de Oliveir",
+        "player_out_en": "Felipe Azevedo dos Santos"
+      },
+      {
+        "event_id": 4,
+        "time": 47.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "埃韦顿·索萨",
+        "content_en": "Everton Sousa Soares"
+      },
+      {
+        "event_id": 5,
+        "time": 50.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "萨穆埃尔·哈维尔",
+        "content_en": "Samuel Xavier Brito"
+      },
+      {
+        "event_id": 6,
+        "time": 58.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(维尼休斯·利马)换入(莫拉)换出",
+        "content_en": "Vinicius Moreira de Lima",
+        "player_in": "维尼休斯·利马",
+        "player_out": "莫拉",
+        "player_in_en": "Vinicius Moreira de Lima",
+        "player_out_en": "Leonardo da Silva Moura"
+      },
+      {
+        "event_id": 7,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "埃尔顿·罗德里格斯",
+        "content_en": "Elton"
+      },
+      {
+        "event_id": 8,
+        "time": 65.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(特哈西奥诺)换入(安德烈·菲利佩)换出",
+        "content_en": "Thaciano",
+        "player_in": "特哈西奥诺",
+        "player_out": "安德烈·菲利佩",
+        "player_in_en": "Thaciano",
+        "player_out_en": "André Felipe Ribeiro de S"
+      },
+      {
+        "event_id": 9,
+        "time": 68.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Matheus Henrique)换入(Maicon)换出",
+        "content_en": "(Matheus Henrique)换入(Maicon)换出",
+        "player_in": "Matheus Henrique",
+        "player_out": "Maicon"
+      },
+      {
+        "event_id": 10,
+        "time": 69.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(道格拉斯·库蒂尼奥)换入(Ricardo Dias Acosta)换出",
+        "content_en": "Douglas Coutinho Gomes de",
+        "player_in": "道格拉斯·库蒂尼奥",
+        "player_out": "Ricardo Dias Acosta"
+      },
+      {
+        "event_id": 11,
+        "time": 80.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Thonny Anderson da Silva Carva)换入(迈孔)换出",
+        "content_en": "Maicon Thiago Pereira de ",
+        "player_in": "Thonny Anderson da Silva Carva",
+        "player_out": "迈孔"
+      },
+      {
+        "event_id": 12,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "Thonny Anderson da Silva Carva",
+        "content_en": "Thonny Anderson da Silva Carva"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "韦斯克利",
+        "content_en": "Wescley"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "萨穆埃尔·哈维尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2407-27472",
+            "name_en": "Samuel Xavier Brito"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "多斯·桑托斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2407-29016",
+            "name_en": "Romario Guilherme dos San"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "儒尼尼奥",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2407-42914",
+            "name_en": "Juninho"
+          }
+        ],
+        [
+          {
+            "name": "菲利佩·阿泽维多",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2407-10716",
+            "name_en": "Felipe Azevedo dos Santos"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "韦斯克利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_42765.png",
+            "player_id": "2407-42765",
+            "name_en": "Wescley"
+          }
+        ],
+        [
+          {
+            "name": "埃尔顿·罗德里格斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2407-32240",
+            "name_en": "Elton"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "马塞罗·格罗西",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10827.png",
+            "player_id": "1580-10827",
+            "name_en": "Marcelo Grohe"
+          }
+        ],
+        [
+          {
+            "name": "莫拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1580-10918",
+            "name_en": "Leonardo da Silva Moura"
+          },
+          {
+            "name": "马特乌斯·斯莫内特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10829.png",
+            "player_id": "1580-10829",
+            "name_en": "Matheus Simonete Bressane"
+          },
+          {
+            "name": "坎内曼",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1580-13316",
+            "name_en": "Walter Kannemann"
+          },
+          {
+            "name": "科尔特斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1580-11067",
+            "name_en": "Bruno Cortez Cardoso"
+          }
+        ],
+        [
+          {
+            "name": "贾森·西奎埃拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1580-27144",
+            "name_en": "Jailson Marques Siqueira"
+          },
+          {
+            "name": "迈孔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1580-11102",
+            "name_en": "Maicon Thiago Pereira de "
+          }
+        ],
+        [
+          {
+            "name": "拉米洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10840.png",
+            "player_id": "1580-10840",
+            "name_en": "Ramiro Moschen Benetti"
+          },
+          {
+            "name": "西塞罗·桑托斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1580-10741",
+            "name_en": "Cícero Santos"
+          },
+          {
+            "name": "埃韦顿·索萨",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_23250.png",
+            "player_id": "1580-23250",
+            "name_en": "Everton Sousa Soares"
+          }
+        ],
+        [
+          {
+            "name": "安德烈·菲利佩",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10764.png",
+            "player_id": "1580-10764",
+            "name_en": "André Felipe Ribeiro de S"
+          }
+        ]
+      ],
+      "host_static_shotnum": 11,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 1,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 15,
+      "away_static_foul": 13,
+      "host_static_corner": 6,
+      "away_static_corner": 3,
+      "host_static_offside": 1,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 2,
+      "host_static_controltime": "40.00",
+      "away_static_controltime": "60.00",
+      "host_static_attack": 44,
+      "away_static_attack": 71,
+      "host_static_risk_attack": 24,
+      "away_static_risk_attack": 49,
+      "host_static_free_kick": 13,
+      "away_static_free_kick": 16
+    },
+    "match_time_1": "2018-05-28 06:00:29 +0800",
+    "match_time_2": "2018-05-28 07:04:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "718589",
+    "match_week": "周日",
+    "match_sn": "032",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "6212",
+    "away_id": "1385",
+    "season_id": 4748,
+    "match_desc": "18巴甲第7轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 3,
+    "host_half_score": 1,
+    "away_half_score": 2,
+    "host_rank": "[10]",
+    "away_rank": "[08]",
+    "season_pre": "巴甲",
+    "group_pre": "第7轮",
+    "extra_info": "",
+    "spf_cnt": "[11, 7, 7]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 06:00:00 +0800",
+    "caiqiu_index": "72",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527032"
+    },
+    "league": "18巴甲第7轮",
+    "season": "18巴甲第7轮",
+    "bet_match_id": "周日032",
+    "season_pre_en": "Brazlilian Serie A",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 06:00:17 +0800",
+    "match_half_time": "2018-05-28 07:04:31 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1385.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/6212.png",
+    "host_name": "米内罗美洲",
+    "host_name_en": "America MG",
+    "away_name": "圣保罗",
+    "away_name_en": "Sao Paulo",
+    "odds": {
+      "spf": [
+        2.94,
+        2.9,
+        2.25
+      ],
+      "rqspf": [
+        1,
+        1.49,
+        3.78,
+        5.15
+      ],
+      "bifen": [
+        7.0,
+        12.5,
+        9.5,
+        30.0,
+        27.0,
+        40.0,
+        100.0,
+        80.0,
+        120.0,
+        300.0,
+        300.0,
+        400.0,
+        150.0,
+        7.25,
+        5.7,
+        15.0,
+        80.0,
+        500.0,
+        6.1,
+        6.1,
+        8.0,
+        21.0,
+        20.0,
+        30.0,
+        60.0,
+        60.0,
+        80.0,
+        200.0,
+        200.0,
+        300.0,
+        100.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 2.94,
+    "avge_odds": 1.46,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 8.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "迭戈·索萨",
+        "content_en": "Diego Souza"
+      },
+      {
+        "event_id": 1,
+        "time": 12.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "穆拉",
+        "content_en": "Rafael Moura"
+      },
+      {
+        "event_id": 2,
+        "time": 30.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "阿德兰",
+        "content_en": "Aderlan"
+      },
+      {
+        "event_id": 3,
+        "time": 32.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Aderlan",
+        "content_en": "Aderlan"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "马特乌斯·弗拉兹",
+        "content_en": "Matheus Ferraz Pereira"
+      },
+      {
+        "event_id": 5,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "goal-kick",
+        "content": "瓦兹·特",
+        "content_en": "Ricardo Vaz Te"
+      },
+      {
+        "event_id": 6,
+        "time": 61.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "瓦兹·特",
+        "content_en": "Ricardo Vaz Te"
+      },
+      {
+        "event_id": 7,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Ademir Silva Santos Junior)换入(阿德兰)换出",
+        "content_en": "Aderlan",
+        "player_in": "Ademir Silva Santos Junior",
+        "player_out": "阿德兰"
+      },
+      {
+        "event_id": 8,
+        "time": 69.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(圣地亚哥·特雷列斯)换入(迭戈·索萨)换出",
+        "content_en": "Santiago Trellez Vivero",
+        "player_in": "圣地亚哥·特雷列斯",
+        "player_out": "迭戈·索萨",
+        "player_in_en": "Santiago Trellez Vivero",
+        "player_out_en": "Diego Souza"
+      },
+      {
+        "event_id": 9,
+        "time": 69.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(万德森·费雷拉·德·奥利维拉·瓦尔迪维亚)换入(菲利佩·阿鲁纳)换出",
+        "content_en": "Wanderson Ferreira de Oli",
+        "player_in": "万德森·费雷拉·德·奥利维拉·瓦尔迪维亚",
+        "player_out": "菲利佩·阿鲁纳",
+        "player_in_en": "Wanderson Ferreira de Oli",
+        "player_out_en": "Felipe Araruna Hoffmann"
+      },
+      {
+        "event_id": 10,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "吉奥瓦尼·帕尔梅里",
+        "content_en": "Giovanni Palmieri dos San"
+      },
+      {
+        "event_id": 11,
+        "time": 79.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(尤迪万)换入(穆拉)换出",
+        "content_en": "Judivan Flor da Silva",
+        "player_in": "尤迪万",
+        "player_out": "穆拉",
+        "player_in_en": "Judivan Flor da Silva",
+        "player_out_en": "Rafael Moura"
+      },
+      {
+        "event_id": 12,
+        "time": 79.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Igor Matheus Liziero Pereira)换入(埃弗顿·卡多索·达·席尔瓦)换出",
+        "content_en": "Everton",
+        "player_in": "Igor Matheus Liziero Pereira",
+        "player_out": "埃弗顿·卡多索·达·席尔瓦"
+      },
+      {
+        "event_id": 13,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Ademir Silva Santos Junior",
+        "content_en": "Ademir Silva Santos Junior"
+      },
+      {
+        "event_id": 14,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(鲁伊·弗朗科)换入(鲁安·米歇尔·德罗萨)换出",
+        "content_en": "Ruy Franco de Almeida Jun",
+        "player_in": "鲁伊·弗朗科",
+        "player_out": "鲁安·米歇尔·德罗萨",
+        "player_in_en": "Ruy Franco de Almeida Jun",
+        "player_out_en": "Luan Michel de Louza"
+      },
+      {
+        "event_id": 15,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "鲁诺·法比奥",
+        "content_en": "Bruno Fabiano"
+      },
+      {
+        "event_id": 16,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "德·米利托",
+        "content_en": "der Milito"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "4-4-1-1",
+      "host_players": [
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "诺贝尔托·佩雷拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12379.png",
+            "player_id": "6212-12379",
+            "name_en": "Norberto Pereira Marinho "
+          },
+          {
+            "name": "梅西亚",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "6212-32971",
+            "name_en": "Messias Rodrigues da Silv"
+          },
+          {
+            "name": "马特乌斯·弗拉兹",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "6212-27470",
+            "name_en": "Matheus Ferraz Pereira"
+          },
+          {
+            "name": "吉奥瓦尼·帕尔梅里",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "6212-27185",
+            "name_en": "Giovanni Palmieri dos San"
+          }
+        ],
+        [
+          {
+            "name": "阿迪尔森·多斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "6212-10797",
+            "name_en": "Adilson dos Anjos Oliveir"
+          },
+          {
+            "name": "莱昂德罗·多尼泽特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10771.png",
+            "player_id": "6212-10771",
+            "name_en": "Leandro Donizete Gonalves"
+          }
+        ],
+        [
+          {
+            "name": "阿德兰",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "6212-26376",
+            "name_en": "Aderlan"
+          },
+          {
+            "name": "塞尔吉奥·奥利维尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12743.png",
+            "player_id": "6212-12743",
+            "name_en": "Sergio Antonio Soler de O"
+          },
+          {
+            "name": "鲁安·米歇尔·德罗萨",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10643.png",
+            "player_id": "6212-10643",
+            "name_en": "Luan Michel de Louza"
+          }
+        ],
+        [
+          {
+            "name": "穆拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10609.png",
+            "player_id": "6212-10609",
+            "name_en": "Rafael Moura"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "西德尼·阿帕雷西多",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-30718",
+            "name_en": "Sidney Aparecido Ramos Da"
+          }
+        ],
+        [
+          {
+            "name": "德·米利托",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-33153",
+            "name_en": "der Milito"
+          },
+          {
+            "name": "阿尔沃莱达",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-30807",
+            "name_en": "Robert Arboleda"
+          },
+          {
+            "name": "鲁诺·法比奥",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-12566",
+            "name_en": "Bruno Fabiano"
+          },
+          {
+            "name": "雷纳尔多·马诺尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-10656",
+            "name_en": "Reinaldo Manoel da Silva"
+          }
+        ],
+        [
+          {
+            "name": "菲利佩·阿鲁纳",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-33167",
+            "name_en": "Felipe Araruna Hoffmann"
+          },
+          {
+            "name": "尤西雷",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-28263",
+            "name_en": "Jucilei Da Silva"
+          },
+          {
+            "name": "哈德森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-12921",
+            "name_en": "Húdson Rodrigues dos Sant"
+          },
+          {
+            "name": "埃弗顿·卡多索·达·席尔瓦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10902.png",
+            "player_id": "1385-10902",
+            "name_en": "Everton"
+          }
+        ],
+        [
+          {
+            "name": "瓦兹·特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20986.png",
+            "player_id": "1385-20986",
+            "name_en": "Ricardo Vaz Te"
+          }
+        ],
+        [
+          {
+            "name": "迭戈·索萨",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1385-12850",
+            "name_en": "Diego Souza"
+          }
+        ]
+      ],
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 12,
+      "host_static_shotznum": 4,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 22,
+      "away_static_foul": 19,
+      "host_static_corner": 9,
+      "away_static_corner": 7,
+      "host_static_offside": 2,
+      "away_static_offside": 5,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 3,
+      "host_static_controltime": "55.00",
+      "away_static_controltime": "45.00",
+      "host_static_attack": 66,
+      "away_static_attack": 62,
+      "host_static_risk_attack": 41,
+      "away_static_risk_attack": 36,
+      "host_static_free_kick": 23,
+      "away_static_free_kick": 23
+    },
+    "match_time_1": "2018-05-28 06:03:29 +0800",
+    "match_time_2": "2018-05-28 07:05:28 +0800",
+    "match_time_3": null
+  }
+]

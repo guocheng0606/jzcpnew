@@ -1,0 +1,2744 @@
+[
+  {
+    "match_id": "709995",
+    "match_week": "周日",
+    "match_sn": "016",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "703",
+    "away_id": "2946",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 4,
+    "away_score": 0,
+    "host_half_score": 1,
+    "away_half_score": 0,
+    "host_rank": "[14]",
+    "away_rank": "[03]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[20, 3, 6]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "90",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527016"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周日016",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:00:06 +0800",
+    "match_half_time": "2018-05-28 01:02:21 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/703.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/2946.png",
+    "host_name": "博德闪耀",
+    "host_name_en": "Bodo Glimt",
+    "away_name": "兰赫姆",
+    "away_name_en": "Ranheim IL",
+    "odds": {
+      "spf": [
+        1.63,
+        3.76,
+        4.0
+      ],
+      "rqspf": [
+        -1,
+        3.06,
+        3.45,
+        1.95
+      ],
+      "bifen": [
+        7.5,
+        8.75,
+        7.0,
+        14.0,
+        13.0,
+        20.0,
+        30.0,
+        27.0,
+        40.0,
+        70.0,
+        60.0,
+        100.0,
+        40.0,
+        13.0,
+        7.0,
+        13.0,
+        50.0,
+        250.0,
+        11.0,
+        11.0,
+        10.5,
+        40.0,
+        28.0,
+        29.0,
+        120.0,
+        80.0,
+        80.0,
+        400.0,
+        250.0,
+        300.0,
+        80.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 4.0,
+    "avge_odds": 1.16,
+    "benefit": "竞彩实际回报1.63倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 5.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "萨尔特尼斯",
+        "content_en": "Ulrik Saltnes"
+      },
+      {
+        "event_id": 1,
+        "time": 48.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "Hakon Evjen",
+        "content_en": "Hakon Evjen"
+      },
+      {
+        "event_id": 2,
+        "time": 60.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "奇克内格尔",
+        "content_en": "Philip Zinckernagel"
+      },
+      {
+        "event_id": 3,
+        "time": 64.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(斯托福洛尔)换入(里克斯沃尔德)换出",
+        "content_en": "Oyvind Storflor",
+        "player_in": "斯托福洛尔",
+        "player_out": "里克斯沃尔德",
+        "player_in_en": "Oyvind Storflor",
+        "player_out_en": "Kim Riksvold"
+      },
+      {
+        "event_id": 4,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(斯蒂恩)换入(莫耶)换出",
+        "content_en": "Eirik Steen",
+        "player_in": "斯蒂恩",
+        "player_out": "莫耶",
+        "player_in_en": "Eirik Steen",
+        "player_out_en": "Brede Moe"
+      },
+      {
+        "event_id": 5,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "拉尤宁",
+        "content_en": "A. Layouni"
+      },
+      {
+        "event_id": 6,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(西蒙·雷文)换入(Srlkk)换出",
+        "content_en": "Simen Raaen Sandmael",
+        "player_in": "西蒙·雷文",
+        "player_out": "Srlkk",
+        "player_in_en": "Simen Raaen Sandmael",
+        "player_out_en": "S. Srlkk"
+      },
+      {
+        "event_id": 7,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(博格)换入(José Jurado)换出",
+        "content_en": "Patrick Berg",
+        "player_in": "博格",
+        "player_out": "José Jurado",
+        "player_in_en": "Patrick Berg",
+        "player_out_en": "José Jurado"
+      },
+      {
+        "event_id": 8,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(延斯·豪格)换入(Hakon Evjen)换出",
+        "content_en": "Jens Hauge",
+        "player_in": "延斯·豪格",
+        "player_out": "Hakon Evjen"
+      },
+      {
+        "event_id": 9,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(希维尔特·索利)换入(赫尔梅森 )换出",
+        "content_en": "Sivert Solli",
+        "player_in": "希维尔特·索利",
+        "player_out": "赫尔梅森 ",
+        "player_in_en": "Sivert Solli",
+        "player_out_en": "Andreas Helmersen"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "里卡多",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "703-35778",
+            "name_en": "Ricardo"
+          }
+        ],
+        [
+          {
+            "name": "伊西多洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5585.png",
+            "player_id": "703-5585",
+            "name_en": "José Isidoro Gómez Torres"
+          },
+          {
+            "name": "比约恩巴克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7351.png",
+            "player_id": "703-7351",
+            "name_en": "Martin Bjornbak"
+          },
+          {
+            "name": "莫耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21523.png",
+            "player_id": "703-21523",
+            "name_en": "Brede Moe"
+          },
+          {
+            "name": "雅各布森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7362.png",
+            "player_id": "703-7362",
+            "name_en": "Thomas Jacobsen"
+          }
+        ],
+        [
+          {
+            "name": "奇克内格尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "703-45131",
+            "name_en": "Philip Zinckernagel"
+          },
+          {
+            "name": "José Jurado",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "703-24126",
+            "name_en": "José Jurado"
+          },
+          {
+            "name": "萨尔特尼斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7369.png",
+            "player_id": "703-7369",
+            "name_en": "Ulrik Saltnes"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "克里斯蒂安·奥普塞斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27694.png",
+            "player_id": "703-27694",
+            "name_en": "Kristian Fardal Opseth"
+          },
+          {
+            "name": "拉尤宁",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "703-42064",
+            "name_en": "A. Layouni"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "巴利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27610.png",
+            "player_id": "2946-27610",
+            "name_en": "Even Barli"
+          }
+        ],
+        [
+          {
+            "name": "阿斯拉克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2946-27622",
+            "name_en": "Aslak Fonn Witry"
+          },
+          {
+            "name": "康德",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2946-27617",
+            "name_en": "Daniel Kvande"
+          },
+          {
+            "name": "恩格·里斯马克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2946-40762",
+            "name_en": "Christian Eggen Rismark"
+          },
+          {
+            "name": "福斯奈斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27612.png",
+            "player_id": "2946-27612",
+            "name_en": "Aleksander Foosns"
+          }
+        ],
+        [
+          {
+            "name": "Srlkk",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2946-40765",
+            "name_en": "S. Srlkk"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "马茨·雷吉纽森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27605.png",
+            "player_id": "2946-27605",
+            "name_en": "Mads Reginiussen"
+          }
+        ],
+        [
+          {
+            "name": "里克斯沃尔德",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2946-27615",
+            "name_en": "Kim Riksvold"
+          },
+          {
+            "name": "赫尔梅森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "2946-25710",
+            "name_en": "Andreas Helmersen"
+          },
+          {
+            "name": "通内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7457.png",
+            "player_id": "2946-7457",
+            "name_en": "Erik Tonne"
+          }
+        ]
+      ],
+      "host_static_shotnum": 15,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 8,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 16,
+      "away_static_foul": 11,
+      "host_static_corner": 3,
+      "away_static_corner": 5,
+      "host_static_offside": 2,
+      "away_static_offside": 3,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 0,
+      "host_static_controltime": "46.00",
+      "away_static_controltime": "54.00",
+      "host_static_attack": 70,
+      "away_static_attack": 63,
+      "host_static_risk_attack": 39,
+      "away_static_risk_attack": 37,
+      "host_static_free_kick": 13,
+      "away_static_free_kick": 20
+    },
+    "match_time_1": "2018-05-28 00:00:31 +0800",
+    "match_time_2": "2018-05-28 01:02:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "709991",
+    "match_week": "周日",
+    "match_sn": "017",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "3488",
+    "away_id": "1226",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 0,
+    "host_half_score": 1,
+    "away_half_score": 0,
+    "host_rank": "[06]",
+    "away_rank": "[07]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[33, 3, 2]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "87",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527017"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周日017",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:01:00 +0800",
+    "match_half_time": "2018-05-28 01:02:55 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/images/team/1226c.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/3488.png",
+    "host_name": "海于格松",
+    "host_name_en": "FK Haugesund",
+    "away_name": "特罗姆瑟",
+    "away_name_en": "Tromso IL",
+    "odds": {
+      "spf": [
+        1.62,
+        3.5,
+        4.42
+      ],
+      "rqspf": [
+        -1,
+        1.96,
+        3.4,
+        3.08
+      ],
+      "bifen": [
+        6.5,
+        7.5,
+        7.0,
+        13.0,
+        13.0,
+        20.0,
+        28.0,
+        28.0,
+        50.0,
+        70.0,
+        70.0,
+        100.0,
+        40.0,
+        10.5,
+        6.5,
+        13.5,
+        55.0,
+        250.0,
+        11.0,
+        11.0,
+        13.0,
+        48.0,
+        36.0,
+        40.0,
+        150.0,
+        100.0,
+        150.0,
+        400.0,
+        300.0,
+        300.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.62,
+    "avge_odds": 1.62,
+    "benefit": "竞彩实际回报1.62倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 30.0,
+        "is_home": 1,
+        "event_type": "goal-own",
+        "content": "K-A.安东森",
+        "content_en": "Kent-Are Antonsen"
+      },
+      {
+        "event_id": 1,
+        "time": 58.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(拉塞·尼尔森)换入(鲁纳尔·埃斯佩约德)换出",
+        "content_en": "Lasse Nilsen",
+        "player_in": "拉塞·尼尔森",
+        "player_out": "鲁纳尔·埃斯佩约德",
+        "player_in_en": "Lasse Nilsen",
+        "player_out_en": "Runar Espejord"
+      },
+      {
+        "event_id": 2,
+        "time": 86.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(武科)换入(西蒙·旺贝格)换出",
+        "content_en": "Slobodan Vuk",
+        "player_in": "武科",
+        "player_out": "西蒙·旺贝格",
+        "player_in_en": "Slobodan Vuk",
+        "player_out_en": "Simen Wangberg"
+      },
+      {
+        "event_id": 3,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Ibrahima Kone)换入(巴巴基德·大卫)换出",
+        "content_en": "David Babajide",
+        "player_in": "Ibrahima Kone",
+        "player_out": "巴巴基德·大卫"
+      },
+      {
+        "event_id": 4,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "厄德高",
+        "content_en": "Magnar Odegaard"
+      },
+      {
+        "event_id": 5,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(克努德森)换入(F.吉特克贾尔)换出",
+        "content_en": "Fredrik Pallesen Knudsen",
+        "player_in": "克努德森",
+        "player_out": "F.吉特克贾尔",
+        "player_in_en": "Fredrik Pallesen Knudsen",
+        "player_out_en": "Frederik Gytkjaer"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-4-1-1",
+      "away_formation": "3-4-2-1",
+      "host_players": [
+        [
+          {
+            "name": "皮尔·克里斯汀·布拉特维特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25692.png",
+            "player_id": "3488-25692",
+            "name_en": "Per Kristian Bratveit"
+          }
+        ],
+        [
+          {
+            "name": "哈拉德赛德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7355.png",
+            "player_id": "3488-7355",
+            "name_en": "Kristoffer Haraldseid"
+          },
+          {
+            "name": "斯杰尔夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7354.png",
+            "player_id": "3488-7354",
+            "name_en": "Vegard Skjerve"
+          },
+          {
+            "name": "B.卡拉莫科",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3488-24320",
+            "name_en": "Benjamin Kantie Karamoko"
+          },
+          {
+            "name": "亚历山大·斯托拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7356.png",
+            "player_id": "3488-7356",
+            "name_en": "Alexander Stolas"
+          }
+        ],
+        [
+          {
+            "name": "巴巴基德·大卫",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3488-29925",
+            "name_en": "David Babajide"
+          },
+          {
+            "name": "特隆斯塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21926.png",
+            "player_id": "3488-21926",
+            "name_en": "Sondre Tronstad"
+          },
+          {
+            "name": "乔基姆·维格·尼尔森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7341.png",
+            "player_id": "3488-7341",
+            "name_en": "Joakim Nilsen"
+          },
+          {
+            "name": "T.卡莱瓦格",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3488-40688",
+            "name_en": "Torbjorn Kallevag"
+          }
+        ],
+        [
+          {
+            "name": "B.雷特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3488-44010",
+            "name_en": "Bruno Leite"
+          }
+        ],
+        [
+          {
+            "name": "F.吉特克贾尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3488-36436",
+            "name_en": "Frederik Gytkjaer"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "古德穆德·康萨文",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7241.png",
+            "player_id": "1226-7241",
+            "name_en": "Gudmund Kongshavn"
+          }
+        ],
+        [
+          {
+            "name": "厄德高",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7260.png",
+            "player_id": "1226-7260",
+            "name_en": "Magnar Odegaard"
+          },
+          {
+            "name": "西蒙·旺贝格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25669.png",
+            "player_id": "1226-25669",
+            "name_en": "Simen Wangberg"
+          },
+          {
+            "name": "乔斯特恩·古恩德森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1226-25678",
+            "name_en": "Jostein Gundersen"
+          }
+        ],
+        [
+          {
+            "name": "K-A.安东森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1226-25673",
+            "name_en": "Kent-Are Antonsen"
+          },
+          {
+            "name": "彼得森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3372.png",
+            "player_id": "1226-3372",
+            "name_en": "Morten Pedersen"
+          },
+          {
+            "name": "克里斯蒂安·兰度",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7277.png",
+            "player_id": "1226-7277",
+            "name_en": "Christian Landu Landu"
+          },
+          {
+            "name": "R·泰勒",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1226-35775",
+            "name_en": "Robert Taylor"
+          }
+        ],
+        [
+          {
+            "name": "伯恩特森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7206.png",
+            "player_id": "1226-7206",
+            "name_en": "Daniel Berntsen"
+          },
+          {
+            "name": "巴肯加",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3748.png",
+            "player_id": "1226-3748",
+            "name_en": "Mushaga Bakenga"
+          }
+        ],
+        [
+          {
+            "name": "鲁纳尔·埃斯佩约德",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1226-25677",
+            "name_en": "Runar Espejord"
+          }
+        ]
+      ],
+      "host_static_shotnum": 8,
+      "away_static_shotnum": 13,
+      "host_static_shotznum": 2,
+      "away_static_shotznum": 3,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 18,
+      "away_static_foul": 8,
+      "host_static_corner": 4,
+      "away_static_corner": 6,
+      "host_static_offside": 6,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 1,
+      "host_static_controltime": "28.00",
+      "away_static_controltime": "72.00",
+      "host_static_attack": 37,
+      "away_static_attack": 49,
+      "host_static_risk_attack": 29,
+      "away_static_risk_attack": 33,
+      "host_static_free_kick": 8,
+      "away_static_free_kick": 23
+    },
+    "match_time_1": "2018-05-28 00:01:32 +0800",
+    "match_time_2": "2018-05-28 01:03:31 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "709993",
+    "match_week": "周日",
+    "match_sn": "018",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1109",
+    "away_id": "508",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 3,
+    "away_score": 1,
+    "host_half_score": 1,
+    "away_half_score": 1,
+    "host_rank": "[08]",
+    "away_rank": "[15]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[29, 2, 3]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "85",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527018"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周日018",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:00:09 +0800",
+    "match_half_time": "2018-05-28 01:05:42 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/508.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1109.png",
+    "host_name": "莫尔德",
+    "host_name_en": "Molde",
+    "away_name": "斯达",
+    "away_name_en": "Start Kristiansand",
+    "odds": {
+      "spf": [
+        1.31,
+        4.6,
+        6.72
+      ],
+      "rqspf": [
+        -1,
+        2.82,
+        3.55,
+        2.03
+      ],
+      "bifen": [
+        7.0,
+        6.5,
+        6.8,
+        8.5,
+        10.0,
+        20.0,
+        16.0,
+        18.0,
+        40.0,
+        32.0,
+        38.0,
+        70.0,
+        21.0,
+        15.0,
+        7.5,
+        16.0,
+        65.0,
+        300.0,
+        20.0,
+        20.0,
+        20.0,
+        100.0,
+        55.0,
+        45.0,
+        300.0,
+        200.0,
+        200.0,
+        800.0,
+        600.0,
+        600.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.31,
+    "avge_odds": 1.31,
+    "benefit": "竞彩实际回报1.31倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 18.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Adnan Hadzic)换入(Isaac Twum)换出",
+        "content_en": "(Adnan Hadzic)换入(Isaac Twum)换出",
+        "player_in": "Adnan Hadzic",
+        "player_out": "Isaac Twum"
+      },
+      {
+        "event_id": 1,
+        "time": 23.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "侯赛因",
+        "content_en": "Etzaz Hussain"
+      },
+      {
+        "event_id": 2,
+        "time": 27.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "Tobias Christensen",
+        "content_en": "Tobias Christensen"
+      },
+      {
+        "event_id": 3,
+        "time": 33.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "Afeez Aremu",
+        "content_en": "Afeez Aremu"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "K.芬博加森",
+        "content_en": "Kristjan Floki Finnbogaso"
+      },
+      {
+        "event_id": 5,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "侯赛因",
+        "content_en": "Etzaz Hussain"
+      },
+      {
+        "event_id": 6,
+        "time": 51.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(亨利克)换入(拉尔森)换出",
+        "content_en": "Henrik Robstad",
+        "player_in": "亨利克",
+        "player_out": "拉尔森",
+        "player_in_en": "Henrik Robstad",
+        "player_out_en": "Simon Larsen"
+      },
+      {
+        "event_id": 7,
+        "time": 51.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(凯文·卡布兰)换入(Afeez Aremu)换出",
+        "content_en": "Kevin Kabran",
+        "player_in": "凯文·卡布兰",
+        "player_out": "Afeez Aremu"
+      },
+      {
+        "event_id": 8,
+        "time": 53.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "奇马",
+        "content_en": "Daniel Chima"
+      },
+      {
+        "event_id": 9,
+        "time": 73.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(斯特兰)换入(布鲁斯塔)换出",
+        "content_en": "Petter Strand",
+        "player_in": "斯特兰",
+        "player_out": "布鲁斯塔",
+        "player_in_en": "Petter Strand",
+        "player_out_en": "Fredrik Brustad"
+      },
+      {
+        "event_id": 10,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(马蒂亚斯·诺曼)换入(泰洛)换出",
+        "content_en": "Mathias Antonsen Normann",
+        "player_in": "马蒂亚斯·诺曼",
+        "player_out": "泰洛",
+        "player_in_en": "Mathias Antonsen Normann",
+        "player_out_en": "Christopher Telo"
+      },
+      {
+        "event_id": 11,
+        "time": 84.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(托比亚斯·斯文德森)换入(侯赛因)换出",
+        "content_en": "Tobias Hammer Svendsen",
+        "player_in": "托比亚斯·斯文德森",
+        "player_out": "侯赛因",
+        "player_in_en": "Tobias Hammer Svendsen",
+        "player_out_en": "Etzaz Hussain"
+      },
+      {
+        "event_id": 12,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "弗雷德里克·阿鲁赛尼斯",
+        "content_en": "Fredrik Aursnes"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "奇马",
+        "content_en": "Daniel Chima"
+      },
+      {
+        "event_id": 14,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "萨尔",
+        "content_en": "Babacar Sarr"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "林德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7783.png",
+            "player_id": "1109-7783",
+            "name_en": "Andreas Linde"
+          }
+        ],
+        [
+          {
+            "name": "克里斯托弗·兰莫尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12700.png",
+            "player_id": "1109-12700",
+            "name_en": "Christoffer Remmer"
+          },
+          {
+            "name": "加布里埃尔森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7252.png",
+            "player_id": "1109-7252",
+            "name_en": "Ruben Gabrielsen"
+          },
+          {
+            "name": "萨尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7323.png",
+            "player_id": "1109-7323",
+            "name_en": "Babacar Sarr"
+          },
+          {
+            "name": "泰洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7659.png",
+            "player_id": "1109-7659",
+            "name_en": "Christopher Telo"
+          }
+        ],
+        [
+          {
+            "name": "弗雷德里克·阿鲁赛尼斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27179.png",
+            "player_id": "1109-27179",
+            "name_en": "Fredrik Aursnes"
+          },
+          {
+            "name": "侯赛因",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7134.png",
+            "player_id": "1109-7134",
+            "name_en": "Etzaz Hussain"
+          },
+          {
+            "name": "莫斯特隆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7128.png",
+            "player_id": "1109-7128",
+            "name_en": "Mattias Mostrom"
+          }
+        ],
+        [
+          {
+            "name": "布鲁斯塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7307.png",
+            "player_id": "1109-7307",
+            "name_en": "Fredrik Brustad"
+          },
+          {
+            "name": "奇马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7141.png",
+            "player_id": "1109-7141",
+            "name_en": "Daniel Chima"
+          },
+          {
+            "name": "赫斯塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21496.png",
+            "player_id": "1109-21496",
+            "name_en": "Eirik Hestad"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "维齐尼",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "508-25776",
+            "name_en": "Eirik Wichne"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "拉尔森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7228.png",
+            "player_id": "508-7228",
+            "name_en": "Simon Larsen"
+          },
+          {
+            "name": "卡克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "508-11838",
+            "name_en": "Elliot Kack"
+          }
+        ],
+        [
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ],
+        [
+          {
+            "name": "斯凯内斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7435.png",
+            "player_id": "508-7435",
+            "name_en": "Kasper Skaanes"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "鲍鲁夫森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7329.png",
+            "player_id": "508-7329",
+            "name_en": "Espen Borufsen"
+          }
+        ],
+        [
+          {
+            "name": "K.芬博加森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "508-39258",
+            "name_en": "Kristjan Floki Finnbogaso"
+          }
+        ]
+      ],
+      "host_static_shotnum": 22,
+      "away_static_shotnum": 6,
+      "host_static_shotznum": 10,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 13,
+      "away_static_foul": 11,
+      "host_static_corner": 11,
+      "away_static_corner": 1,
+      "host_static_offside": 1,
+      "away_static_offside": 4,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 2,
+      "host_static_controltime": "64.00",
+      "away_static_controltime": "36.00",
+      "host_static_attack": 77,
+      "away_static_attack": 43,
+      "host_static_risk_attack": 59,
+      "away_static_risk_attack": 26,
+      "host_static_free_kick": 15,
+      "away_static_free_kick": 14
+    },
+    "match_time_1": "2018-05-28 00:00:32 +0800",
+    "match_time_2": "2018-05-28 01:06:29 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "709992",
+    "match_week": "周日",
+    "match_sn": "019",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "601",
+    "away_id": "4338",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 2,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "[09]",
+    "away_rank": "[10]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[18, 5, 6]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "83",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527019"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周日019",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:00:34 +0800",
+    "match_half_time": "2018-05-28 01:05:22 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/601.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/images/team/4338.png",
+    "host_name": "奥德",
+    "host_name_en": "Odd Grenland",
+    "away_name": "克里斯蒂安松",
+    "away_name_en": "Kristiansund BK",
+    "odds": {
+      "spf": [
+        1.76,
+        3.35,
+        3.8
+      ],
+      "rqspf": [
+        -1,
+        1.79,
+        3.6,
+        3.42
+      ],
+      "bifen": [
+        6.7,
+        7.5,
+        7.0,
+        13.0,
+        13.5,
+        22.0,
+        26.0,
+        27.0,
+        50.0,
+        70.0,
+        70.0,
+        100.0,
+        45.0,
+        10.5,
+        6.5,
+        14.0,
+        55.0,
+        400.0,
+        10.5,
+        10.5,
+        12.0,
+        50.0,
+        36.0,
+        36.0,
+        200.0,
+        120.0,
+        120.0,
+        600.0,
+        500.0,
+        500.0,
+        120.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.8,
+    "avge_odds": 1.2,
+    "benefit": "竞彩实际回报3.80倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 60.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Bilal Njie)换入(里萨)换出",
+        "content_en": "",
+        "player_in": "Bilal Njie",
+        "player_out": "里萨"
+      },
+      {
+        "event_id": 1,
+        "time": 61.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(迪奥普)换入(卡鲁德拉)换出",
+        "content_en": "Amidou Diop",
+        "player_in": "迪奥普",
+        "player_out": "卡鲁德拉",
+        "player_in_en": "Amidou Diop",
+        "player_out_en": "Liridon Kalludra"
+      },
+      {
+        "event_id": 2,
+        "time": 68.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(索利)换入(盖特森)换出",
+        "content_en": "Sondre Sorlie",
+        "player_in": "索利",
+        "player_out": "盖特森",
+        "player_in_en": "Sondre Sorlie",
+        "player_out_en": "Torgil Oewre Gjertsen"
+      },
+      {
+        "event_id": 3,
+        "time": 70.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "迪奥普",
+        "content_en": "Amidou Diop"
+      },
+      {
+        "event_id": 4,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(萨缪尔森)换入(M.卡萨)换出",
+        "content_en": "Jone Samuelsen",
+        "player_in": "萨缪尔森",
+        "player_out": "M.卡萨",
+        "player_in_en": "Jone Samuelsen",
+        "player_out_en": "Markus Kaasa"
+      },
+      {
+        "event_id": 5,
+        "time": 74.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "本迪克·布耶",
+        "content_en": "Bendik Bye"
+      },
+      {
+        "event_id": 6,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "达乌达·班巴",
+        "content_en": "Daouda Karamoko Bamba"
+      },
+      {
+        "event_id": 7,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(比耶尔卡斯)换入(丹·乌维斯塔德)换出",
+        "content_en": "Joakim Bjerkas",
+        "player_in": "比耶尔卡斯",
+        "player_out": "丹·乌维斯塔德",
+        "player_in_en": "Joakim Bjerkas",
+        "player_out_en": "Dan Peter Ulvestad"
+      },
+      {
+        "event_id": 8,
+        "time": 84.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Joshua Kitolano)换入(诺德克维勒)换出",
+        "content_en": "Fredrik Nordkvelle",
+        "player_in": "Joshua Kitolano",
+        "player_out": "诺德克维勒"
+      },
+      {
+        "event_id": 9,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "Bilal Njie",
+        "content_en": "Bilal Njie"
+      },
+      {
+        "event_id": 10,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "达乌达·班巴",
+        "content_en": "Daouda Karamoko Bamba"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-2-3-1",
+      "host_players": [
+        [
+          {
+            "name": "罗斯巴赫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7156.png",
+            "player_id": "601-7156",
+            "name_en": "Sondre Rossbach"
+          }
+        ],
+        [
+          {
+            "name": "鲁德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12823.png",
+            "player_id": "601-12823",
+            "name_en": "Espen Ruud"
+          },
+          {
+            "name": "伯尔冈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7148.png",
+            "player_id": "601-7148",
+            "name_en": "Vegard Bergan"
+          },
+          {
+            "name": "哈根",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7162.png",
+            "player_id": "601-7162",
+            "name_en": "Steffen Hagen"
+          },
+          {
+            "name": "格罗加德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7149.png",
+            "player_id": "601-7149",
+            "name_en": "Thomas Grogaard"
+          }
+        ],
+        [
+          {
+            "name": "M.卡萨",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "601-44007",
+            "name_en": "Markus Kaasa"
+          },
+          {
+            "name": "霍夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21512.png",
+            "player_id": "601-21512",
+            "name_en": "Vebjorn Hoff"
+          },
+          {
+            "name": "诺德克维勒",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7157.png",
+            "player_id": "601-7157",
+            "name_en": "Fredrik Nordkvelle"
+          }
+        ],
+        [
+          {
+            "name": "里萨",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "601-48509",
+            "name_en": "里萨"
+          },
+          {
+            "name": "劳里森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "601-31580",
+            "name_en": "T. Lauritsen"
+          },
+          {
+            "name": "阿尔巴桑·拉沙尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7158.png",
+            "player_id": "601-7158",
+            "name_en": "Elbasan Rashani"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "麦克德莫特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7447.png",
+            "player_id": "4338-7447",
+            "name_en": "Sean McDermott"
+          }
+        ],
+        [
+          {
+            "name": "索尔莫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7211.png",
+            "player_id": "4338-7211",
+            "name_en": "Bent Sormo"
+          },
+          {
+            "name": "N.巴拉诺夫",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "4338-44012",
+            "name_en": "Nikita Baranov"
+          },
+          {
+            "name": "丹·乌维斯塔德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27448.png",
+            "player_id": "4338-27448",
+            "name_en": "Dan Peter Ulvestad"
+          },
+          {
+            "name": "阿斯巴克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "4338-27167",
+            "name_en": "Christopher Aasbak"
+          }
+        ],
+        [
+          {
+            "name": "阿斯穆德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25726.png",
+            "player_id": "4338-25726",
+            "name_en": "Stian Semb Aasmundsen"
+          },
+          {
+            "name": "帕尔.乌尔维斯塔德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27451.png",
+            "player_id": "4338-27451",
+            "name_en": "Pal Ulvestad"
+          }
+        ],
+        [
+          {
+            "name": "本迪克·布耶",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27635.png",
+            "player_id": "4338-27635",
+            "name_en": "Bendik Bye"
+          },
+          {
+            "name": "卡鲁德拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25745.png",
+            "player_id": "4338-25745",
+            "name_en": "Liridon Kalludra"
+          },
+          {
+            "name": "盖特森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27621.png",
+            "player_id": "4338-27621",
+            "name_en": "Torgil Oewre Gjertsen"
+          }
+        ],
+        [
+          {
+            "name": "达乌达·班巴",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27463.png",
+            "player_id": "4338-27463",
+            "name_en": "Daouda Karamoko Bamba"
+          }
+        ]
+      ],
+      "host_static_shotnum": 16,
+      "away_static_shotnum": 8,
+      "host_static_shotznum": 4,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 9,
+      "away_static_foul": 16,
+      "host_static_corner": 5,
+      "away_static_corner": 1,
+      "host_static_offside": 5,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 2,
+      "host_static_controltime": "58.00",
+      "away_static_controltime": "42.00",
+      "host_static_attack": 69,
+      "away_static_attack": 45,
+      "host_static_risk_attack": 45,
+      "away_static_risk_attack": 22,
+      "host_static_free_kick": 18,
+      "away_static_free_kick": 14
+    },
+    "match_time_1": "2018-05-28 00:01:33 +0800",
+    "match_time_2": "2018-05-28 01:06:29 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "709994",
+    "match_week": "周日",
+    "match_sn": "020",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "407",
+    "away_id": "3470",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 2,
+    "away_score": 0,
+    "host_half_score": 1,
+    "away_half_score": 0,
+    "host_rank": "[13]",
+    "away_rank": "[16]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[27, 1, 1]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "93",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527020"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周日020",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:00:42 +0800",
+    "match_half_time": "2018-05-28 01:05:15 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "host_team_image": "https://ohduoklem.qnssl.com/image/team/407.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/images/team/3470.png",
+    "host_name": "斯特罗姆加斯特",
+    "host_name_en": "Stromsgodset",
+    "away_name": "桑纳菲尤尔",
+    "away_name_en": "Sandefjord",
+    "odds": {
+      "spf": [
+        1.23,
+        4.9,
+        8.9
+      ],
+      "rqspf": [
+        -1,
+        3.4,
+        3.65,
+        1.78
+      ],
+      "bifen": [
+        6.6,
+        6.1,
+        7.0,
+        8.0,
+        10.5,
+        22.0,
+        14.0,
+        18.0,
+        40.0,
+        30.0,
+        40.0,
+        80.0,
+        22.0,
+        14.0,
+        7.75,
+        18.0,
+        70.0,
+        400.0,
+        18.0,
+        18.0,
+        19.0,
+        120.0,
+        60.0,
+        60.0,
+        400.0,
+        250.0,
+        250.0,
+        1000.0,
+        800.0,
+        700.0,
+        250.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.23,
+    "avge_odds": 1.23,
+    "benefit": "竞彩实际回报1.23倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "彼得森",
+        "content_en": "Marcus Pedersen"
+      },
+      {
+        "event_id": 1,
+        "time": 46.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "拉斯·格鲁德",
+        "content_en": "Lars Grorud"
+      },
+      {
+        "event_id": 2,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(沙摩哈马德)换入(帕乌·莫雷尔)换出",
+        "content_en": "S. Shamohammad",
+        "player_in": "沙摩哈马德",
+        "player_out": "帕乌·莫雷尔",
+        "player_in_en": "S. Shamohammad",
+        "player_out_en": "Pau Morer Vicente"
+      },
+      {
+        "event_id": 3,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Hermann Nilsen)换入(E.卡恩)换出",
+        "content_en": "El Hadji Kane",
+        "player_in": "Hermann Nilsen",
+        "player_out": "E.卡恩"
+      },
+      {
+        "event_id": 4,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "L. Grorud",
+        "content_en": "L. Grorud"
+      },
+      {
+        "event_id": 5,
+        "time": 81.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(佩莱格里诺 )换入(托马克·尼昆)换出",
+        "content_en": "Amahl Pellegrino",
+        "player_in": "佩莱格里诺 ",
+        "player_out": "托马克·尼昆",
+        "player_in_en": "Amahl Pellegrino",
+        "player_out_en": "Tokmac Nguen"
+      },
+      {
+        "event_id": 6,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(索德伦德)换入(瓦莱斯)换出",
+        "content_en": "Andre Sodlund",
+        "player_in": "索德伦德",
+        "player_out": "瓦莱斯",
+        "player_in_en": "Andre Sodlund",
+        "player_out_en": "Enric Valles"
+      },
+      {
+        "event_id": 7,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "佩莱格里诺 ",
+        "content_en": "Amahl Pellegrino"
+      },
+      {
+        "event_id": 8,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "佩莱格里诺 ",
+        "content_en": "Amahl Pellegrino"
+      },
+      {
+        "event_id": 9,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿卜德劳耶)换入(彼得森)换出",
+        "content_en": "Mostafa Abdellaoue",
+        "player_in": "阿卜德劳耶",
+        "player_out": "彼得森",
+        "player_in_en": "Mostafa Abdellaoue",
+        "player_out_en": "Marcus Pedersen"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-2-3-1",
+      "away_formation": "3-4-3",
+      "host_players": [
+        [
+          {
+            "name": "彼得森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7123.png",
+            "player_id": "407-7123",
+            "name_en": "Espen Pettersen"
+          }
+        ],
+        [
+          {
+            "name": "克里斯托夫·林德奎斯特",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "407-25789",
+            "name_en": "Christopher Lindquist"
+          },
+          {
+            "name": "雅克布·格莱斯内斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "407-30588",
+            "name_en": "Jakob Glesnes"
+          },
+          {
+            "name": "赛特拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "407-7170",
+            "name_en": "Lars Saetra"
+          },
+          {
+            "name": "帕尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2431.png",
+            "player_id": "407-2431",
+            "name_en": "Jonathan Parr"
+          }
+        ],
+        [
+          {
+            "name": "斯滕格尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7233.png",
+            "player_id": "407-7233",
+            "name_en": "Herman Stengel"
+          },
+          {
+            "name": "豪格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7546.png",
+            "player_id": "407-7546",
+            "name_en": "Henning Hauger"
+          }
+        ],
+        [
+          {
+            "name": "托马克·尼昆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7189.png",
+            "player_id": "407-7189",
+            "name_en": "Tokmac Nguen"
+          },
+          {
+            "name": "吉拉迪",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12659.png",
+            "player_id": "407-12659",
+            "name_en": "Bassel Jradi"
+          },
+          {
+            "name": "埃里克·安德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27173.png",
+            "player_id": "407-27173",
+            "name_en": "Eirik Ulland Andersen"
+          }
+        ],
+        [
+          {
+            "name": "彼得森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3509.png",
+            "player_id": "407-3509",
+            "name_en": "Marcus Pedersen"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "约翰森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25955.png",
+            "player_id": "3470-25955",
+            "name_en": "Eirik Johansen"
+          }
+        ],
+        [
+          {
+            "name": "拉斯·格鲁德",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3470-29995",
+            "name_en": "Lars Grorud"
+          },
+          {
+            "name": "汉森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25765.png",
+            "player_id": "3470-25765",
+            "name_en": "Christer Reppesgard Hanse"
+          },
+          {
+            "name": "E.卡恩",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3470-35810",
+            "name_en": "El Hadji Kane"
+          }
+        ],
+        [
+          {
+            "name": "宾迪亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25756.png",
+            "player_id": "3470-25756",
+            "name_en": "Victor Demba Bindia"
+          },
+          {
+            "name": "帕乌·莫雷尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3470-29994",
+            "name_en": "Pau Morer Vicente"
+          },
+          {
+            "name": "瓦莱斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3470-40809",
+            "name_en": "Enric Valles"
+          },
+          {
+            "name": "索尔伯格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_25718.png",
+            "player_id": "3470-25718",
+            "name_en": "Joackim Solberg"
+          }
+        ],
+        [
+          {
+            "name": "乌弗基尔",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3470-25706",
+            "name_en": "Mohamed Ofkir"
+          },
+          {
+            "name": "恩格布隆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21544.png",
+            "player_id": "3470-21544",
+            "name_en": "Pontus Engblom"
+          },
+          {
+            "name": "卡斯特拉蒂",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7182.png",
+            "player_id": "3470-7182",
+            "name_en": "Flamur Kastrati"
+          }
+        ]
+      ],
+      "host_static_shotnum": 16,
+      "away_static_shotnum": 5,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 10,
+      "away_static_foul": 19,
+      "host_static_corner": 12,
+      "away_static_corner": 2,
+      "host_static_offside": 6,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 1,
+      "host_static_controltime": "57.00",
+      "away_static_controltime": "43.00",
+      "host_static_attack": 70,
+      "away_static_attack": 51,
+      "host_static_risk_attack": 48,
+      "away_static_risk_attack": 24,
+      "host_static_free_kick": 20,
+      "away_static_free_kick": 17
+    },
+    "match_time_1": "2018-05-28 00:01:33 +0800",
+    "match_time_2": "2018-05-28 01:06:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "709990",
+    "match_week": "周日",
+    "match_sn": "023",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1035",
+    "away_id": "722",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 1,
+    "away_score": 2,
+    "host_half_score": 0,
+    "away_half_score": 0,
+    "host_rank": "[02]",
+    "away_rank": "[01]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[24, 2, 2]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 02:00:00 +0800",
+    "caiqiu_index": "86",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527023"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周日023",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 02:00:13 +0800",
+    "match_half_time": "2018-05-28 03:04:37 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/722.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1035.png",
+    "host_name": "罗森博格",
+    "host_name_en": "Rosenborg",
+    "away_name": "布兰",
+    "away_name_en": "Brann",
+    "odds": {
+      "spf": [
+        1.55,
+        3.5,
+        5.05
+      ],
+      "rqspf": [
+        -1,
+        2.88,
+        3.35,
+        2.07
+      ],
+      "bifen": [
+        5.8,
+        6.8,
+        7.0,
+        11.5,
+        13.0,
+        26.0,
+        26.0,
+        30.0,
+        60.0,
+        60.0,
+        70.0,
+        150.0,
+        50.0,
+        8.75,
+        6.5,
+        17.0,
+        70.0,
+        500.0,
+        10.5,
+        10.5,
+        13.0,
+        60.0,
+        40.0,
+        50.0,
+        250.0,
+        150.0,
+        200.0,
+        700.0,
+        600.0,
+        600.0,
+        250.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.55,
+    "avge_odds": 1.55,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Jonathan Levi)换入(赫兰德)换出",
+        "content_en": "Pal Helland",
+        "player_in": "Jonathan Levi",
+        "player_out": "赫兰德"
+      },
+      {
+        "event_id": 1,
+        "time": 50.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "索德伦德",
+        "content_en": "Alexander Soderlund"
+      },
+      {
+        "event_id": 2,
+        "time": 55.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "豪根",
+        "content_en": "Fredrik Haugen"
+      },
+      {
+        "event_id": 3,
+        "time": 61.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "皮特·奥利·拉尔森",
+        "content_en": "Peter Larsen"
+      },
+      {
+        "event_id": 4,
+        "time": 73.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(泽科尼尼)换入(本特纳)换出",
+        "content_en": "Rafik Zekhnini",
+        "player_in": "泽科尼尼",
+        "player_out": "本特纳",
+        "player_in_en": "Rafik Zekhnini",
+        "player_out_en": "Nicklas Bendtner"
+      },
+      {
+        "event_id": 5,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "斯蒂芬·斯卡雷维克",
+        "content_en": "Steffen Skalevik"
+      },
+      {
+        "event_id": 6,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Amer Ordagic)换入(皮特·奥利·拉尔森)换出",
+        "content_en": "Peter Larsen",
+        "player_in": "Amer Ordagic",
+        "player_out": "皮特·奥利·拉尔森"
+      },
+      {
+        "event_id": 7,
+        "time": 80.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(亨里克·约翰森)换入(斯蒂芬·斯卡雷维克)换出",
+        "content_en": "Henrik Kjelsrud Johansen",
+        "player_in": "亨里克·约翰森",
+        "player_out": "斯蒂芬·斯卡雷维克",
+        "player_in_en": "Henrik Kjelsrud Johansen",
+        "player_out_en": "Steffen Skalevik"
+      },
+      {
+        "event_id": 8,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(卡拉达斯)换入(希维特·赫尔特恩·尼尔森)换出",
+        "content_en": "Azar Karadas",
+        "player_in": "卡拉达斯",
+        "player_out": "希维特·赫尔特恩·尼尔森",
+        "player_in_en": "Azar Karadas",
+        "player_out_en": "Sivert Nilsen"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "汉森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7145.png",
+            "player_id": "1035-7145",
+            "name_en": "Andre Hansen"
+          }
+        ],
+        [
+          {
+            "name": "赫登斯塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_549.png",
+            "player_id": "1035-549",
+            "name_en": "Vegar Hedenstad"
+          },
+          {
+            "name": "雷吉纽森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7197.png",
+            "player_id": "1035-7197",
+            "name_en": "Tore Reginiussen"
+          },
+          {
+            "name": "霍夫兰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3721.png",
+            "player_id": "1035-3721",
+            "name_en": "Even Hovland"
+          },
+          {
+            "name": "梅林",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1035-25784",
+            "name_en": "Birger Meling"
+          }
+        ],
+        [
+          {
+            "name": "延森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7199.png",
+            "player_id": "1035-7199",
+            "name_en": "Mike Jensen"
+          },
+          {
+            "name": "康拉德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1602.png",
+            "player_id": "1035-1602",
+            "name_en": "Anders Konradsen"
+          },
+          {
+            "name": "特隆德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7319.png",
+            "player_id": "1035-7319",
+            "name_en": "Anders Trondsen"
+          }
+        ],
+        [
+          {
+            "name": "赫兰德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7209.png",
+            "player_id": "1035-7209",
+            "name_en": "Pal Helland"
+          },
+          {
+            "name": "索德伦德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7204.png",
+            "player_id": "1035-7204",
+            "name_en": "Alexander Soderlund"
+          },
+          {
+            "name": "本特纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_187.png",
+            "player_id": "1035-187",
+            "name_en": "Nicklas Bendtner"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "拉德林格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_12298.png",
+            "player_id": "722-12298",
+            "name_en": "Samuel Radlinger"
+          }
+        ],
+        [
+          {
+            "name": "沙恩辛",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "722-31587",
+            "name_en": "G. Srensen"
+          },
+          {
+            "name": "沃姆古尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_6168.png",
+            "player_id": "722-6168",
+            "name_en": "Vito Wormgoor"
+          },
+          {
+            "name": "比斯马克·阿科斯塔·埃文斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27360.png",
+            "player_id": "722-27360",
+            "name_en": "Bismar Gilberto Acosta Ev"
+          },
+          {
+            "name": "克里斯蒂安森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21595.png",
+            "player_id": "722-21595",
+            "name_en": "Ruben Kristiansen"
+          }
+        ],
+        [
+          {
+            "name": "豪根",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7422.png",
+            "player_id": "722-7422",
+            "name_en": "Fredrik Haugen"
+          },
+          {
+            "name": "希维特·赫尔特恩·尼尔森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7230.png",
+            "player_id": "722-7230",
+            "name_en": "Sivert Nilsen"
+          },
+          {
+            "name": "皮特·奥利·拉尔森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7403.png",
+            "player_id": "722-7403",
+            "name_en": "Peter Larsen"
+          }
+        ],
+        [
+          {
+            "name": "吉尔贝托·科姆松",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "722-31618",
+            "name_en": "Gilbert Koomson"
+          },
+          {
+            "name": "斯蒂芬·斯卡雷维克",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "722-27671",
+            "name_en": "Steffen Skalevik"
+          },
+          {
+            "name": "卢德西尼奥·马伦戈",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "722-24516",
+            "name_en": "Ludcinio Marengo"
+          }
+        ]
+      ],
+      "host_static_shotnum": 9,
+      "away_static_shotnum": 9,
+      "host_static_shotznum": 3,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 8,
+      "away_static_foul": 13,
+      "host_static_corner": 3,
+      "away_static_corner": 4,
+      "host_static_offside": 2,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 1,
+      "host_static_controltime": "49.00",
+      "away_static_controltime": "51.00",
+      "host_static_attack": 52,
+      "away_static_attack": 60,
+      "host_static_risk_attack": 36,
+      "away_static_risk_attack": 39,
+      "host_static_free_kick": 14,
+      "away_static_free_kick": 10
+    },
+    "match_time_1": "2018-05-28 02:00:36 +0800",
+    "match_time_2": "2018-05-28 03:05:28 +0800",
+    "match_time_3": null
+  },
+  {
+    "match_id": "709989",
+    "match_week": "周一",
+    "match_sn": "002",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 0,
+    "match_status_desc": "未开赛",
+    "host_id": "3418",
+    "away_id": "507",
+    "season_id": 4695,
+    "match_desc": "18挪超第12轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "",
+    "away_score": "",
+    "host_half_score": "",
+    "away_half_score": "",
+    "host_rank": "[07]",
+    "away_rank": "[14]",
+    "season_pre": "挪超",
+    "group_pre": "第12轮",
+    "extra_info": "",
+    "spf_cnt": "[33, 1, 4]",
+    "manual_sort": 0,
+    "match_time": "2018-05-29 01:00:00 +0800",
+    "caiqiu_index": "87",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": null,
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180528002"
+    },
+    "league": "18挪超第12轮",
+    "season": "18挪超第12轮",
+    "bet_match_id": "周一002",
+    "season_pre_en": "Eliteserien",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": null,
+    "match_half_time": null,
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Upcoming",
+    "match_status_desc_new": "2018年05月29日 01:00",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": null,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/images/team/507.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/images/team/3418c.png",
+    "host_name": "萨尔普斯堡",
+    "host_name_en": "Sarpsborg 08 FF",
+    "away_name": "斯塔贝克",
+    "away_name_en": "Stabaek",
+    "odds": {
+      "spf": [
+        1.46,
+        3.95,
+        5.22
+      ],
+      "rqspf": [
+        -1,
+        2.57,
+        3.38,
+        2.25
+      ],
+      "bifen": [
+        7.0,
+        7.25,
+        7.0,
+        11.5,
+        11.5,
+        20.0,
+        22.0,
+        23.0,
+        40.0,
+        50.0,
+        50.0,
+        80.0,
+        35.0,
+        13.5,
+        7.25,
+        13.0,
+        50.0,
+        300.0,
+        13.0,
+        13.0,
+        13.0,
+        60.0,
+        40.0,
+        35.0,
+        200.0,
+        120.0,
+        120.0,
+        600.0,
+        400.0,
+        400.0,
+        120.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.46,
+    "avge_odds": 1.46,
+    "benefit": "竞彩最高回报1.46倍",
+    "match_details": [],
+    "match_statis": {
+      "host_formation": "4-4-22018-05-21 桑 德 VS 萨  堡",
+      "away_formation": "4-2-3-12018-05-21 斯塔贝 VS 奥  德",
+      "host_players": [
+        [
+          {
+            "name": "阿斯拉克·法尔克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27166.png",
+            "player_id": "3418-27166",
+            "name_en": "Aslak Falque"
+          }
+        ],
+        [
+          {
+            "name": "琼·海尔格·特维塔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_27332.png",
+            "player_id": "3418-27332",
+            "name_en": "Jon-Helge Tveita"
+          },
+          {
+            "name": "约根森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7270.png",
+            "player_id": "3418-7270",
+            "name_en": "Joackim Jorgensen"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          },
+          {
+            "name": "托马森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7234.png",
+            "player_id": "3418-7234",
+            "name_en": "Joachim Thomassen"
+          }
+        ],
+        [
+          {
+            "name": "哈尔沃森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7151.png",
+            "player_id": "3418-7151",
+            "name_en": "Ole Halvorsen"
+          },
+          {
+            "name": "扎查里亚森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3418-27678",
+            "name_en": "Kristoffer Zachariassen"
+          },
+          {
+            "name": "马蒂·尼尔森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4859.png",
+            "player_id": "3418-4859",
+            "name_en": "Matti Lund Nielsen"
+          },
+          {
+            "name": "阿斯卡尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7432.png",
+            "player_id": "3418-7432",
+            "name_en": "Amin Askar"
+          }
+        ],
+        [
+          {
+            "name": "帕特里克·莫腾森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "3418-30587",
+            "name_en": "Patrick Mortensen"
+          },
+          {
+            "name": "",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": ""
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "曼德·萨尤巴",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7301.png",
+            "player_id": "507-7301",
+            "name_en": "Sayouba Mande"
+          }
+        ],
+        [
+          {
+            "name": "埃尔南德斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "507-46455",
+            "name_en": "R. Hernandez"
+          },
+          {
+            "name": "德米多夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7420.png",
+            "player_id": "507-7420",
+            "name_en": "Vadim Demidov"
+          },
+          {
+            "name": "格兰利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7315.png",
+            "player_id": "507-7315",
+            "name_en": "Daniel Granli"
+          },
+          {
+            "name": "耶佩·莫耶",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "507-30586",
+            "name_en": "Jeppe Moe"
+          }
+        ],
+        [
+          {
+            "name": "维特尔森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "507-44028",
+            "name_en": "H. Vetlese"
+          },
+          {
+            "name": "T. Brkeeiet",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "507-44035",
+            "name_en": "T. Brkeeiet"
+          }
+        ],
+        [
+          {
+            "name": "布林伊尔德森",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "507-44033",
+            "name_en": "O. Brynhildsen"
+          },
+          {
+            "name": "布罗赫曼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7394.png",
+            "player_id": "507-7394",
+            "name_en": "Tonny Brochmann"
+          },
+          {
+            "name": "博利",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "507-7310",
+            "name_en": "Franck Boli"
+          }
+        ],
+        [
+          {
+            "name": "奥维·奥姆胡安佛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7261.png",
+            "player_id": "507-7261",
+            "name_en": "Anthony Omoijuanfo"
+          }
+        ]
+      ],
+      "host_static_shotnum": 0,
+      "away_static_shotnum": 0,
+      "host_static_shotznum": 0,
+      "away_static_shotznum": 0,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 0,
+      "away_static_foul": 0,
+      "host_static_corner": 0,
+      "away_static_corner": 0,
+      "host_static_offside": 0,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 0,
+      "host_static_controltime": "0.00",
+      "away_static_controltime": "0.00",
+      "host_static_attack": 0,
+      "away_static_attack": 0,
+      "host_static_risk_attack": 0,
+      "away_static_risk_attack": 0,
+      "host_static_free_kick": 0,
+      "away_static_free_kick": 0
+    },
+    "match_time_1": null,
+    "match_time_2": null,
+    "match_time_3": null
+  }
+]

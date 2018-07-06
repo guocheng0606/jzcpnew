@@ -1,0 +1,2082 @@
+[
+  {
+    "match_id": "723866",
+    "match_week": "周四",
+    "match_sn": "003",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "590",
+    "away_id": "691",
+    "season_id": 4432,
+    "match_desc": "17/18比甲第8轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "3",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "[02]",
+    "away_rank": "[01]",
+    "season_pre": "比甲",
+    "group_pre": "第8轮",
+    "extra_info": "",
+    "spf_cnt": "[27, 5, 24]",
+    "manual_sort": 0,
+    "match_time": "2018-05-10 20:30:00 +0800",
+    "caiqiu_index": "91",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-11 23:44:53 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180510003"
+    },
+    "league": "17/18比甲第8轮",
+    "season": "17/18比甲第8轮",
+    "bet_match_id": "周四003",
+    "season_pre_en": "Belgian First Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-10 20:34:18 +0800",
+    "match_half_time": "2018-05-10 21:41:10 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 16,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/590.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/691.png",
+    "host_name": "安德莱赫特",
+    "host_name_en": "Anderlecht",
+    "away_name": "标准列日",
+    "away_name_en": "Standard Liege",
+    "odds": {
+      "spf": [
+        1.7,
+        3.6,
+        3.8
+      ],
+      "rqspf": [
+        -1,
+        3.2,
+        3.47,
+        1.89
+      ],
+      "bifen": [
+        6.9,
+        8.75,
+        7.0,
+        14.0,
+        13.0,
+        21.0,
+        32.0,
+        27.0,
+        50.0,
+        80.0,
+        70.0,
+        120.0,
+        35.0,
+        12.5,
+        6.7,
+        12.0,
+        45.0,
+        250.0,
+        11.5,
+        11.5,
+        11.0,
+        45.0,
+        28.0,
+        30.0,
+        120.0,
+        90.0,
+        90.0,
+        400.0,
+        250.0,
+        300.0,
+        100.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.8,
+    "avge_odds": 1.17,
+    "benefit": "竞彩实际回报3.80倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 36.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": ". Teodorczyk",
+        "content_en": ". Teodorczyk"
+      },
+      {
+        "event_id": 1,
+        "time": 44.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "L. Selahi",
+        "content_en": "L. Selahi"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "A. Trebel",
+        "content_en": "A. Trebel"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "C. Fai",
+        "content_en": "C. Fai"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "S. Kums",
+        "content_en": "S. Kums"
+      },
+      {
+        "event_id": 5,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(P. Gerkens)换入(K. Saief)换出",
+        "content_en": "(P. Gerkens)换入(K. Saief)换出",
+        "player_in": "P. Gerkens",
+        "player_out": "K. Saief"
+      },
+      {
+        "event_id": 6,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Carlinhos)换入(L. Selahi)换出",
+        "content_en": "(Carlinhos)换入(L. Selahi)换出",
+        "player_in": "Carlinhos",
+        "player_out": "L. Selahi"
+      },
+      {
+        "event_id": 7,
+        "time": 48.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "Edmilson Junior",
+        "content_en": "Edmilson Junior"
+      },
+      {
+        "event_id": 8,
+        "time": 51.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "R. Emond",
+        "content_en": "R. Emond"
+      },
+      {
+        "event_id": 9,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "迪奥度锡克",
+        "content_en": "迪奥度锡克"
+      },
+      {
+        "event_id": 10,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "高积高",
+        "content_en": "高积高"
+      },
+      {
+        "event_id": 13,
+        "time": 78.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "埃迪米森",
+        "content_en": "埃迪米森"
+      },
+      {
+        "event_id": 14,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(A. Saelemaekers)换入(A. Najar)换出",
+        "content_en": "(A. Saelemaekers)换入(A. Najar)换出",
+        "player_in": "A. Saelemaekers",
+        "player_out": "A. Najar"
+      },
+      {
+        "event_id": 16,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "G. Koutroumbis",
+        "content_en": "G. Koutroumbis"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "3-6-1",
+      "away_formation": null,
+      "host_players": [
+        [
+          {
+            "name": "塞尔斯",
+            "player_id": "590-17535",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matz Sels"
+          }
+        ],
+        [
+          {
+            "name": "若苏埃·萨",
+            "player_id": "590-33916",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Josue Humberto Goncalves "
+          },
+          {
+            "name": "德尚希",
+            "player_id": "590-17219",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Olivier Deschacht"
+          },
+          {
+            "name": "邓冬克",
+            "player_id": "590-17233",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Leander Dendoncker"
+          }
+        ],
+        [
+          {
+            "name": "肯尼斯·赛弗",
+            "player_id": "590-29796",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Kenny Saief"
+          },
+          {
+            "name": "安迪·纳哈尔",
+            "player_id": "590-32620",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Andy Ariel Najar Rodrigue"
+          },
+          {
+            "name": "特雷贝尔",
+            "player_id": "590-1498",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Adrien Trebel"
+          },
+          {
+            "name": "库姆斯",
+            "player_id": "590-17448",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Sven Kums"
+          },
+          {
+            "name": "马尔科维奇",
+            "player_id": "590-6767",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lazar Markovic"
+          },
+          {
+            "name": "森冈亮太",
+            "player_id": "590-15174",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ryota Morioka"
+          }
+        ],
+        [
+          {
+            "name": "特奥多切克",
+            "player_id": "590-11989",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lukasz Teodorczyk"
+          }
+        ]
+      ],
+      "away_players": null,
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 8,
+      "host_static_shotznum": 4,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 16,
+      "away_static_foul": 12,
+      "host_static_corner": 9,
+      "away_static_corner": 6,
+      "host_static_offside": 2,
+      "away_static_offside": 4,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 4,
+      "host_static_controltime": "46.00",
+      "away_static_controltime": "54.00",
+      "host_static_attack": 61,
+      "away_static_attack": 36,
+      "host_static_risk_attack": 37,
+      "away_static_risk_attack": 16,
+      "host_static_free_kick": 16,
+      "away_static_free_kick": 18
+    }
+  },
+  {
+    "match_id": "723867",
+    "match_week": "周四",
+    "match_sn": "005",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "742",
+    "away_id": "729",
+    "season_id": 4432,
+    "match_desc": "17/18比甲第8轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "3",
+    "host_half_score": "1",
+    "away_half_score": "0",
+    "host_rank": "[06]",
+    "away_rank": "[04]",
+    "season_pre": "比甲",
+    "group_pre": "第8轮",
+    "extra_info": "",
+    "spf_cnt": "[3, 3, 25]",
+    "manual_sort": 0,
+    "match_time": "2018-05-11 00:00:00 +0800",
+    "caiqiu_index": "90",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-11 23:44:53 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180510005"
+    },
+    "league": "17/18比甲第8轮",
+    "season": "17/18比甲第8轮",
+    "bet_match_id": "周四005",
+    "season_pre_en": "Belgian First Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "1,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-11 00:00:07 +0800",
+    "match_half_time": "2018-05-11 01:02:32 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 16,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/729.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/742.png",
+    "host_name": "沙勒罗瓦",
+    "host_name_en": "Charleroi",
+    "away_name": "布鲁日",
+    "away_name_en": "Club Brugge",
+    "odds": {
+      "spf": [
+        3.9,
+        3.6,
+        1.68
+      ],
+      "rqspf": [
+        1,
+        3.22,
+        3.4,
+        1.91
+      ],
+      "bifen": [
+        11.0,
+        22.0,
+        11.0,
+        45.0,
+        30.0,
+        32.0,
+        120.0,
+        80.0,
+        90.0,
+        300.0,
+        250.0,
+        300.0,
+        90.0,
+        12.0,
+        6.3,
+        13.0,
+        50.0,
+        250.0,
+        7.0,
+        7.0,
+        7.0,
+        15.0,
+        12.0,
+        19.0,
+        35.0,
+        27.0,
+        50.0,
+        100.0,
+        80.0,
+        120.0,
+        40.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.6,
+    "avge_odds": 1.15,
+    "benefit": "竞彩实际回报1.68倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 18.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "K. Rezaei",
+        "content_en": "K. Rezaei"
+      },
+      {
+        "event_id": 1,
+        "time": 42.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "迪安迪",
+        "content_en": "迪安迪"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "F. N'Ganga",
+        "content_en": "F. N'Ganga"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "D. Cools",
+        "content_en": "D. Cools"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(H. Vanaken)换入(J. Clasie)换出",
+        "content_en": "(H. Vanaken)换入(J. Clasie)换出",
+        "player_in": "H. Vanaken",
+        "player_out": "J. Clasie"
+      },
+      {
+        "event_id": 5,
+        "time": 59.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(J. Vossen)换入(D. Cools)换出",
+        "content_en": "(J. Vossen)换入(D. Cools)换出",
+        "player_in": "J. Vossen",
+        "player_out": "D. Cools"
+      },
+      {
+        "event_id": 6,
+        "time": 61.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "K. Diatta",
+        "content_en": "K. Diatta"
+      },
+      {
+        "event_id": 7,
+        "time": 66.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "R. Vormer",
+        "content_en": "R. Vormer"
+      },
+      {
+        "event_id": 8,
+        "time": 70.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(D. Pollet)换入(M. Fall)换出",
+        "content_en": "(D. Pollet)换入(M. Fall)换出",
+        "player_in": "D. Pollet",
+        "player_out": "M. Fall"
+      },
+      {
+        "event_id": 9,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "H. Vanaken",
+        "content_en": "H. Vanaken"
+      },
+      {
+        "event_id": 10,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "J. Vossen",
+        "content_en": "J. Vossen"
+      },
+      {
+        "event_id": 11,
+        "time": 79.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(T. Simons)换入(Wesley)换出",
+        "content_en": "(T. Simons)换入(Wesley)换出",
+        "player_in": "T. Simons",
+        "player_out": "Wesley"
+      },
+      {
+        "event_id": 12,
+        "time": 81.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(C. Bedia)换入(A. Baby)换出",
+        "content_en": "(C. Bedia)换入(A. Baby)换出",
+        "player_in": "C. Bedia",
+        "player_out": "A. Baby"
+      },
+      {
+        "event_id": 13,
+        "time": 81.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(Nurio Fortuna)换入(C. Diandy)换出",
+        "content_en": "(Nurio Fortuna)换入(C. Diandy)换出",
+        "player_in": "Nurio Fortuna",
+        "player_out": "C. Diandy"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-5-1",
+      "away_formation": "3-5-2",
+      "host_players": [
+        [
+          {
+            "name": "佩纳托",
+            "player_id": "742-1766",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Nicolas Penneteau"
+          }
+        ],
+        [
+          {
+            "name": "马里诺斯",
+            "player_id": "742-17381",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Stergios Marinos"
+          },
+          {
+            "name": "马托斯",
+            "player_id": "742-17375",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Francisco Martos"
+          },
+          {
+            "name": "恩冈加",
+            "player_id": "742-17382",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Francis N'Ganga"
+          },
+          {
+            "name": "德索雷尔",
+            "player_id": "742-33596",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dorian Dessoleil"
+          }
+        ],
+        [
+          {
+            "name": "伊莱马哈里特拉",
+            "player_id": "742-25554",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Marco Ilaimaharitra"
+          },
+          {
+            "name": "马马多·法尔",
+            "player_id": "742-33606",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Mamadou Fall"
+          },
+          {
+            "name": "巴比",
+            "player_id": "742-2161",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Amara Baby"
+          },
+          {
+            "name": "韦纳文特",
+            "player_id": "742-5730",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Cristian Benavente"
+          },
+          {
+            "name": "克里斯托弗·迪安迪",
+            "player_id": "742-33590",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Christophe Diandy"
+          }
+        ],
+        [
+          {
+            "name": "K.雷扎伊",
+            "player_id": "742-44828",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Kaveh Rezaei"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "霍瓦特",
+            "player_id": "729-7144",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ethan Horvath"
+          }
+        ],
+        [
+          {
+            "name": "贝诺特·保莱恩",
+            "player_id": "729-32801",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Benoit Poulain"
+          },
+          {
+            "name": "邓斯维尔",
+            "player_id": "729-5860",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Stefano Denswil"
+          },
+          {
+            "name": "梅切莱",
+            "player_id": "729-17315",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Brandon Mechele"
+          }
+        ],
+        [
+          {
+            "name": "克拉谢",
+            "player_id": "729-79",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordy Clasie"
+          },
+          {
+            "name": "马维罗斯·纳卡姆巴",
+            "player_id": "729-22884",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Marvelous Nakamba"
+          },
+          {
+            "name": "E·丹尼斯",
+            "player_id": "729-36857",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Emmanuel Denni"
+          },
+          {
+            "name": "沃尔默",
+            "player_id": "729-5994",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ruud Vormer"
+          },
+          {
+            "name": "迪昂·库斯",
+            "player_id": "729-29930",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dion Cools"
+          }
+        ],
+        [
+          {
+            "name": "韦斯利·莫莱斯",
+            "player_id": "729-32810",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Wesley Moraes Ferreira da"
+          },
+          {
+            "name": "K.迪亚塔",
+            "player_id": "729-44021",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Krepin Diatta"
+          }
+        ]
+      ],
+      "host_static_shotnum": 6,
+      "away_static_shotnum": 18,
+      "host_static_shotznum": 2,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 18,
+      "away_static_foul": 12,
+      "host_static_corner": 1,
+      "away_static_corner": 7,
+      "host_static_offside": 1,
+      "away_static_offside": 4,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 2,
+      "host_static_controltime": "50.00",
+      "away_static_controltime": "50.00",
+      "host_static_attack": 39,
+      "away_static_attack": 55,
+      "host_static_risk_attack": 29,
+      "away_static_risk_attack": 46,
+      "host_static_free_kick": 16,
+      "away_static_free_kick": 19
+    }
+  },
+  {
+    "match_id": "723868",
+    "match_week": "周四",
+    "match_sn": "006",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "840",
+    "away_id": "839",
+    "season_id": 4432,
+    "match_desc": "17/18比甲第8轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "1",
+    "host_rank": "[04]",
+    "away_rank": "[05]",
+    "season_pre": "比甲",
+    "group_pre": "第8轮",
+    "extra_info": "",
+    "spf_cnt": "[27, 12, 9]",
+    "manual_sort": 0,
+    "match_time": "2018-05-11 02:30:00 +0800",
+    "caiqiu_index": "81",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-11 23:44:53 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180510006"
+    },
+    "league": "17/18比甲第8轮",
+    "season": "17/18比甲第8轮",
+    "bet_match_id": "周四006",
+    "season_pre_en": "Belgian First Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-11 02:30:07 +0800",
+    "match_half_time": "2018-05-11 03:33:48 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 16,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/839.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/840.png",
+    "host_name": "亨克",
+    "host_name_en": "KRC Genk",
+    "away_name": "根特",
+    "away_name_en": "KAA Gent",
+    "odds": {
+      "spf": [
+        1.78,
+        3.35,
+        3.72
+      ],
+      "rqspf": [
+        -1,
+        1.78,
+        3.5,
+        3.55
+      ],
+      "bifen": [
+        6.8,
+        8.5,
+        7.25,
+        15.0,
+        14.0,
+        21.0,
+        34.0,
+        35.0,
+        50.0,
+        80.0,
+        70.0,
+        150.0,
+        40.0,
+        11.0,
+        7.0,
+        14.0,
+        50.0,
+        300.0,
+        10.0,
+        10.0,
+        10.0,
+        40.0,
+        27.0,
+        34.0,
+        100.0,
+        70.0,
+        80.0,
+        300.0,
+        250.0,
+        300.0,
+        100.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.35,
+    "avge_odds": 1.16,
+    "benefit": "竞彩实际回报3.35倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 15.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "Y. Kubo",
+        "content_en": "Y. Kubo"
+      },
+      {
+        "event_id": 1,
+        "time": 16.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "S. Rosted",
+        "content_en": "S. Rosted"
+      },
+      {
+        "event_id": 2,
+        "time": 21.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "B. Dejaegere",
+        "content_en": "B. Dejaegere"
+      },
+      {
+        "event_id": 3,
+        "time": 33.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(S. Kalu)换入(G. Chakvetadze)换出",
+        "content_en": "(S. Kalu)换入(G. Chakvetadze)换出",
+        "player_in": "S. Kalu",
+        "player_out": "G. Chakvetadze"
+      },
+      {
+        "event_id": 4,
+        "time": 38.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "S. Kalu",
+        "content_en": "S. Kalu"
+      },
+      {
+        "event_id": 5,
+        "time": 43.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "I. Seck",
+        "content_en": "I. Seck"
+      },
+      {
+        "event_id": 6,
+        "time": 53.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(M. Samatta)换入(N. Karelis)换出",
+        "content_en": "(M. Samatta)换入(N. Karelis)换出",
+        "player_in": "M. Samatta",
+        "player_out": "N. Karelis"
+      },
+      {
+        "event_id": 8,
+        "time": 66.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "萨马塔",
+        "content_en": "萨马塔"
+      },
+      {
+        "event_id": 11,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "yellow-card2",
+        "content": "S. Rosted",
+        "content_en": "S. Rosted"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "B. Nasti",
+        "content_en": "B. Nasti"
+      },
+      {
+        "event_id": 14,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card2",
+        "content": "B. Dejaegere",
+        "content_en": "B. Dejaegere"
+      },
+      {
+        "event_id": 15,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "L. Kalini",
+        "content_en": "L. Kalini"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-5-1",
+      "away_formation": "4-5-1",
+      "host_players": [
+        [
+          {
+            "name": "武科维奇",
+            "player_id": "840-15417",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Danny Vukovic"
+          }
+        ],
+        [
+          {
+            "name": "纳斯蒂奇",
+            "player_id": "840-18152",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Bojan Nastic"
+          },
+          {
+            "name": "克灵顿·马塔",
+            "player_id": "840-33598",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Clinton Mata"
+          },
+          {
+            "name": "艾杜",
+            "player_id": "840-31474",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "J. Aidoo"
+          },
+          {
+            "name": "科利",
+            "player_id": "840-11325",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Omar Colley"
+          }
+        ],
+        [
+          {
+            "name": "塞克",
+            "player_id": "840-2041",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ibrahima Seck"
+          },
+          {
+            "name": "特罗萨德",
+            "player_id": "840-33331",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Leandro Trossard"
+          },
+          {
+            "name": "梅莱罗",
+            "player_id": "840-2469",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Alejandro Pozuelo Melero"
+          },
+          {
+            "name": "R.马里诺夫斯基",
+            "player_id": "840-44773",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ruslan Malinovsky"
+          },
+          {
+            "name": "恩东加拉",
+            "player_id": "840-32819",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dieumerci Ndongala"
+          }
+        ],
+        [
+          {
+            "name": "尼克拉斯·卡雷利斯",
+            "player_id": "840-33328",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Nikolaos Karelis"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "卡利尼奇",
+            "player_id": "839-15650",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lovre Kalinic"
+          }
+        ],
+        [
+          {
+            "name": "西格德·罗斯特",
+            "player_id": "839-25748",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Sigurd Rosted"
+          },
+          {
+            "name": "吉戈",
+            "player_id": "839-2084",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Samuel Gigot"
+          },
+          {
+            "name": "阿萨尔",
+            "player_id": "839-17258",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Nana Asare"
+          },
+          {
+            "name": "迪兰·布隆",
+            "player_id": "839-32403",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dylan Bronn"
+          }
+        ],
+        [
+          {
+            "name": "耶阿麦卡",
+            "player_id": "839-36633",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "R. Yaremchuk"
+          },
+          {
+            "name": "久保 裕也",
+            "player_id": "839-41464",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Yuya Kubo"
+          },
+          {
+            "name": "摩西·西蒙",
+            "player_id": "839-29798",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Moses Daddy Simon"
+          },
+          {
+            "name": "沃斯特拉尔特",
+            "player_id": "839-33365",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Birger Verstraete"
+          },
+          {
+            "name": "德贾格尔",
+            "player_id": "839-17249",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Brecht Dejaegere"
+          }
+        ],
+        [
+          {
+            "name": "沙奎塔泽",
+            "player_id": "839-48444",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Giorgi Chakvetadze"
+          }
+        ]
+      ],
+      "host_static_shotnum": 20,
+      "away_static_shotnum": 3,
+      "host_static_shotznum": 10,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 14,
+      "away_static_foul": 24,
+      "host_static_corner": 12,
+      "away_static_corner": 2,
+      "host_static_offside": 2,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 2,
+      "host_static_yellow": 2,
+      "away_static_yellow": 6,
+      "host_static_controltime": "45.00",
+      "away_static_controltime": "55.00",
+      "host_static_attack": 76,
+      "away_static_attack": 42,
+      "host_static_risk_attack": 42,
+      "away_static_risk_attack": 19,
+      "host_static_free_kick": 24,
+      "away_static_free_kick": 16
+    }
+  },
+  {
+    "match_id": "723871",
+    "match_week": "周日",
+    "match_sn": "084",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "691",
+    "away_id": "729",
+    "season_id": 4432,
+    "match_desc": "17/18比甲第9轮",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "1",
+    "host_half_score": "1",
+    "away_half_score": "1",
+    "host_rank": "[01]",
+    "away_rank": "[03]",
+    "season_pre": "比甲",
+    "group_pre": "第9轮",
+    "extra_info": "",
+    "spf_cnt": "[12, 4, 22]",
+    "manual_sort": 0,
+    "match_time": "2018-05-14 00:00:00 +0800",
+    "caiqiu_index": "89",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-14 21:49:48 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180513084"
+    },
+    "league": "17/18比甲第9轮",
+    "season": "17/18比甲第9轮",
+    "bet_match_id": "周日084",
+    "season_pre_en": "Belgian First Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-14 00:02:10 +0800",
+    "match_half_time": "2018-05-14 01:06:24 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 16,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/691.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/729.png",
+    "host_name": "标准列日",
+    "host_name_en": "Standard Liege",
+    "away_name": "布鲁日",
+    "away_name_en": "Club Brugge",
+    "odds": {
+      "spf": [
+        2.28,
+        3.4,
+        2.52
+      ],
+      "rqspf": [
+        -1,
+        1.47,
+        4.15,
+        4.8
+      ],
+      "bifen": [
+        10.0,
+        13.0,
+        7.25,
+        23.0,
+        17.0,
+        20.0,
+        60.0,
+        40.0,
+        50.0,
+        120.0,
+        100.0,
+        120.0,
+        40.0,
+        15.0,
+        7.0,
+        11.0,
+        35.0,
+        100.0,
+        10.5,
+        10.5,
+        8.25,
+        26.0,
+        18.0,
+        20.0,
+        60.0,
+        45.0,
+        50.0,
+        150.0,
+        100.0,
+        150.0,
+        50.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.52,
+    "avge_odds": 1.2,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 13.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "K. Laifis",
+        "content_en": "K. Laifis"
+      },
+      {
+        "event_id": 1,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "J. Vossen",
+        "content_en": "J. Vossen"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "J. Vossen",
+        "content_en": "J. Vossen"
+      },
+      {
+        "event_id": 3,
+        "time": 49.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "S. Denswil",
+        "content_en": "S. Denswil"
+      },
+      {
+        "event_id": 5,
+        "time": 70.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Carlinhos",
+        "content_en": "Carlinhos"
+      },
+      {
+        "event_id": 9,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "E. Horvath",
+        "content_en": "E. Horvath"
+      },
+      {
+        "event_id": 10,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "E. Dennis",
+        "content_en": "E. Dennis"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "Edmilson Junior",
+        "content_en": "Edmilson Junior"
+      },
+      {
+        "event_id": 14,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "B. Poulain",
+        "content_en": "B. Poulain"
+      },
+      {
+        "event_id": 15,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "H. Vanaken",
+        "content_en": "H. Vanaken"
+      },
+      {
+        "event_id": 16,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "M. Nakamba",
+        "content_en": "M. Nakamba"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-5-1",
+      "away_formation": "3-5-2",
+      "host_players": [
+        [
+          {
+            "name": "吉列尔莫·奥乔亚",
+            "player_id": "691-1790",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Guillermo Ochoa"
+          }
+        ],
+        [
+          {
+            "name": "科斯塔斯·莱菲斯",
+            "player_id": "691-32779",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Konstantinos Laifis"
+          },
+          {
+            "name": "波科诺利",
+            "player_id": "691-442",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Sebastien Pocognoli"
+          },
+          {
+            "name": "卡旺达",
+            "player_id": "691-4067",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Luis Pedro Cavanda"
+          },
+          {
+            "name": "C.内卡迪奥",
+            "player_id": "691-44794",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Christian Luyindama Nekad"
+          }
+        ],
+        [
+          {
+            "name": "梅赫迪·卡塞拉-冈萨雷斯",
+            "player_id": "691-30629",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Mehdi Carcela-Gonzalez"
+          },
+          {
+            "name": "埃德米尔森·儒尼尼奥",
+            "player_id": "691-32783",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Edmilson Junior"
+          },
+          {
+            "name": "格科·西米洛特",
+            "player_id": "691-37250",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Gojko Cimirot"
+          },
+          {
+            "name": "亨利·阿博",
+            "player_id": "691-24191",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Uche Henry Agbo"
+          },
+          {
+            "name": "姆波库",
+            "player_id": "691-17365",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Paul-José M'Poku"
+          }
+        ],
+        [
+          {
+            "name": "埃蒙",
+            "player_id": "691-17524",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Renaud Emond"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "霍瓦特",
+            "player_id": "729-7144",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ethan Horvath"
+          }
+        ],
+        [
+          {
+            "name": "梅切莱",
+            "player_id": "729-17315",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Brandon Mechele"
+          },
+          {
+            "name": "贝诺特·保莱恩",
+            "player_id": "729-32801",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Benoit Poulain"
+          },
+          {
+            "name": "邓斯维尔",
+            "player_id": "729-5860",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Stefano Denswil"
+          }
+        ],
+        [
+          {
+            "name": "马维罗斯·纳卡姆巴",
+            "player_id": "729-22884",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Marvelous Nakamba"
+          },
+          {
+            "name": "K.迪亚塔",
+            "player_id": "729-44021",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Krepin Diatta"
+          },
+          {
+            "name": "迪昂·库斯",
+            "player_id": "729-29930",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dion Cools"
+          },
+          {
+            "name": "瓦纳肯",
+            "player_id": "729-17336",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Hans Vanaken"
+          },
+          {
+            "name": "沃尔默",
+            "player_id": "729-5994",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ruud Vormer"
+          }
+        ],
+        [
+          {
+            "name": "韦斯利·莫莱斯",
+            "player_id": "729-32810",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Wesley Moraes Ferreira da"
+          },
+          {
+            "name": "沃森",
+            "player_id": "729-17402",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jelle Vossen"
+          }
+        ]
+      ],
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 5,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 12,
+      "away_static_foul": 22,
+      "host_static_corner": 7,
+      "away_static_corner": 1,
+      "host_static_offside": 3,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 7,
+      "host_static_controltime": "52.00",
+      "away_static_controltime": "48.00",
+      "host_static_attack": 57,
+      "away_static_attack": 39,
+      "host_static_risk_attack": 28,
+      "away_static_risk_attack": 19,
+      "host_static_free_kick": 24,
+      "away_static_free_kick": 15
+    }
+  },
+  {
+    "match_id": "728378",
+    "match_week": "周三",
+    "match_sn": "004",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "436",
+    "away_id": "1042",
+    "season_id": 4432,
+    "match_desc": "17/18比甲欧联资格2",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "比甲",
+    "group_pre": "欧联资格2",
+    "extra_info": "90分钟[1-1] 120分钟[2-2] 点球[4-3]",
+    "spf_cnt": "[18, 3, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-05-24 02:30:00 +0800",
+    "caiqiu_index": "86",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-24 19:53:47 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180523004"
+    },
+    "league": "17/18比甲欧联资格2",
+    "season": "17/18比甲欧联资格2",
+    "bet_match_id": "周三004",
+    "season_pre_en": "Belgian First Division",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-24 02:32:35 +0800",
+    "match_half_time": "2018-05-24 03:35:22 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 16,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/436.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1042.png",
+    "host_name": "聚尔特瓦雷赫姆",
+    "host_name_en": "Zulte-Waregem",
+    "away_name": "洛克伦",
+    "away_name_en": "Lokeren",
+    "odds": {
+      "spf": [
+        1.26,
+        5.0,
+        7.35
+      ],
+      "rqspf": [
+        -1,
+        3.09,
+        3.45,
+        1.94
+      ],
+      "bifen": [
+        7.5,
+        7.0,
+        7.0,
+        10.0,
+        9.25,
+        18.0,
+        16.0,
+        18.0,
+        35.0,
+        30.0,
+        35.0,
+        70.0,
+        18.0,
+        20.0,
+        7.25,
+        13.0,
+        50.0,
+        250.0,
+        24.0,
+        24.0,
+        16.0,
+        90.0,
+        50.0,
+        50.0,
+        250.0,
+        200.0,
+        150.0,
+        700.0,
+        500.0,
+        500.0,
+        150.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.26,
+    "avge_odds": 1.26,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 39.0,
+        "is_home": 1,
+        "event_type": "red-card",
+        "content": "T. Bongonda",
+        "content_en": "T. Bongonda"
+      },
+      {
+        "event_id": 1,
+        "time": 41.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "L. Mareek",
+        "content_en": "L. Mareek"
+      },
+      {
+        "event_id": 3,
+        "time": 54.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "S. Marzo",
+        "content_en": "S. Marzo"
+      },
+      {
+        "event_id": 4,
+        "time": 69.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Y. Lawal)换入(G. Hupperts)换出",
+        "content_en": "(Y. Lawal)换入(G. Hupperts)换出",
+        "player_in": "Y. Lawal",
+        "player_out": "G. Hupperts"
+      },
+      {
+        "event_id": 5,
+        "time": 71.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Bjrdal)换入(O. Kaya)换出",
+        "content_en": "(J. Bjrdal)换入(O. Kaya)换出",
+        "player_in": "J. Bjrdal",
+        "player_out": "O. Kaya"
+      },
+      {
+        "event_id": 6,
+        "time": 79.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "J. Rassoul",
+        "content_en": "J. Rassoul"
+      },
+      {
+        "event_id": 7,
+        "time": 80.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "M. Baudry",
+        "content_en": "M. Baudry"
+      },
+      {
+        "event_id": 8,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(B. Straetman)换入(J. Michel)换出",
+        "content_en": "(B. Straetman)换入(J. Michel)换出",
+        "player_in": "B. Straetman",
+        "player_out": "J. Michel"
+      },
+      {
+        "event_id": 9,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(A. Cordaro)换入(N. De Pauw)换出",
+        "content_en": "(A. Cordaro)换入(N. De Pauw)换出",
+        "player_in": "A. Cordaro",
+        "player_out": "N. De Pauw"
+      },
+      {
+        "event_id": 10,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "Francisco Cevallos",
+        "content_en": "Francisco Cevallos"
+      },
+      {
+        "event_id": 11,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "D. De fauw",
+        "content_en": "D. De fauw"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": null,
+      "host_players": null,
+      "away_players": null,
+      "host_static_shotnum": 18,
+      "away_static_shotnum": 7,
+      "host_static_shotznum": 11,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 10,
+      "away_static_foul": 20,
+      "host_static_corner": 10,
+      "away_static_corner": 4,
+      "host_static_offside": 2,
+      "away_static_offside": 1,
+      "host_static_red": 1,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 3,
+      "host_static_controltime": "48.00",
+      "away_static_controltime": "52.00",
+      "host_static_attack": 54,
+      "away_static_attack": 49,
+      "host_static_risk_attack": 27,
+      "away_static_risk_attack": 30,
+      "host_static_free_kick": 21,
+      "away_static_free_kick": 12
+    }
+  },
+  {
+    "match_id": "728569",
+    "match_week": "周日",
+    "match_sn": "021",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "840",
+    "away_id": "436",
+    "season_id": 4432,
+    "match_desc": "17/18比甲欧联资格3",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": 2,
+    "away_score": 0,
+    "host_half_score": 2,
+    "away_half_score": 0,
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "比甲",
+    "group_pre": "欧联资格3",
+    "extra_info": "",
+    "spf_cnt": "[16, 6, 2]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 00:00:00 +0800",
+    "caiqiu_index": "92",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-28 19:29:07 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180527021"
+    },
+    "league": "17/18比甲欧联资格3",
+    "season": "17/18比甲欧联资格3",
+    "bet_match_id": "周日021",
+    "season_pre_en": "Belgian First Division",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-28 00:00:51 +0800",
+    "match_half_time": "2018-05-28 01:04:41 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 16,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/436.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/840.png",
+    "host_name": "亨克",
+    "host_name_en": "KRC Genk",
+    "away_name": "聚尔特瓦雷赫姆",
+    "away_name_en": "Zulte-Waregem",
+    "odds": {
+      "spf": [
+        1.72,
+        3.55,
+        3.75
+      ],
+      "rqspf": [
+        -1,
+        3.25,
+        3.55,
+        1.85
+      ],
+      "bifen": [
+        9.0,
+        9.0,
+        7.0,
+        14.0,
+        13.0,
+        16.0,
+        23.0,
+        22.0,
+        40.0,
+        50.0,
+        40.0,
+        70.0,
+        25.0,
+        16.0,
+        6.5,
+        11.0,
+        40.0,
+        200.0,
+        14.0,
+        14.0,
+        13.0,
+        50.0,
+        35.0,
+        30.0,
+        150.0,
+        80.0,
+        80.0,
+        400.0,
+        300.0,
+        300.0,
+        75.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.55,
+    "avge_odds": 1.16,
+    "benefit": "竞彩实际回报1.72倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 17.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "M. Samatta",
+        "content_en": "M. Samatta"
+      },
+      {
+        "event_id": 1,
+        "time": 28.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "J. Uronen",
+        "content_en": "J. Uronen"
+      },
+      {
+        "event_id": 2,
+        "time": 41.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "O. Kaya",
+        "content_en": "O. Kaya"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(D. Marcq)换入(N. De Pauw)换出",
+        "content_en": "(D. Marcq)换入(N. De Pauw)换出",
+        "player_in": "D. Marcq",
+        "player_out": "N. De Pauw"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(I. aponji)换入(O. Kaya)换出",
+        "content_en": "(I. aponji)换入(O. Kaya)换出",
+        "player_in": "I. aponji",
+        "player_out": "O. Kaya"
+      },
+      {
+        "event_id": 5,
+        "time": 58.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "I. aponji",
+        "content_en": "I. aponji"
+      },
+      {
+        "event_id": 6,
+        "time": 59.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "D. Marcq",
+        "content_en": "D. Marcq"
+      },
+      {
+        "event_id": 7,
+        "time": 61.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(T. Buffel)换入(D. N'Dongala)换出",
+        "content_en": "(T. Buffel)换入(D. N'Dongala)换出",
+        "player_in": "T. Buffel",
+        "player_out": "D. N'Dongala"
+      },
+      {
+        "event_id": 8,
+        "time": 63.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "M. Samatta",
+        "content_en": "M. Samatta"
+      },
+      {
+        "event_id": 9,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(S. Coopman)换入(T. Bongonda)换出",
+        "content_en": "(S. Coopman)换入(T. Bongonda)换出",
+        "player_in": "S. Coopman",
+        "player_out": "T. Bongonda"
+      },
+      {
+        "event_id": 10,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(S. Berge)换入(R. Malinovskiy)换出",
+        "content_en": "(S. Berge)换入(R. Malinovskiy)换出",
+        "player_in": "S. Berge",
+        "player_out": "R. Malinovskiy"
+      },
+      {
+        "event_id": 11,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(S. Schrijvers)换入(Pozuelo)换出",
+        "content_en": "(S. Schrijvers)换入(Pozuelo)换出",
+        "player_in": "S. Schrijvers",
+        "player_out": "Pozuelo"
+      }
+    ],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": null,
+      "host_players": null,
+      "away_players": null,
+      "host_static_shotnum": 15,
+      "away_static_shotnum": 6,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 7,
+      "away_static_foul": 19,
+      "host_static_corner": 7,
+      "away_static_corner": 4,
+      "host_static_offside": 4,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 3,
+      "host_static_controltime": "56.00",
+      "away_static_controltime": "44.00",
+      "host_static_attack": 76,
+      "away_static_attack": 63,
+      "host_static_risk_attack": 38,
+      "away_static_risk_attack": 34,
+      "host_static_free_kick": 20,
+      "away_static_free_kick": 11
+    },
+    "match_time_1": "2018-05-28 00:01:33 +0800",
+    "match_time_2": "2018-05-28 01:05:29 +0800",
+    "match_time_3": null
+  }
+]

@@ -18,9 +18,9 @@
             android:background="@drawable/shape_season_bg">
             <ImageView
                 android:id="@+id/iv"
-                android:layout_width="65dp"
-                android:layout_height="65dp"
-                android:scaleType="centerCrop"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="center"
                 android:layout_centerInParent="true"/>
         </RelativeLayout>
 

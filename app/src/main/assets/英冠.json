@@ -1,0 +1,2119 @@
+[
+  {
+    "match_id": "728031",
+    "match_week": "周五",
+    "match_sn": "001",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "760",
+    "away_id": "811",
+    "season_id": 4456,
+    "match_desc": "17/18英冠附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "0",
+    "host_half_score": "1",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英冠",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[19, 4, 9]",
+    "manual_sort": 0,
+    "match_time": "2018-05-12 02:45:00 +0800",
+    "caiqiu_index": "88",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-12 23:29:15 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180511001"
+    },
+    "league": "17/18英冠附加赛",
+    "season": "17/18英冠附加赛",
+    "bet_match_id": "周五001",
+    "season_pre_en": "EFL Championship",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-12 02:46:46 +0800",
+    "match_half_time": "2018-05-12 03:48:43 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 3,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/760.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/811.png",
+    "host_name": "德比郡",
+    "host_name_en": "Derby County",
+    "away_name": "富勒姆",
+    "away_name_en": "Fulham",
+    "odds": {
+      "spf": [
+        2.82,
+        3.2,
+        2.17
+      ],
+      "rqspf": [
+        1,
+        4.8,
+        3.8,
+        1.52
+      ],
+      "bifen": [
+        8.5,
+        14.0,
+        9.0,
+        30.0,
+        23.0,
+        29.0,
+        80.0,
+        70.0,
+        80.0,
+        300.0,
+        250.0,
+        250.0,
+        100.0,
+        9.0,
+        6.0,
+        13.0,
+        55.0,
+        300.0,
+        7.0,
+        7.0,
+        7.5,
+        21.0,
+        20.0,
+        28.0,
+        50.0,
+        45.0,
+        70.0,
+        120.0,
+        100.0,
+        150.0,
+        70.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.82,
+    "avge_odds": 1.23,
+    "benefit": "竞彩实际回报2.82倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 34.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "杰罗梅",
+        "content_en": "Cameron Jerome"
+      },
+      {
+        "event_id": 1,
+        "time": 68.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿尼亚)换入(维德拉)换出",
+        "content_en": "Ikechi Anya",
+        "player_in": "阿尼亚",
+        "player_out": "维德拉",
+        "player_in_en": "Ikechi Anya",
+        "player_out_en": "Matej Vydra"
+      },
+      {
+        "event_id": 2,
+        "time": 68.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(纽金特)换入(杰罗梅)换出",
+        "content_en": "Dave Nugent",
+        "player_in": "纽金特",
+        "player_out": "杰罗梅",
+        "player_in_en": "Dave Nugent",
+        "player_out_en": "Cameron Jerome"
+      },
+      {
+        "event_id": 3,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(科巴诺)换入(塞塞尼温)换出",
+        "content_en": "Neeskens Kebano",
+        "player_in": "科巴诺",
+        "player_out": "塞塞尼温",
+        "player_in_en": "Neeskens Kebano",
+        "player_out_en": "Ryan Sessegnon"
+      },
+      {
+        "event_id": 4,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(皮亚松)换入(阿伊特)换出",
+        "content_en": "Gustavo Lucas Domingues P",
+        "player_in": "皮亚松",
+        "player_out": "阿伊特",
+        "player_in_en": "Gustavo Lucas Domingues P",
+        "player_out_en": "Floyd Ayite"
+      },
+      {
+        "event_id": 5,
+        "time": 77.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "魏曼",
+        "content_en": "Andreas Weimann"
+      },
+      {
+        "event_id": 6,
+        "time": 85.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "约翰森",
+        "content_en": "Stefan Johansen"
+      },
+      {
+        "event_id": 7,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "约翰逊",
+        "content_en": "Bradley Johnson"
+      },
+      {
+        "event_id": 8,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(诺伍德)换入(约翰森)换出",
+        "content_en": "Oliver James Norwood",
+        "player_in": "诺伍德",
+        "player_out": "约翰森",
+        "player_in_en": "Oliver James Norwood",
+        "player_out_en": "Stefan Johansen"
+      },
+      {
+        "event_id": 9,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(杰米·汉森)换入(魏曼)换出",
+        "content_en": "Jamie Hanson",
+        "player_in": "杰米·汉森",
+        "player_out": "魏曼",
+        "player_in_en": "Jamie Hanson",
+        "player_out_en": "Andreas Weimann"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "3-4-2-1",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "卡森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2745.png",
+            "player_id": "760-2745",
+            "name_en": "Scott Carson"
+          }
+        ],
+        [
+          {
+            "name": "科格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2703.png",
+            "player_id": "760-2703",
+            "name_en": "Richard John Keogh"
+          },
+          {
+            "name": "戴维斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3273.png",
+            "player_id": "760-3273",
+            "name_en": "Curtis Davies"
+          },
+          {
+            "name": "福尔塞特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2701.png",
+            "player_id": "760-2701",
+            "name_en": "Craig Forsyth"
+          }
+        ],
+        [
+          {
+            "name": "魏斯多姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2719.png",
+            "player_id": "760-2719",
+            "name_en": "Andre Wisdom"
+          },
+          {
+            "name": "赫德尔斯通",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2551.png",
+            "player_id": "760-2551",
+            "name_en": "Tom Huddlestone"
+          },
+          {
+            "name": "约翰逊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3280.png",
+            "player_id": "760-3280",
+            "name_en": "Bradley Johnson"
+          },
+          {
+            "name": "魏曼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2530.png",
+            "player_id": "760-2530",
+            "name_en": "Andreas Weimann"
+          }
+        ],
+        [
+          {
+            "name": "维德拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2582.png",
+            "player_id": "760-2582",
+            "name_en": "Matej Vydra"
+          },
+          {
+            "name": "汤姆劳伦斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "760-23377",
+            "name_en": "Tom Lawrence"
+          }
+        ],
+        [
+          {
+            "name": "杰罗梅",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2449.png",
+            "player_id": "760-2449",
+            "name_en": "Cameron Jerome"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "贝蒂内利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10488.png",
+            "player_id": "811-10488",
+            "name_en": "Marcus Bettinelli"
+          }
+        ],
+        [
+          {
+            "name": "弗雷里德克斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3040.png",
+            "player_id": "811-3040",
+            "name_en": "Ryan Fredericks"
+          },
+          {
+            "name": "奥多伊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17322.png",
+            "player_id": "811-17322",
+            "name_en": "Denis Odoi"
+          },
+          {
+            "name": "里姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2932.png",
+            "player_id": "811-2932",
+            "name_en": "Tim Ream"
+          },
+          {
+            "name": "塔吉特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20937.png",
+            "player_id": "811-20937",
+            "name_en": "Matt Targett"
+          }
+        ],
+        [
+          {
+            "name": "凯尔尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2825.png",
+            "player_id": "811-2825",
+            "name_en": "Tom Cairney"
+          },
+          {
+            "name": "麦克唐纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21937.png",
+            "player_id": "811-21937",
+            "name_en": "Kevin McDonald"
+          },
+          {
+            "name": "约翰森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7980.png",
+            "player_id": "811-7980",
+            "name_en": "Stefan Johansen"
+          }
+        ],
+        [
+          {
+            "name": "阿伊特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1575.png",
+            "player_id": "811-1575",
+            "name_en": "Floyd Ayite"
+          },
+          {
+            "name": "米特洛维奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17243.png",
+            "player_id": "811-17243",
+            "name_en": "Aleksandar Mitrovic"
+          },
+          {
+            "name": "塞塞尼温",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "811-31404",
+            "name_en": "Ryan Sessegnon"
+          }
+        ]
+      ],
+      "host_static_shotnum": 3,
+      "away_static_shotnum": 13,
+      "host_static_shotznum": 1,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 15,
+      "away_static_foul": 5,
+      "host_static_corner": 2,
+      "away_static_corner": 8,
+      "host_static_offside": 2,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 1,
+      "host_static_controltime": "26.00",
+      "away_static_controltime": "74.00",
+      "host_static_attack": 52,
+      "away_static_attack": 84,
+      "host_static_risk_attack": 29,
+      "away_static_risk_attack": 42,
+      "host_static_free_kick": 4,
+      "away_static_free_kick": 18
+    }
+  },
+  {
+    "match_id": "728032",
+    "match_week": "周六",
+    "match_sn": "039",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1095",
+    "away_id": "555",
+    "season_id": 4456,
+    "match_desc": "17/18英冠附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "1",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英冠",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[27, 8, 8]",
+    "manual_sort": 0,
+    "match_time": "2018-05-13 00:15:00 +0800",
+    "caiqiu_index": "81",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-13 17:15:52 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180512039"
+    },
+    "league": "17/18英冠附加赛",
+    "season": "17/18英冠附加赛",
+    "bet_match_id": "周六039",
+    "season_pre_en": "EFL Championship",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-13 00:15:50 +0800",
+    "match_half_time": "2018-05-13 01:17:38 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 3,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/555.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1095.png",
+    "host_name": "米德尔斯堡",
+    "host_name_en": "Middlesbrough",
+    "away_name": "阿斯顿维拉",
+    "away_name_en": "Aston Villa",
+    "odds": {
+      "spf": [
+        2.39,
+        2.75,
+        2.88
+      ],
+      "rqspf": [
+        -1,
+        1.41,
+        3.85,
+        6.25
+      ],
+      "bifen": [
+        6.0,
+        11.0,
+        9.0,
+        25.0,
+        23.0,
+        35.0,
+        70.0,
+        70.0,
+        100.0,
+        300.0,
+        250.0,
+        300.0,
+        150.0,
+        6.0,
+        5.4,
+        14.0,
+        70.0,
+        600.0,
+        6.5,
+        6.5,
+        10.0,
+        30.0,
+        25.0,
+        40.0,
+        100.0,
+        80.0,
+        150.0,
+        400.0,
+        400.0,
+        500.0,
+        200.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.75,
+    "avge_odds": 1.28,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 13.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "霍里哈内",
+        "content_en": "Conor Hourihane"
+      },
+      {
+        "event_id": 1,
+        "time": 15.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "耶迪纳克",
+        "content_en": "Mile Jedinak"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "弗兰德",
+        "content_en": "George Friend"
+      },
+      {
+        "event_id": 3,
+        "time": 49.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "吉布森",
+        "content_en": "Ben Gibson"
+      },
+      {
+        "event_id": 4,
+        "time": 64.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(法比奥)换入(阿亚拉)换出",
+        "content_en": "Fabio Pereira da Silva",
+        "player_in": "法比奥",
+        "player_out": "阿亚拉",
+        "player_in_en": "Fabio Pereira da Silva",
+        "player_out_en": "Daniel Ayala"
+      },
+      {
+        "event_id": 5,
+        "time": 71.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(科德加)换入(阿多马)换出",
+        "content_en": "Jonathan Kodjia",
+        "player_in": "科德加",
+        "player_out": "阿多马",
+        "player_in_en": "Jonathan Kodjia",
+        "player_out_en": "Albert Adomah"
+      },
+      {
+        "event_id": 6,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "罗伯特·斯诺格拉斯",
+        "content_en": "Robert Snodgrass"
+      },
+      {
+        "event_id": 7,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(班福德)换入(阿松巴隆加)换出",
+        "content_en": "Patrick Bamford",
+        "player_in": "班福德",
+        "player_out": "阿松巴隆加",
+        "player_in_en": "Patrick Bamford",
+        "player_out_en": "Britt Assombalonga"
+      },
+      {
+        "event_id": 8,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(B.巴纳森)换入(格拉班)换出",
+        "content_en": "Birkir Bjarnason",
+        "player_in": "B.巴纳森",
+        "player_out": "格拉班",
+        "player_in_en": "Birkir Bjarnason",
+        "player_out_en": "Lewis Grabban"
+      },
+      {
+        "event_id": 9,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(惠兰)换入(穆哈马迪)换出",
+        "content_en": "Glenn David Whelan",
+        "player_in": "惠兰",
+        "player_out": "穆哈马迪",
+        "player_in_en": "Glenn David Whelan",
+        "player_out_en": "Ahmed Elmohamady"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-1-4-1",
+      "host_players": [
+        [
+          {
+            "name": "兰多夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3080.png",
+            "player_id": "1095-3080",
+            "name_en": "Darren Edward Andrew Rand"
+          }
+        ],
+        [
+          {
+            "name": "肖顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2748.png",
+            "player_id": "1095-2748",
+            "name_en": "Ryan Shotton"
+          },
+          {
+            "name": "阿亚拉",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3418.png",
+            "player_id": "1095-3418",
+            "name_en": "Daniel Ayala"
+          },
+          {
+            "name": "吉布森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3415.png",
+            "player_id": "1095-3415",
+            "name_en": "Ben Gibson"
+          },
+          {
+            "name": "弗兰德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2888.png",
+            "player_id": "1095-2888",
+            "name_en": "George Friend"
+          }
+        ],
+        [
+          {
+            "name": "豪森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2594.png",
+            "player_id": "1095-2594",
+            "name_en": "Jonny Howson"
+          },
+          {
+            "name": "克莱顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3000.png",
+            "player_id": "1095-3000",
+            "name_en": "Adam Clayton"
+          },
+          {
+            "name": "贝希奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20905.png",
+            "player_id": "1095-20905",
+            "name_en": "Muhamed Besic"
+          }
+        ],
+        [
+          {
+            "name": "特劳雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5130.png",
+            "player_id": "1095-5130",
+            "name_en": "Adama Traoré"
+          },
+          {
+            "name": "阿松巴隆加",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_9646.png",
+            "player_id": "1095-9646",
+            "name_en": "Britt Assombalonga"
+          },
+          {
+            "name": "唐宁",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2491.png",
+            "player_id": "1095-2491",
+            "name_en": "Stewart Downing"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "约翰斯通",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3123.png",
+            "player_id": "555-3123",
+            "name_en": "Sam Johnstone"
+          }
+        ],
+        [
+          {
+            "name": "穆哈马迪",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2566.png",
+            "player_id": "555-2566",
+            "name_en": "Ahmed Elmohamady"
+          },
+          {
+            "name": "切斯特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2549.png",
+            "player_id": "555-2549",
+            "name_en": "James Chester"
+          },
+          {
+            "name": "特里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2254.png",
+            "player_id": "555-2254",
+            "name_en": "John Terry"
+          },
+          {
+            "name": "赫顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2931.png",
+            "player_id": "555-2931",
+            "name_en": "Alan Hutton"
+          }
+        ],
+        [
+          {
+            "name": "耶迪纳克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2438.png",
+            "player_id": "555-2438",
+            "name_en": "Mile Jedinak"
+          }
+        ],
+        [
+          {
+            "name": "罗伯特·斯诺格拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24086.png",
+            "player_id": "555-24086",
+            "name_en": "Robert Snodgrass"
+          },
+          {
+            "name": "霍里哈内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10313.png",
+            "player_id": "555-10313",
+            "name_en": "Conor Hourihane"
+          },
+          {
+            "name": "格里利什",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20904.png",
+            "player_id": "555-20904",
+            "name_en": "Jack Grealish"
+          },
+          {
+            "name": "阿多马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3419.png",
+            "player_id": "555-3419",
+            "name_en": "Albert Adomah"
+          }
+        ],
+        [
+          {
+            "name": "格拉班",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2847.png",
+            "player_id": "555-2847",
+            "name_en": "Lewis Grabban"
+          }
+        ]
+      ],
+      "host_static_shotnum": 16,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 2,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 9,
+      "away_static_foul": 11,
+      "host_static_corner": 10,
+      "away_static_corner": 2,
+      "host_static_offside": 1,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 2,
+      "host_static_controltime": "62.00",
+      "away_static_controltime": "38.00",
+      "host_static_attack": 73,
+      "away_static_attack": 34,
+      "host_static_risk_attack": 44,
+      "away_static_risk_attack": 19,
+      "host_static_free_kick": 12,
+      "away_static_free_kick": 10
+    }
+  },
+  {
+    "match_id": "728033",
+    "match_week": "周一",
+    "match_sn": "006",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "811",
+    "away_id": "760",
+    "season_id": 4456,
+    "match_desc": "17/18英冠附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "2",
+    "away_score": "0",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英冠",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[26, 5, 3]",
+    "manual_sort": 0,
+    "match_time": "2018-05-15 02:45:00 +0800",
+    "caiqiu_index": "91",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-15 23:29:38 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180514006"
+    },
+    "league": "17/18英冠附加赛",
+    "season": "17/18英冠附加赛",
+    "bet_match_id": "周一006",
+    "season_pre_en": "EFL Championship",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-15 02:46:44 +0800",
+    "match_half_time": "2018-05-15 03:48:52 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 3,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/760.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/811.png",
+    "host_name": "富勒姆",
+    "host_name_en": "Fulham",
+    "away_name": "德比郡",
+    "away_name_en": "Derby County",
+    "odds": {
+      "spf": [
+        1.53,
+        3.6,
+        5.05
+      ],
+      "rqspf": [
+        -1,
+        2.17,
+        3.35,
+        2.7
+      ],
+      "bifen": [
+        6.3,
+        7.0,
+        7.0,
+        11.5,
+        12.5,
+        22.0,
+        24.0,
+        26.0,
+        50.0,
+        60.0,
+        60.0,
+        120.0,
+        40.0,
+        10.5,
+        6.5,
+        15.0,
+        60.0,
+        400.0,
+        11.5,
+        11.5,
+        13.0,
+        60.0,
+        40.0,
+        40.0,
+        250.0,
+        150.0,
+        150.0,
+        600.0,
+        500.0,
+        500.0,
+        200.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.6,
+    "avge_odds": 1.07,
+    "benefit": "竞彩实际回报1.53倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 47.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "塞塞尼温",
+        "content_en": "Ryan Sessegnon"
+      },
+      {
+        "event_id": 1,
+        "time": 62.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "约翰森",
+        "content_en": "Stefan Johansen"
+      },
+      {
+        "event_id": 2,
+        "time": 66.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "奥多伊",
+        "content_en": "Denis Odoi"
+      },
+      {
+        "event_id": 3,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(凯西·帕默)换入(汤姆劳伦斯)换出",
+        "content_en": "Kasey Palmer",
+        "player_in": "凯西·帕默",
+        "player_out": "汤姆劳伦斯",
+        "player_in_en": "Kasey Palmer",
+        "player_out_en": "Tom Lawrence"
+      },
+      {
+        "event_id": 4,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(维德拉)换入(阿尼亚)换出",
+        "content_en": "Matej Vydra",
+        "player_in": "维德拉",
+        "player_out": "阿尼亚",
+        "player_in_en": "Matej Vydra",
+        "player_out_en": "Ikechi Anya"
+      },
+      {
+        "event_id": 5,
+        "time": 74.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "阿布巴卡尔·卡马拉",
+        "content_en": "Aboubakar Kamara"
+      },
+      {
+        "event_id": 6,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(纽金特)换入(杰罗梅)换出",
+        "content_en": "Dave Nugent",
+        "player_in": "纽金特",
+        "player_out": "杰罗梅",
+        "player_in_en": "Dave Nugent",
+        "player_out_en": "Cameron Jerome"
+      },
+      {
+        "event_id": 7,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(卡拉斯)换入(塔吉特)换出",
+        "content_en": "Tomas Kalas",
+        "player_in": "卡拉斯",
+        "player_out": "塔吉特",
+        "player_in_en": "Tomas Kalas",
+        "player_out_en": "Matt Targett"
+      },
+      {
+        "event_id": 8,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "赫德尔斯通",
+        "content_en": "Tom Huddlestone"
+      },
+      {
+        "event_id": 9,
+        "time": 78.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "麦克唐纳",
+        "content_en": "Kevin McDonald"
+      },
+      {
+        "event_id": 10,
+        "time": 78.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "凯西·帕默",
+        "content_en": "Kasey Palmer"
+      },
+      {
+        "event_id": 11,
+        "time": 85.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "K. Palmer",
+        "content_en": "K. Palmer"
+      },
+      {
+        "event_id": 12,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(诺伍德)换入(凯尔尼)换出",
+        "content_en": "Oliver James Norwood",
+        "player_in": "诺伍德",
+        "player_out": "凯尔尼",
+        "player_in_en": "Oliver James Norwood",
+        "player_out_en": "Tom Cairney"
+      },
+      {
+        "event_id": 13,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "贝蒂内利",
+        "content_en": "Marcus Bettinelli"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "3-4-2-1",
+      "host_players": [
+        [
+          {
+            "name": "贝蒂内利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10488.png",
+            "player_id": "811-10488",
+            "name_en": "Marcus Bettinelli"
+          }
+        ],
+        [
+          {
+            "name": "弗雷里德克斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3040.png",
+            "player_id": "811-3040",
+            "name_en": "Ryan Fredericks"
+          },
+          {
+            "name": "奥多伊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17322.png",
+            "player_id": "811-17322",
+            "name_en": "Denis Odoi"
+          },
+          {
+            "name": "里姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2932.png",
+            "player_id": "811-2932",
+            "name_en": "Tim Ream"
+          },
+          {
+            "name": "塔吉特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20937.png",
+            "player_id": "811-20937",
+            "name_en": "Matt Targett"
+          }
+        ],
+        [
+          {
+            "name": "凯尔尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2825.png",
+            "player_id": "811-2825",
+            "name_en": "Tom Cairney"
+          },
+          {
+            "name": "麦克唐纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21937.png",
+            "player_id": "811-21937",
+            "name_en": "Kevin McDonald"
+          },
+          {
+            "name": "约翰森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7980.png",
+            "player_id": "811-7980",
+            "name_en": "Stefan Johansen"
+          }
+        ],
+        [
+          {
+            "name": "阿布巴卡尔·卡马拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "811-24351",
+            "name_en": "Aboubakar Kamara"
+          },
+          {
+            "name": "米特洛维奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17243.png",
+            "player_id": "811-17243",
+            "name_en": "Aleksandar Mitrovic"
+          },
+          {
+            "name": "塞塞尼温",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "811-31404",
+            "name_en": "Ryan Sessegnon"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "卡森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2745.png",
+            "player_id": "760-2745",
+            "name_en": "Scott Carson"
+          }
+        ],
+        [
+          {
+            "name": "科格",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2703.png",
+            "player_id": "760-2703",
+            "name_en": "Richard John Keogh"
+          },
+          {
+            "name": "戴维斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3273.png",
+            "player_id": "760-3273",
+            "name_en": "Curtis Davies"
+          },
+          {
+            "name": "福尔塞特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2701.png",
+            "player_id": "760-2701",
+            "name_en": "Craig Forsyth"
+          }
+        ],
+        [
+          {
+            "name": "魏斯多姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2719.png",
+            "player_id": "760-2719",
+            "name_en": "Andre Wisdom"
+          },
+          {
+            "name": "赫德尔斯通",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2551.png",
+            "player_id": "760-2551",
+            "name_en": "Tom Huddlestone"
+          },
+          {
+            "name": "约翰逊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3280.png",
+            "player_id": "760-3280",
+            "name_en": "Bradley Johnson"
+          },
+          {
+            "name": "阿尼亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2922.png",
+            "player_id": "760-2922",
+            "name_en": "Ikechi Anya"
+          }
+        ],
+        [
+          {
+            "name": "汤姆劳伦斯",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "760-23377",
+            "name_en": "Tom Lawrence"
+          },
+          {
+            "name": "魏曼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2530.png",
+            "player_id": "760-2530",
+            "name_en": "Andreas Weimann"
+          }
+        ],
+        [
+          {
+            "name": "杰罗梅",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2449.png",
+            "player_id": "760-2449",
+            "name_en": "Cameron Jerome"
+          }
+        ]
+      ],
+      "host_static_shotnum": 20,
+      "away_static_shotnum": 14,
+      "host_static_shotznum": 10,
+      "away_static_shotznum": 1,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 7,
+      "away_static_foul": 8,
+      "host_static_corner": 9,
+      "away_static_corner": 6,
+      "host_static_offside": 1,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 2,
+      "host_static_controltime": "64.00",
+      "away_static_controltime": "36.00",
+      "host_static_attack": 67,
+      "away_static_attack": 54,
+      "host_static_risk_attack": 49,
+      "away_static_risk_attack": 30,
+      "host_static_free_kick": 9,
+      "away_static_free_kick": 8
+    }
+  },
+  {
+    "match_id": "728034",
+    "match_week": "周二",
+    "match_sn": "006",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "555",
+    "away_id": "1095",
+    "season_id": 4456,
+    "match_desc": "17/18英冠附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "0",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英冠",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[15, 5, 7]",
+    "manual_sort": 0,
+    "match_time": "2018-05-16 02:45:00 +0800",
+    "caiqiu_index": "81",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-16 17:49:19 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180515006"
+    },
+    "league": "17/18英冠附加赛",
+    "season": "17/18英冠附加赛",
+    "bet_match_id": "周二006",
+    "season_pre_en": "EFL Championship",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-16 02:47:44 +0800",
+    "match_half_time": "2018-05-16 03:51:36 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 3,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/555.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1095.png",
+    "host_name": "阿斯顿维拉",
+    "host_name_en": "Aston Villa",
+    "away_name": "米德尔斯堡",
+    "away_name_en": "Middlesbrough",
+    "odds": {
+      "spf": [
+        2.03,
+        2.92,
+        3.4
+      ],
+      "rqspf": [
+        -1,
+        1.6,
+        3.55,
+        4.5
+      ],
+      "bifen": [
+        5.8,
+        8.0,
+        7.5,
+        18.0,
+        18.0,
+        30.0,
+        40.0,
+        50.0,
+        80.0,
+        120.0,
+        150.0,
+        250.0,
+        100.0,
+        7.0,
+        5.85,
+        16.0,
+        80.0,
+        600.0,
+        7.5,
+        7.5,
+        10.5,
+        40.0,
+        35.0,
+        40.0,
+        150.0,
+        100.0,
+        150.0,
+        500.0,
+        400.0,
+        500.0,
+        250.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.4,
+    "avge_odds": 1.27,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 13.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "弗兰德",
+        "content_en": "George Friend"
+      },
+      {
+        "event_id": 1,
+        "time": 34.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "罗伯特·斯诺格拉斯",
+        "content_en": "Robert Snodgrass"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "赫顿",
+        "content_en": "Alan Hutton"
+      },
+      {
+        "event_id": 3,
+        "time": 60.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "格里利什",
+        "content_en": "Jack Grealish"
+      },
+      {
+        "event_id": 4,
+        "time": 68.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(班福德)换入(阿松巴隆加)换出",
+        "content_en": "Patrick Bamford",
+        "player_in": "班福德",
+        "player_out": "阿松巴隆加",
+        "player_in_en": "Patrick Bamford",
+        "player_out_en": "Britt Assombalonga"
+      },
+      {
+        "event_id": 5,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(格斯泰德)换入(豪森)换出",
+        "content_en": "Rudy Gestede",
+        "player_in": "格斯泰德",
+        "player_out": "豪森",
+        "player_in_en": "Rudy Gestede",
+        "player_out_en": "Jonny Howson"
+      },
+      {
+        "event_id": 6,
+        "time": 79.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(科德加)换入(格拉班)换出",
+        "content_en": "Jonathan Kodjia",
+        "player_in": "科德加",
+        "player_out": "格拉班",
+        "player_in_en": "Jonathan Kodjia",
+        "player_out_en": "Lewis Grabban"
+      },
+      {
+        "event_id": 7,
+        "time": 80.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "贝希奇",
+        "content_en": "Muhamed Besic"
+      },
+      {
+        "event_id": 8,
+        "time": 82.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(法比奥)换入(肖顿)换出",
+        "content_en": "Fabio Pereira da Silva",
+        "player_in": "法比奥",
+        "player_out": "肖顿",
+        "player_in_en": "Fabio Pereira da Silva",
+        "player_out_en": "Ryan Shotton"
+      },
+      {
+        "event_id": 9,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(惠兰)换入(霍里哈内)换出",
+        "content_en": "Glenn David Whelan",
+        "player_in": "惠兰",
+        "player_out": "霍里哈内",
+        "player_in_en": "Glenn David Whelan",
+        "player_out_en": "Conor Hourihane"
+      },
+      {
+        "event_id": 10,
+        "time": 87.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "约翰斯通",
+        "content_en": "Sam Johnstone"
+      },
+      {
+        "event_id": 11,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(B.巴纳森)换入(阿多马)换出",
+        "content_en": "Birkir Bjarnason",
+        "player_in": "B.巴纳森",
+        "player_out": "阿多马",
+        "player_in_en": "Birkir Bjarnason",
+        "player_out_en": "Albert Adomah"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-1-4-1",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "约翰斯通",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3123.png",
+            "player_id": "555-3123",
+            "name_en": "Sam Johnstone"
+          }
+        ],
+        [
+          {
+            "name": "布里",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "555-21999",
+            "name_en": "James Bree"
+          },
+          {
+            "name": "切斯特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2549.png",
+            "player_id": "555-2549",
+            "name_en": "James Chester"
+          },
+          {
+            "name": "特里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2254.png",
+            "player_id": "555-2254",
+            "name_en": "John Terry"
+          },
+          {
+            "name": "赫顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2931.png",
+            "player_id": "555-2931",
+            "name_en": "Alan Hutton"
+          }
+        ],
+        [
+          {
+            "name": "耶迪纳克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2438.png",
+            "player_id": "555-2438",
+            "name_en": "Mile Jedinak"
+          }
+        ],
+        [
+          {
+            "name": "罗伯特·斯诺格拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24086.png",
+            "player_id": "555-24086",
+            "name_en": "Robert Snodgrass"
+          },
+          {
+            "name": "霍里哈内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10313.png",
+            "player_id": "555-10313",
+            "name_en": "Conor Hourihane"
+          },
+          {
+            "name": "格里利什",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20904.png",
+            "player_id": "555-20904",
+            "name_en": "Jack Grealish"
+          },
+          {
+            "name": "阿多马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3419.png",
+            "player_id": "555-3419",
+            "name_en": "Albert Adomah"
+          }
+        ],
+        [
+          {
+            "name": "格拉班",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2847.png",
+            "player_id": "555-2847",
+            "name_en": "Lewis Grabban"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "兰多夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3080.png",
+            "player_id": "1095-3080",
+            "name_en": "Darren Edward Andrew Rand"
+          }
+        ],
+        [
+          {
+            "name": "肖顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2748.png",
+            "player_id": "1095-2748",
+            "name_en": "Ryan Shotton"
+          },
+          {
+            "name": "戴尔·弗里",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "1095-30137",
+            "name_en": "Dael Fry"
+          },
+          {
+            "name": "吉布森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3415.png",
+            "player_id": "1095-3415",
+            "name_en": "Ben Gibson"
+          },
+          {
+            "name": "弗兰德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2888.png",
+            "player_id": "1095-2888",
+            "name_en": "George Friend"
+          }
+        ],
+        [
+          {
+            "name": "豪森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2594.png",
+            "player_id": "1095-2594",
+            "name_en": "Jonny Howson"
+          },
+          {
+            "name": "克莱顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3000.png",
+            "player_id": "1095-3000",
+            "name_en": "Adam Clayton"
+          },
+          {
+            "name": "贝希奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20905.png",
+            "player_id": "1095-20905",
+            "name_en": "Muhamed Besic"
+          }
+        ],
+        [
+          {
+            "name": "特劳雷",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5130.png",
+            "player_id": "1095-5130",
+            "name_en": "Adama Traoré"
+          },
+          {
+            "name": "阿松巴隆加",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_9646.png",
+            "player_id": "1095-9646",
+            "name_en": "Britt Assombalonga"
+          },
+          {
+            "name": "唐宁",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2491.png",
+            "player_id": "1095-2491",
+            "name_en": "Stewart Downing"
+          }
+        ]
+      ],
+      "host_static_shotnum": 15,
+      "away_static_shotnum": 9,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 0,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 8,
+      "away_static_foul": 18,
+      "host_static_corner": 7,
+      "away_static_corner": 4,
+      "host_static_offside": 3,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 2,
+      "host_static_controltime": "46.00",
+      "away_static_controltime": "54.00",
+      "host_static_attack": 56,
+      "away_static_attack": 55,
+      "host_static_risk_attack": 29,
+      "away_static_risk_attack": 39,
+      "host_static_free_kick": 18,
+      "away_static_free_kick": 11
+    }
+  },
+  {
+    "match_id": "728261",
+    "match_week": "周六",
+    "match_sn": "009",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "811",
+    "away_id": "555",
+    "season_id": 4456,
+    "match_desc": "17/18英冠附加决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "0",
+    "host_half_score": "1",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英冠",
+    "group_pre": "附加决赛",
+    "extra_info": "",
+    "spf_cnt": "[21, 8, 6]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 00:00:00 +0800",
+    "caiqiu_index": "83",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-27 18:33:49 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180526009"
+    },
+    "league": "17/18英冠附加决赛",
+    "season": "17/18英冠附加决赛",
+    "bet_match_id": "周六009",
+    "season_pre_en": "EFL Championship",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 00:01:11 +0800",
+    "match_half_time": "2018-05-27 01:04:42 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 3,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/555.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/811.png",
+    "host_name": "富勒姆",
+    "host_name_en": "Fulham",
+    "away_name": "阿斯顿维拉",
+    "away_name_en": "Aston Villa",
+    "odds": {
+      "spf": [
+        2.11,
+        2.95,
+        3.16
+      ],
+      "rqspf": [
+        -1,
+        4.7,
+        3.65,
+        1.56
+      ],
+      "bifen": [
+        5.9,
+        8.75,
+        7.75,
+        20.0,
+        20.0,
+        30.0,
+        50.0,
+        50.0,
+        80.0,
+        150.0,
+        150.0,
+        250.0,
+        100.0,
+        7.0,
+        5.8,
+        15.0,
+        80.0,
+        600.0,
+        7.0,
+        7.0,
+        10.0,
+        40.0,
+        30.0,
+        40.0,
+        120.0,
+        80.0,
+        150.0,
+        400.0,
+        400.0,
+        500.0,
+        200.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.95,
+    "avge_odds": 1.23,
+    "benefit": "竞彩实际回报2.11倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 8.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "切斯特",
+        "content_en": "James Chester"
+      },
+      {
+        "event_id": 1,
+        "time": 23.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "凯尔尼",
+        "content_en": "Tom Cairney"
+      },
+      {
+        "event_id": 2,
+        "time": 38.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "奥多伊",
+        "content_en": "Denis Odoi"
+      },
+      {
+        "event_id": 3,
+        "time": 63.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "格里利什",
+        "content_en": "Jack Grealish"
+      },
+      {
+        "event_id": 4,
+        "time": 70.0,
+        "is_home": 1,
+        "event_type": "yellow-card2",
+        "content": "奥多伊",
+        "content_en": "Denis Odoi"
+      },
+      {
+        "event_id": 5,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(诺伍德)换入(约翰森)换出",
+        "content_en": "Oliver James Norwood",
+        "player_in": "诺伍德",
+        "player_out": "约翰森",
+        "player_in_en": "Oliver James Norwood",
+        "player_out_en": "Stefan Johansen"
+      },
+      {
+        "event_id": 6,
+        "time": 76.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "耶迪纳克",
+        "content_en": "Mile Jedinak"
+      },
+      {
+        "event_id": 7,
+        "time": 77.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(卡拉斯)换入(阿布巴卡尔·卡马拉)换出",
+        "content_en": "Tomas Kalas",
+        "player_in": "卡拉斯",
+        "player_out": "阿布巴卡尔·卡马拉",
+        "player_in_en": "Tomas Kalas",
+        "player_out_en": "Aboubakar Kamara"
+      },
+      {
+        "event_id": 8,
+        "time": 77.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "阿布巴卡尔·卡马拉",
+        "content_en": "Aboubakar Kamara"
+      },
+      {
+        "event_id": 9,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(科德加)换入(穆哈马迪)换出",
+        "content_en": "Jonathan Kodjia",
+        "player_in": "科德加",
+        "player_out": "穆哈马迪",
+        "player_in_en": "Jonathan Kodjia",
+        "player_out_en": "Ahmed Elmohamady"
+      },
+      {
+        "event_id": 10,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(J.奧諾馬)换入(耶迪纳克)换出",
+        "content_en": "Joshua Onomah",
+        "player_in": "J.奧諾馬",
+        "player_out": "耶迪纳克",
+        "player_in_en": "Joshua Onomah",
+        "player_out_en": "Mile Jedinak"
+      },
+      {
+        "event_id": 11,
+        "time": 82.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(霍根)换入(霍里哈内)换出",
+        "content_en": "Scott Hogan",
+        "player_in": "霍根",
+        "player_out": "霍里哈内",
+        "player_in_en": "Scott Hogan",
+        "player_out_en": "Conor Hourihane"
+      },
+      {
+        "event_id": 12,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(克里斯迪)换入(弗雷里德克斯)换出",
+        "content_en": "Cyrus Sylvester Christie",
+        "player_in": "克里斯迪",
+        "player_out": "弗雷里德克斯",
+        "player_in_en": "Cyrus Sylvester Christie",
+        "player_out_en": "Ryan Fredericks"
+      },
+      {
+        "event_id": 13,
+        "time": 86.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "赫顿",
+        "content_en": "Alan Hutton"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-1-4-1",
+      "host_players": [
+        [
+          {
+            "name": "贝蒂内利",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10488.png",
+            "player_id": "811-10488",
+            "name_en": "Marcus Bettinelli"
+          }
+        ],
+        [
+          {
+            "name": "弗雷里德克斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3040.png",
+            "player_id": "811-3040",
+            "name_en": "Ryan Fredericks"
+          },
+          {
+            "name": "奥多伊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17322.png",
+            "player_id": "811-17322",
+            "name_en": "Denis Odoi"
+          },
+          {
+            "name": "里姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2932.png",
+            "player_id": "811-2932",
+            "name_en": "Tim Ream"
+          },
+          {
+            "name": "塔吉特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20937.png",
+            "player_id": "811-20937",
+            "name_en": "Matt Targett"
+          }
+        ],
+        [
+          {
+            "name": "凯尔尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2825.png",
+            "player_id": "811-2825",
+            "name_en": "Tom Cairney"
+          },
+          {
+            "name": "麦克唐纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_21937.png",
+            "player_id": "811-21937",
+            "name_en": "Kevin McDonald"
+          },
+          {
+            "name": "约翰森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7980.png",
+            "player_id": "811-7980",
+            "name_en": "Stefan Johansen"
+          }
+        ],
+        [
+          {
+            "name": "阿布巴卡尔·卡马拉",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "811-24351",
+            "name_en": "Aboubakar Kamara"
+          },
+          {
+            "name": "米特洛维奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_17243.png",
+            "player_id": "811-17243",
+            "name_en": "Aleksandar Mitrovic"
+          },
+          {
+            "name": "塞塞尼温",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "player_id": "811-31404",
+            "name_en": "Ryan Sessegnon"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "约翰斯通",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3123.png",
+            "player_id": "555-3123",
+            "name_en": "Sam Johnstone"
+          }
+        ],
+        [
+          {
+            "name": "穆哈马迪",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2566.png",
+            "player_id": "555-2566",
+            "name_en": "Ahmed Elmohamady"
+          },
+          {
+            "name": "切斯特",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2549.png",
+            "player_id": "555-2549",
+            "name_en": "James Chester"
+          },
+          {
+            "name": "特里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2254.png",
+            "player_id": "555-2254",
+            "name_en": "John Terry"
+          },
+          {
+            "name": "赫顿",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2931.png",
+            "player_id": "555-2931",
+            "name_en": "Alan Hutton"
+          }
+        ],
+        [
+          {
+            "name": "耶迪纳克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2438.png",
+            "player_id": "555-2438",
+            "name_en": "Mile Jedinak"
+          }
+        ],
+        [
+          {
+            "name": "罗伯特·斯诺格拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24086.png",
+            "player_id": "555-24086",
+            "name_en": "Robert Snodgrass"
+          },
+          {
+            "name": "霍里哈内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10313.png",
+            "player_id": "555-10313",
+            "name_en": "Conor Hourihane"
+          },
+          {
+            "name": "格里利什",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20904.png",
+            "player_id": "555-20904",
+            "name_en": "Jack Grealish"
+          },
+          {
+            "name": "阿多马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3419.png",
+            "player_id": "555-3419",
+            "name_en": "Albert Adomah"
+          }
+        ],
+        [
+          {
+            "name": "格拉班",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2847.png",
+            "player_id": "555-2847",
+            "name_en": "Lewis Grabban"
+          }
+        ]
+      ],
+      "host_static_shotnum": 15,
+      "away_static_shotnum": 12,
+      "host_static_shotznum": 3,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 15,
+      "away_static_foul": 14,
+      "host_static_corner": 3,
+      "away_static_corner": 0,
+      "host_static_offside": 1,
+      "away_static_offside": 3,
+      "host_static_red": 1,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 4,
+      "host_static_controltime": "51.00",
+      "away_static_controltime": "49.00",
+      "host_static_attack": 46,
+      "away_static_attack": 55,
+      "host_static_risk_attack": 24,
+      "away_static_risk_attack": 34,
+      "host_static_free_kick": 16,
+      "away_static_free_kick": 17
+    }
+  }
+]

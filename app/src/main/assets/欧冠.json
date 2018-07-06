@@ -1,0 +1,2205 @@
+[
+  {
+    "match_id": "726453",
+    "match_week": "周二",
+    "match_sn": "010",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1011",
+    "away_id": "1032",
+    "season_id": 4444,
+    "match_desc": "17/18欧冠半决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "5",
+    "away_score": "2",
+    "host_half_score": "2",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "欧冠",
+    "group_pre": "半决赛",
+    "extra_info": "",
+    "spf_cnt": "[10, 2, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-04-25 02:45:00 +0800",
+    "caiqiu_index": "83",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-04-25 17:43:23 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180424010"
+    },
+    "league": "17/18欧冠半决赛",
+    "season": "17/18欧冠半决赛",
+    "bet_match_id": "周二010",
+    "season_pre_en": "Champions League",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-04-25 02:45:16 +0800",
+    "match_half_time": "2018-04-25 03:47:35 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 17,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1011.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1032.png",
+    "host_name": "利物浦",
+    "host_name_en": "Liverpool",
+    "away_name": "罗马",
+    "away_name_en": "AS Roma",
+    "odds": {
+      "spf": [
+        1.37,
+        4.3,
+        6.0
+      ],
+      "rqspf": [
+        -1,
+        2.65,
+        3.55,
+        2.13
+      ],
+      "bifen": [
+        8.0,
+        8.0,
+        7.5,
+        9.25,
+        9.75,
+        16.0,
+        17.0,
+        17.0,
+        30.0,
+        40.0,
+        35.0,
+        60.0,
+        20.0,
+        17.0,
+        8.25,
+        13.0,
+        40.0,
+        200.0,
+        18.0,
+        18.0,
+        16.0,
+        80.0,
+        40.0,
+        40.0,
+        250.0,
+        150.0,
+        125.0,
+        600.0,
+        400.0,
+        350.0,
+        125.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 1.37,
+    "avge_odds": 1.37,
+    "benefit": "竞彩实际回报1.37倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 18.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(威纳尔杜姆)换入(张伯伦)换出",
+        "content_en": "Georginio Wijnaldum",
+        "player_in": "威纳尔杜姆",
+        "player_out": "张伯伦",
+        "player_in_en": "Georginio Wijnaldum",
+        "player_out_en": "Alex Oxlade-Chamberlain"
+      },
+      {
+        "event_id": 1,
+        "time": 26.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "吉列尔梅",
+        "content_en": "Juan Guilherme Nunes Jesu"
+      },
+      {
+        "event_id": 2,
+        "time": 35.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "萨拉赫",
+        "content_en": "Mohamed Salah"
+      },
+      {
+        "event_id": 3,
+        "time": 39.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "阿诺德",
+        "content_en": "T. Arnold"
+      },
+      {
+        "event_id": 4,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "萨拉赫",
+        "content_en": "Mohamed Salah"
+      },
+      {
+        "event_id": 5,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(希克)换入(于恩德)换出",
+        "content_en": "Patrik Schick",
+        "player_in": "希克",
+        "player_out": "于恩德",
+        "player_in_en": "Patrik Schick",
+        "player_out_en": "Cengiz Under"
+      },
+      {
+        "event_id": 6,
+        "time": 56.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "马内",
+        "content_en": "Sadio Mané"
+      },
+      {
+        "event_id": 7,
+        "time": 61.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "菲尔米诺",
+        "content_en": "Roberto Firmino Barbosa d"
+      },
+      {
+        "event_id": 8,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(戈纳隆斯)换入(德罗西)换出",
+        "content_en": "Maxime Gonalons",
+        "player_in": "戈纳隆斯",
+        "player_out": "德罗西",
+        "player_in_en": "Maxime Gonalons",
+        "player_out_en": "Daniele De Rossi"
+      },
+      {
+        "event_id": 9,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(佩罗蒂)换入(吉列尔梅)换出",
+        "content_en": "Diego Perotti",
+        "player_in": "佩罗蒂",
+        "player_out": "吉列尔梅",
+        "player_in_en": "Diego Perotti",
+        "player_out_en": "Juan Guilherme Nunes Jesu"
+      },
+      {
+        "event_id": 10,
+        "time": 68.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "菲尔米诺",
+        "content_en": "Roberto Firmino Barbosa d"
+      },
+      {
+        "event_id": 11,
+        "time": 74.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "洛夫伦",
+        "content_en": "Dejan Lovren"
+      },
+      {
+        "event_id": 12,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(英斯)换入(萨拉赫)换出",
+        "content_en": "Danny Ings",
+        "player_in": "英斯",
+        "player_out": "萨拉赫",
+        "player_in_en": "Danny Ings",
+        "player_out_en": "Mohamed Salah"
+      },
+      {
+        "event_id": 13,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "哲科",
+        "content_en": "Edin Dzeko"
+      },
+      {
+        "event_id": 14,
+        "time": 85.0,
+        "is_home": 0,
+        "event_type": "goal-kick",
+        "content": "佩罗蒂",
+        "content_en": "Diego Perotti"
+      },
+      {
+        "event_id": 15,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "米尔纳",
+        "content_en": "James Milner"
+      },
+      {
+        "event_id": 16,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "法济奥",
+        "content_en": "Federico Fazio"
+      },
+      {
+        "event_id": 17,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "J. Henderson",
+        "content_en": "J. Henderson"
+      },
+      {
+        "event_id": 18,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(克拉旺)换入(菲尔米诺)换出",
+        "content_en": "Ragnar Klavan",
+        "player_in": "克拉旺",
+        "player_out": "菲尔米诺",
+        "player_in_en": "Ragnar Klavan",
+        "player_out_en": "Roberto Firmino Barbosa d"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "3-4-2-1",
+      "host_players": [
+        [
+          {
+            "name": "卡留斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_356.png",
+            "player_id": "1011-356",
+            "name_en": "Loris Karius"
+          }
+        ],
+        [
+          {
+            "name": "阿诺德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28434.png",
+            "player_id": "1011-28434",
+            "name_en": "T. Arnold"
+          },
+          {
+            "name": "洛夫伦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2371.png",
+            "player_id": "1011-2371",
+            "name_en": "Dejan Lovren"
+          },
+          {
+            "name": "范迪克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7968.png",
+            "player_id": "1011-7968",
+            "name_en": "Virgil van Dijk"
+          },
+          {
+            "name": "罗伯逊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7860.png",
+            "player_id": "1011-7860",
+            "name_en": "Andrew Robertson"
+          }
+        ],
+        [
+          {
+            "name": "张伯伦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_186.png",
+            "player_id": "1011-186",
+            "name_en": "Alex Oxlade-Chamberlain"
+          },
+          {
+            "name": "亨德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2290.png",
+            "player_id": "1011-2290",
+            "name_en": "Jordan Henderson"
+          },
+          {
+            "name": "米尔纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2265.png",
+            "player_id": "1011-2265",
+            "name_en": "James Milner"
+          }
+        ],
+        [
+          {
+            "name": "萨拉赫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2247.png",
+            "player_id": "1011-2247",
+            "name_en": "Mohamed Salah"
+          },
+          {
+            "name": "菲尔米诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_406.png",
+            "player_id": "1011-406",
+            "name_en": "Roberto Firmino Barbosa d"
+          },
+          {
+            "name": "马内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20934.png",
+            "player_id": "1011-20934",
+            "name_en": "Sadio Mané"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "阿利森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10615.png",
+            "player_id": "1032-10615",
+            "name_en": "Alisson"
+          }
+        ],
+        [
+          {
+            "name": "法济奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1159.png",
+            "player_id": "1032-1159",
+            "name_en": "Federico Fazio"
+          },
+          {
+            "name": "马诺拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_9104.png",
+            "player_id": "1032-9104",
+            "name_en": "Kostas Manolas"
+          },
+          {
+            "name": "吉列尔梅",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3928.png",
+            "player_id": "1032-3928",
+            "name_en": "Juan Guilherme Nunes Jesu"
+          }
+        ],
+        [
+          {
+            "name": "弗洛伦齐",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3212.png",
+            "player_id": "1032-3212",
+            "name_en": "Alessandro Florenzi"
+          },
+          {
+            "name": "德罗西",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3208.png",
+            "player_id": "1032-3208",
+            "name_en": "Daniele De Rossi"
+          },
+          {
+            "name": "斯特鲁特曼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3202.png",
+            "player_id": "1032-3202",
+            "name_en": "Kevin Strootman"
+          },
+          {
+            "name": "科拉罗夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2269.png",
+            "player_id": "1032-2269",
+            "name_en": "Aleksandar Kolarov"
+          }
+        ],
+        [
+          {
+            "name": "于恩德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_35327.png",
+            "player_id": "1032-35327",
+            "name_en": "Cengiz Under"
+          },
+          {
+            "name": "纳因戈兰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3219.png",
+            "player_id": "1032-3219",
+            "name_en": "Radja Nainggolan"
+          }
+        ],
+        [
+          {
+            "name": "哲科",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2268.png",
+            "player_id": "1032-2268",
+            "name_en": "Edin Dzeko"
+          }
+        ]
+      ],
+      "host_static_shotnum": 21,
+      "away_static_shotnum": 14,
+      "host_static_shotznum": 12,
+      "away_static_shotznum": 6,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 13,
+      "away_static_foul": 7,
+      "host_static_corner": 7,
+      "away_static_corner": 4,
+      "host_static_offside": 5,
+      "away_static_offside": 3,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 2,
+      "host_static_controltime": "49.00",
+      "away_static_controltime": "51.00",
+      "host_static_attack": 109,
+      "away_static_attack": 100,
+      "host_static_risk_attack": 57,
+      "away_static_risk_attack": 50,
+      "host_static_free_kick": 10,
+      "away_static_free_kick": 18
+    }
+  },
+  {
+    "match_id": "726452",
+    "match_week": "周三",
+    "match_sn": "019",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "664",
+    "away_id": "883",
+    "season_id": 4444,
+    "match_desc": "17/18欧冠半决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "2",
+    "host_half_score": "1",
+    "away_half_score": "1",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "欧冠",
+    "group_pre": "半决赛",
+    "extra_info": "",
+    "spf_cnt": "[5, 3, 4]",
+    "manual_sort": 0,
+    "match_time": "2018-04-26 02:45:00 +0800",
+    "caiqiu_index": "75",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-04-26 23:46:54 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180425019"
+    },
+    "league": "17/18欧冠半决赛",
+    "season": "17/18欧冠半决赛",
+    "bet_match_id": "周三019",
+    "season_pre_en": "Champions League",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-04-26 02:46:15 +0800",
+    "match_half_time": "2018-04-26 03:49:37 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 17,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/664.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/883.png",
+    "host_name": "拜仁慕尼黑",
+    "host_name_en": "Bayern Munich",
+    "away_name": "皇家马德里",
+    "away_name_en": "Real Madrid",
+    "odds": {
+      "spf": [
+        1.9,
+        3.8,
+        2.94
+      ],
+      "rqspf": [
+        -1,
+        1.71,
+        3.85,
+        3.51
+      ],
+      "bifen": [
+        10.0,
+        11.0,
+        8.0,
+        17.0,
+        12.5,
+        15.0,
+        30.0,
+        25.0,
+        34.0,
+        67.0,
+        60.0,
+        75.0,
+        25.0,
+        19.0,
+        7.0,
+        10.5,
+        28.0,
+        120.0,
+        15.0,
+        15.0,
+        10.0,
+        40.0,
+        22.0,
+        21.0,
+        100.0,
+        60.0,
+        60.0,
+        250.0,
+        175.0,
+        175.0,
+        47.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.94,
+    "avge_odds": 1.15,
+    "benefit": "竞彩实际回报2.94倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 8.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(蒂亚戈)换入(罗本)换出",
+        "content_en": "Thiago Alcántara do Nasci",
+        "player_in": "蒂亚戈",
+        "player_out": "罗本",
+        "player_in_en": "Thiago Alcántara do Nasci",
+        "player_out_en": "Arjen Robben"
+      },
+      {
+        "event_id": 1,
+        "time": 28.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "基米希",
+        "content_en": "Joshua Kimmich"
+      },
+      {
+        "event_id": 2,
+        "time": 34.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(舒勒)换入(博阿滕)换出",
+        "content_en": "Niklas Süle",
+        "player_in": "舒勒",
+        "player_out": "博阿滕",
+        "player_in_en": "Niklas Süle",
+        "player_out_en": "Jerome Boateng"
+      },
+      {
+        "event_id": 3,
+        "time": 44.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马塞洛",
+        "content_en": "Marcelo Vieira Da Silva J"
+      },
+      {
+        "event_id": 4,
+        "time": 46.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(Marco Asensio)换入(Isco)换出",
+        "content_en": "(Marco Asensio)换入(Isco)换出",
+        "player_in": "Marco Asensio",
+        "player_out": "Isco"
+      },
+      {
+        "event_id": 5,
+        "time": 52.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "里贝里",
+        "content_en": "Franck Ribéry"
+      },
+      {
+        "event_id": 6,
+        "time": 57.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "阿森西奥",
+        "content_en": "Marco Asensio"
+      },
+      {
+        "event_id": 7,
+        "time": 67.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(本泽马)换入(卡瓦哈尔)换出",
+        "content_en": "Karim Benzema",
+        "player_in": "本泽马",
+        "player_out": "卡瓦哈尔",
+        "player_in_en": "Karim Benzema",
+        "player_out_en": "Daniel Carvajal"
+      },
+      {
+        "event_id": 8,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(托利索)换入(马丁内斯)换出",
+        "content_en": "Corentin Tolisso",
+        "player_in": "托利索",
+        "player_out": "马丁内斯",
+        "player_in_en": "Corentin Tolisso",
+        "player_out_en": "Javier Martínez Aguinaga"
+      },
+      {
+        "event_id": 9,
+        "time": 78.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "卡塞米罗",
+        "content_en": "Carlos Henrique José Fran"
+      },
+      {
+        "event_id": 10,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(科瓦契奇)换入(卡塞米罗)换出",
+        "content_en": "Mateo Kovacic",
+        "player_in": "科瓦契奇",
+        "player_out": "卡塞米罗",
+        "player_in_en": "Mateo Kovacic",
+        "player_out_en": "Carlos Henrique José Fran"
+      },
+      {
+        "event_id": 11,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "蒂亚戈",
+        "content_en": "Thiago Alcántara do Nasci"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-1-4-1",
+      "away_formation": "4-1-4-1",
+      "host_players": [
+        [
+          {
+            "name": "乌尔赖希",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_576.png",
+            "player_id": "664-576",
+            "name_en": "Sven Ulreich"
+          }
+        ],
+        [
+          {
+            "name": "基米希",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3789.png",
+            "player_id": "664-3789",
+            "name_en": "Joshua Kimmich"
+          },
+          {
+            "name": "博阿滕",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_201.png",
+            "player_id": "664-201",
+            "name_en": "Jerome Boateng"
+          },
+          {
+            "name": "胡梅尔斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_229.png",
+            "player_id": "664-229",
+            "name_en": "Mats Hummels"
+          },
+          {
+            "name": "拉菲尼亚",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24045.png",
+            "player_id": "664-24045",
+            "name_en": "Marcio Rafael"
+          }
+        ],
+        [
+          {
+            "name": "马丁内斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_196.png",
+            "player_id": "664-196",
+            "name_en": "Javier Martínez Aguinaga"
+          }
+        ],
+        [
+          {
+            "name": "罗本",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_88.png",
+            "player_id": "664-88",
+            "name_en": "Arjen Robben"
+          },
+          {
+            "name": "穆勒",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_207.png",
+            "player_id": "664-207",
+            "name_en": "Thomas Müller"
+          },
+          {
+            "name": "J罗德里格斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3534.png",
+            "player_id": "664-3534",
+            "name_en": "James Rodríguez"
+          },
+          {
+            "name": "里贝里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_195.png",
+            "player_id": "664-195",
+            "name_en": "Franck Ribéry"
+          }
+        ],
+        [
+          {
+            "name": "莱万多夫斯基",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_225.png",
+            "player_id": "664-225",
+            "name_en": "Robert Lewandowski"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "纳瓦斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1288.png",
+            "player_id": "883-1288",
+            "name_en": "Keylor Navas"
+          }
+        ],
+        [
+          {
+            "name": "卡瓦哈尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_149.png",
+            "player_id": "883-149",
+            "name_en": "Daniel Carvajal"
+          },
+          {
+            "name": "瓦拉内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_139.png",
+            "player_id": "883-139",
+            "name_en": "Raphael Varane"
+          },
+          {
+            "name": "拉莫斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_141.png",
+            "player_id": "883-141",
+            "name_en": "Sergio Ramos"
+          },
+          {
+            "name": "马塞洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_33.png",
+            "player_id": "883-33",
+            "name_en": "Marcelo Vieira Da Silva J"
+          }
+        ],
+        [
+          {
+            "name": "卡塞米罗",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_150.png",
+            "player_id": "883-150",
+            "name_en": "Carlos Henrique José Fran"
+          }
+        ],
+        [
+          {
+            "name": "巴斯克斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5732.png",
+            "player_id": "883-5732",
+            "name_en": "Lucas Vázquez Iglesias"
+          },
+          {
+            "name": "莫德里奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_153.png",
+            "player_id": "883-153",
+            "name_en": "Luka Modric"
+          },
+          {
+            "name": "克罗斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_218.png",
+            "player_id": "883-218",
+            "name_en": "Toni Kroos"
+          },
+          {
+            "name": "伊斯科",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_157.png",
+            "player_id": "883-157",
+            "name_en": "Francisco Román Alarcón S"
+          }
+        ],
+        [
+          {
+            "name": "C罗",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_144.png",
+            "player_id": "883-144",
+            "name_en": "Cristiano Ronaldo"
+          }
+        ]
+      ],
+      "host_static_shotnum": 17,
+      "away_static_shotnum": 7,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 8,
+      "away_static_foul": 14,
+      "host_static_corner": 10,
+      "away_static_corner": 3,
+      "host_static_offside": 0,
+      "away_static_offside": 6,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 1,
+      "host_static_controltime": "60.00",
+      "away_static_controltime": "40.00",
+      "host_static_attack": 74,
+      "away_static_attack": 78,
+      "host_static_risk_attack": 46,
+      "away_static_risk_attack": 28,
+      "host_static_free_kick": 20,
+      "away_static_free_kick": 8
+    }
+  },
+  {
+    "match_id": "726455",
+    "match_week": "周二",
+    "match_sn": "002",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "883",
+    "away_id": "664",
+    "season_id": 4444,
+    "match_desc": "17/18欧冠半决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "2",
+    "away_score": "2",
+    "host_half_score": "1",
+    "away_half_score": "1",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "欧冠",
+    "group_pre": "半决赛",
+    "extra_info": "",
+    "spf_cnt": "[3, 0, 0]",
+    "manual_sort": 0,
+    "match_time": "2018-05-02 02:45:00 +0800",
+    "caiqiu_index": "99",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-02 17:29:50 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180501002"
+    },
+    "league": "17/18欧冠半决赛",
+    "season": "17/18欧冠半决赛",
+    "bet_match_id": "周二002",
+    "season_pre_en": "Champions League",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-02 02:45:08 +0800",
+    "match_half_time": "2018-05-02 03:47:39 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 17,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/664.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/883.png",
+    "host_name": "皇家马德里",
+    "host_name_en": "Real Madrid",
+    "away_name": "拜仁慕尼黑",
+    "away_name_en": "Bayern Munich",
+    "odds": {
+      "spf": [
+        2.03,
+        3.75,
+        2.7
+      ],
+      "rqspf": [
+        -1,
+        1.58,
+        4.2,
+        3.88
+      ],
+      "bifen": [
+        15.0,
+        16.0,
+        7.75,
+        20.0,
+        13.0,
+        15.0,
+        35.0,
+        24.0,
+        30.0,
+        80.0,
+        50.0,
+        60.0,
+        21.0,
+        20.0,
+        8.5,
+        10.0,
+        27.0,
+        75.0,
+        17.0,
+        17.0,
+        8.5,
+        30.0,
+        19.0,
+        19.0,
+        70.0,
+        40.0,
+        40.0,
+        200.0,
+        100.0,
+        100.0,
+        30.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.03,
+    "avge_odds": 2.03,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 3.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "基米希",
+        "content_en": "Joshua Kimmich"
+      },
+      {
+        "event_id": 1,
+        "time": 11.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "本泽马",
+        "content_en": "Karim Benzema"
+      },
+      {
+        "event_id": 2,
+        "time": 46.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "本泽马",
+        "content_en": "Karim Benzema"
+      },
+      {
+        "event_id": 3,
+        "time": 62.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "莫德里奇",
+        "content_en": "Luka Modric"
+      },
+      {
+        "event_id": 4,
+        "time": 63.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "J罗德里格斯",
+        "content_en": "James Rodríguez"
+      },
+      {
+        "event_id": 5,
+        "time": 65.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "巴斯克斯",
+        "content_en": "Lucas Vázquez Iglesias"
+      },
+      {
+        "event_id": 6,
+        "time": 72.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(贝尔)换入(本泽马)换出",
+        "content_en": "Gareth Bale",
+        "player_in": "贝尔",
+        "player_out": "本泽马",
+        "player_in_en": "Gareth Bale",
+        "player_out_en": "Karim Benzema"
+      },
+      {
+        "event_id": 7,
+        "time": 73.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(卡塞米罗)换入(科瓦契奇)换出",
+        "content_en": "Carlos Henrique José Fran",
+        "player_in": "卡塞米罗",
+        "player_out": "科瓦契奇",
+        "player_in_en": "Carlos Henrique José Fran",
+        "player_out_en": "Mateo Kovacic"
+      },
+      {
+        "event_id": 8,
+        "time": 75.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(瓦格纳)换入(托利索)换出",
+        "content_en": "Sandro Wagner",
+        "player_in": "瓦格纳",
+        "player_out": "托利索",
+        "player_in_en": "Sandro Wagner",
+        "player_out_en": "Corentin Tolisso"
+      },
+      {
+        "event_id": 9,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(马丁内斯)换入(J罗德里格斯)换出",
+        "content_en": "Javier Martínez Aguinaga",
+        "player_in": "马丁内斯",
+        "player_out": "J罗德里格斯",
+        "player_in_en": "Javier Martínez Aguinaga",
+        "player_out_en": "James Rodríguez"
+      },
+      {
+        "event_id": 10,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(纳乔·费尔南德斯)换入(阿森西奥)换出",
+        "content_en": "José Ignacio Fernández Ig",
+        "player_in": "纳乔·费尔南德斯",
+        "player_out": "阿森西奥",
+        "player_in_en": "José Ignacio Fernández Ig",
+        "player_out_en": "Marco Asensio"
+      },
+      {
+        "event_id": 11,
+        "time": 88.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "瓦拉内",
+        "content_en": "Raphael Varane"
+      },
+      {
+        "event_id": 12,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "卡塞米罗",
+        "content_en": "Carlos Henrique José Fran"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-4-2",
+      "away_formation": "4-1-4-1",
+      "host_players": [
+        [
+          {
+            "name": "纳瓦斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1288.png",
+            "player_id": "883-1288",
+            "name_en": "Keylor Navas"
+          }
+        ],
+        [
+          {
+            "name": "巴斯克斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_5732.png",
+            "player_id": "883-5732",
+            "name_en": "Lucas Vázquez Iglesias"
+          },
+          {
+            "name": "瓦拉内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_139.png",
+            "player_id": "883-139",
+            "name_en": "Raphael Varane"
+          },
+          {
+            "name": "拉莫斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_141.png",
+            "player_id": "883-141",
+            "name_en": "Sergio Ramos"
+          },
+          {
+            "name": "马塞洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_33.png",
+            "player_id": "883-33",
+            "name_en": "Marcelo Vieira Da Silva J"
+          }
+        ],
+        [
+          {
+            "name": "莫德里奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_153.png",
+            "player_id": "883-153",
+            "name_en": "Luka Modric"
+          },
+          {
+            "name": "科瓦契奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3932.png",
+            "player_id": "883-3932",
+            "name_en": "Mateo Kovacic"
+          },
+          {
+            "name": "克罗斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_218.png",
+            "player_id": "883-218",
+            "name_en": "Toni Kroos"
+          },
+          {
+            "name": "阿森西奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_23071.png",
+            "player_id": "883-23071",
+            "name_en": "Marco Asensio"
+          }
+        ],
+        [
+          {
+            "name": "本泽马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_145.png",
+            "player_id": "883-145",
+            "name_en": "Karim Benzema"
+          },
+          {
+            "name": "C罗",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_144.png",
+            "player_id": "883-144",
+            "name_en": "Cristiano Ronaldo"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "乌尔赖希",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_576.png",
+            "player_id": "664-576",
+            "name_en": "Sven Ulreich"
+          }
+        ],
+        [
+          {
+            "name": "基米希",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3789.png",
+            "player_id": "664-3789",
+            "name_en": "Joshua Kimmich"
+          },
+          {
+            "name": "舒勒",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_418.png",
+            "player_id": "664-418",
+            "name_en": "Niklas Süle"
+          },
+          {
+            "name": "胡梅尔斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_229.png",
+            "player_id": "664-229",
+            "name_en": "Mats Hummels"
+          },
+          {
+            "name": "阿拉巴",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_209.png",
+            "player_id": "664-209",
+            "name_en": "David Alaba"
+          }
+        ],
+        [
+          {
+            "name": "蒂亚戈",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_194.png",
+            "player_id": "664-194",
+            "name_en": "Thiago Alcántara do Nasci"
+          }
+        ],
+        [
+          {
+            "name": "穆勒",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_207.png",
+            "player_id": "664-207",
+            "name_en": "Thomas Müller"
+          },
+          {
+            "name": "托利索",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1423.png",
+            "player_id": "664-1423",
+            "name_en": "Corentin Tolisso"
+          },
+          {
+            "name": "J罗德里格斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3534.png",
+            "player_id": "664-3534",
+            "name_en": "James Rodríguez"
+          },
+          {
+            "name": "里贝里",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_195.png",
+            "player_id": "664-195",
+            "name_en": "Franck Ribéry"
+          }
+        ],
+        [
+          {
+            "name": "莱万多夫斯基",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_225.png",
+            "player_id": "664-225",
+            "name_en": "Robert Lewandowski"
+          }
+        ]
+      ],
+      "host_static_shotnum": 9,
+      "away_static_shotnum": 22,
+      "host_static_shotznum": 3,
+      "away_static_shotznum": 10,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 10,
+      "away_static_foul": 10,
+      "host_static_corner": 6,
+      "away_static_corner": 11,
+      "host_static_offside": 3,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 4,
+      "away_static_yellow": 0,
+      "host_static_controltime": "40.00",
+      "away_static_controltime": "60.00",
+      "host_static_attack": 72,
+      "away_static_attack": 81,
+      "host_static_risk_attack": 50,
+      "away_static_risk_attack": 62,
+      "host_static_free_kick": 10,
+      "away_static_free_kick": 12
+    }
+  },
+  {
+    "match_id": "726454",
+    "match_week": "周三",
+    "match_sn": "017",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1032",
+    "away_id": "1011",
+    "season_id": 4444,
+    "match_desc": "17/18欧冠半决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "4",
+    "away_score": "2",
+    "host_half_score": "1",
+    "away_half_score": "2",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "欧冠",
+    "group_pre": "半决赛",
+    "extra_info": "",
+    "spf_cnt": "[0, 0, 2]",
+    "manual_sort": 0,
+    "match_time": "2018-05-03 02:45:00 +0800",
+    "caiqiu_index": "99",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-03 22:43:09 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180502017"
+    },
+    "league": "17/18欧冠半决赛",
+    "season": "17/18欧冠半决赛",
+    "bet_match_id": "周三017",
+    "season_pre_en": "Champions League",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-03 02:46:15 +0800",
+    "match_half_time": "2018-05-03 03:48:27 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 17,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1011.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1032.png",
+    "host_name": "罗马",
+    "host_name_en": "AS Roma",
+    "away_name": "利物浦",
+    "away_name_en": "Liverpool",
+    "odds": {
+      "spf": [
+        2.37,
+        3.95,
+        2.2
+      ],
+      "rqspf": [
+        1,
+        4.12,
+        4.45,
+        1.51
+      ],
+      "bifen": [
+        14.0,
+        16.0,
+        9.25,
+        23.0,
+        16.0,
+        17.0,
+        50.0,
+        32.0,
+        40.0,
+        125.0,
+        80.0,
+        70.0,
+        29.0,
+        22.0,
+        8.0,
+        11.0,
+        28.0,
+        80.0,
+        13.0,
+        13.0,
+        8.5,
+        23.0,
+        15.0,
+        16.0,
+        45.0,
+        30.0,
+        35.0,
+        100.0,
+        70.0,
+        60.0,
+        25.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.2,
+    "avge_odds": 2.2,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 9.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马内",
+        "content_en": "Sadio Mané"
+      },
+      {
+        "event_id": 1,
+        "time": 15.0,
+        "is_home": 1,
+        "event_type": "goal-own",
+        "content": "米尔纳",
+        "content_en": "James Milner"
+      },
+      {
+        "event_id": 2,
+        "time": 25.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "威纳尔杜姆",
+        "content_en": "Georginio Wijnaldum"
+      },
+      {
+        "event_id": 3,
+        "time": 44.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "洛夫伦",
+        "content_en": "Dejan Lovren"
+      },
+      {
+        "event_id": 4,
+        "time": 52.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "哲科",
+        "content_en": "Edin Dzeko"
+      },
+      {
+        "event_id": 5,
+        "time": 53.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(于恩德)换入(佩莱格里尼)换出",
+        "content_en": "Cengiz Under",
+        "player_in": "于恩德",
+        "player_out": "佩莱格里尼",
+        "player_in_en": "Cengiz Under",
+        "player_out_en": "Lorenzo Pellegrini"
+      },
+      {
+        "event_id": 6,
+        "time": 69.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(戈纳隆斯)换入(德罗西)换出",
+        "content_en": "Maxime Gonalons",
+        "player_in": "戈纳隆斯",
+        "player_out": "德罗西",
+        "player_in_en": "Maxime Gonalons",
+        "player_out_en": "Daniele De Rossi"
+      },
+      {
+        "event_id": 7,
+        "time": 75.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(安东尼奇)换入(沙拉维)换出",
+        "content_en": "Antonucci",
+        "player_in": "安东尼奇",
+        "player_out": "沙拉维",
+        "player_in_en": "Antonucci",
+        "player_out_en": "Stephan El Shaarawy"
+      },
+      {
+        "event_id": 8,
+        "time": 77.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "弗洛伦齐",
+        "content_en": "Alessandro Florenzi"
+      },
+      {
+        "event_id": 9,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(克拉旺)换入(马内)换出",
+        "content_en": "Ragnar Klavan",
+        "player_in": "克拉旺",
+        "player_out": "马内",
+        "player_in_en": "Ragnar Klavan",
+        "player_out_en": "Sadio Mané"
+      },
+      {
+        "event_id": 10,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "罗伯逊",
+        "content_en": "Andrew Robertson"
+      },
+      {
+        "event_id": 11,
+        "time": 84.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "马诺拉斯",
+        "content_en": "Kostas Manolas"
+      },
+      {
+        "event_id": 12,
+        "time": 86.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "纳因戈兰",
+        "content_en": "Radja Nainggolan"
+      },
+      {
+        "event_id": 13,
+        "time": 87.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(索兰克)换入(菲尔米诺)换出",
+        "content_en": "Dominic Solanke",
+        "player_in": "索兰克",
+        "player_out": "菲尔米诺",
+        "player_in_en": "Dominic Solanke",
+        "player_out_en": "Roberto Firmino Barbosa d"
+      },
+      {
+        "event_id": 14,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "索兰克",
+        "content_en": "Dominic Solanke"
+      },
+      {
+        "event_id": 15,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(克利尼)换入(阿诺德)换出",
+        "content_en": "Nathaniel Clyne",
+        "player_in": "克利尼",
+        "player_out": "阿诺德",
+        "player_in_en": "Nathaniel Clyne",
+        "player_out_en": "T. Arnold"
+      },
+      {
+        "event_id": 16,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "goal-kick",
+        "content": "纳因戈兰",
+        "content_en": "Radja Nainggolan"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "阿利森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_10615.png",
+            "player_id": "1032-10615",
+            "name_en": "Alisson"
+          }
+        ],
+        [
+          {
+            "name": "弗洛伦齐",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3212.png",
+            "player_id": "1032-3212",
+            "name_en": "Alessandro Florenzi"
+          },
+          {
+            "name": "马诺拉斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_9104.png",
+            "player_id": "1032-9104",
+            "name_en": "Kostas Manolas"
+          },
+          {
+            "name": "法济奥",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1159.png",
+            "player_id": "1032-1159",
+            "name_en": "Federico Fazio"
+          },
+          {
+            "name": "科拉罗夫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2269.png",
+            "player_id": "1032-2269",
+            "name_en": "Aleksandar Kolarov"
+          }
+        ],
+        [
+          {
+            "name": "佩莱格里尼",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_24271.png",
+            "player_id": "1032-24271",
+            "name_en": "Lorenzo Pellegrini"
+          },
+          {
+            "name": "德罗西",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3208.png",
+            "player_id": "1032-3208",
+            "name_en": "Daniele De Rossi"
+          },
+          {
+            "name": "纳因戈兰",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_3219.png",
+            "player_id": "1032-3219",
+            "name_en": "Radja Nainggolan"
+          }
+        ],
+        [
+          {
+            "name": "希克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_18472.png",
+            "player_id": "1032-18472",
+            "name_en": "Patrik Schick"
+          },
+          {
+            "name": "哲科",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2268.png",
+            "player_id": "1032-2268",
+            "name_en": "Edin Dzeko"
+          },
+          {
+            "name": "沙拉维",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_4041.png",
+            "player_id": "1032-4041",
+            "name_en": "Stephan El Shaarawy"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "卡留斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_356.png",
+            "player_id": "1011-356",
+            "name_en": "Loris Karius"
+          }
+        ],
+        [
+          {
+            "name": "阿诺德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28434.png",
+            "player_id": "1011-28434",
+            "name_en": "T. Arnold"
+          },
+          {
+            "name": "洛夫伦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2371.png",
+            "player_id": "1011-2371",
+            "name_en": "Dejan Lovren"
+          },
+          {
+            "name": "范迪克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7968.png",
+            "player_id": "1011-7968",
+            "name_en": "Virgil van Dijk"
+          },
+          {
+            "name": "罗伯逊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7860.png",
+            "player_id": "1011-7860",
+            "name_en": "Andrew Robertson"
+          }
+        ],
+        [
+          {
+            "name": "威纳尔杜姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_83.png",
+            "player_id": "1011-83",
+            "name_en": "Georginio Wijnaldum"
+          },
+          {
+            "name": "亨德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2290.png",
+            "player_id": "1011-2290",
+            "name_en": "Jordan Henderson"
+          },
+          {
+            "name": "米尔纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2265.png",
+            "player_id": "1011-2265",
+            "name_en": "James Milner"
+          }
+        ],
+        [
+          {
+            "name": "萨拉赫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2247.png",
+            "player_id": "1011-2247",
+            "name_en": "Mohamed Salah"
+          },
+          {
+            "name": "菲尔米诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_406.png",
+            "player_id": "1011-406",
+            "name_en": "Roberto Firmino Barbosa d"
+          },
+          {
+            "name": "马内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20934.png",
+            "player_id": "1011-20934",
+            "name_en": "Sadio Mané"
+          }
+        ]
+      ],
+      "host_static_shotnum": 24,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 10,
+      "away_static_foul": 14,
+      "host_static_corner": 7,
+      "away_static_corner": 3,
+      "host_static_offside": 3,
+      "away_static_offside": 5,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 3,
+      "host_static_controltime": "60.00",
+      "away_static_controltime": "40.00",
+      "host_static_attack": 83,
+      "away_static_attack": 82,
+      "host_static_risk_attack": 63,
+      "away_static_risk_attack": 52,
+      "host_static_free_kick": 19,
+      "away_static_free_kick": 13
+    }
+  },
+  {
+    "match_id": "727763",
+    "match_week": "周六",
+    "match_sn": "001",
+    "is_hidden": 0,
+    "is_danguan": 1,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "883",
+    "away_id": "1011",
+    "season_id": 4444,
+    "match_desc": "17/18欧冠决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "3",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "欧冠",
+    "group_pre": "决赛",
+    "extra_info": "",
+    "spf_cnt": "[3, 1, 5]",
+    "manual_sort": 0,
+    "match_time": "2018-05-27 02:45:00 +0800",
+    "caiqiu_index": "89",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-27 18:33:48 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180526001"
+    },
+    "league": "17/18欧冠决赛",
+    "season": "17/18欧冠决赛",
+    "bet_match_id": "周六001",
+    "season_pre_en": "Champions League",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-27 02:45:43 +0800",
+    "match_half_time": "2018-05-27 03:50:12 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 17,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/883.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1011.png",
+    "host_name": "皇家马德里",
+    "host_name_en": "Real Madrid",
+    "away_name": "利物浦",
+    "away_name_en": "Liverpool",
+    "odds": {
+      "spf": [
+        1.93,
+        3.6,
+        3.0
+      ],
+      "rqspf": [
+        -1,
+        3.62,
+        4.05,
+        1.65
+      ],
+      "bifen": [
+        12.0,
+        13.0,
+        8.25,
+        22.0,
+        11.0,
+        16.0,
+        40.0,
+        25.0,
+        25.0,
+        85.0,
+        65.0,
+        65.0,
+        28.0,
+        15.0,
+        7.6,
+        9.5,
+        28.0,
+        80.0,
+        15.0,
+        15.0,
+        10.5,
+        35.0,
+        20.0,
+        20.0,
+        70.0,
+        40.0,
+        45.0,
+        200.0,
+        150.0,
+        100.0,
+        50.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.0,
+    "avge_odds": 1.17,
+    "benefit": "竞彩实际回报1.93倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 30.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(拉拉纳)换入(萨拉赫)换出",
+        "content_en": "Adam Lallana",
+        "player_in": "拉拉纳",
+        "player_out": "萨拉赫",
+        "player_in_en": "Adam Lallana",
+        "player_out_en": "Mohamed Salah"
+      },
+      {
+        "event_id": 1,
+        "time": 37.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(纳乔·费尔南德斯)换入(卡瓦哈尔)换出",
+        "content_en": "José Ignacio Fernández Ig",
+        "player_in": "纳乔·费尔南德斯",
+        "player_out": "卡瓦哈尔",
+        "player_in_en": "José Ignacio Fernández Ig",
+        "player_out_en": "Daniel Carvajal"
+      },
+      {
+        "event_id": 2,
+        "time": 51.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "本泽马",
+        "content_en": "Karim Benzema"
+      },
+      {
+        "event_id": 3,
+        "time": 55.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "马内",
+        "content_en": "Sadio Mané"
+      },
+      {
+        "event_id": 4,
+        "time": 61.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(贝尔)换入(伊斯科)换出",
+        "content_en": "Gareth Bale",
+        "player_in": "贝尔",
+        "player_out": "伊斯科",
+        "player_in_en": "Gareth Bale",
+        "player_out_en": "Francisco Román Alarcón S"
+      },
+      {
+        "event_id": 5,
+        "time": 64.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "贝尔",
+        "content_en": "Gareth Bale"
+      },
+      {
+        "event_id": 6,
+        "time": 82.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "马内",
+        "content_en": "Sadio Mané"
+      },
+      {
+        "event_id": 7,
+        "time": 83.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(坎)换入(米尔纳)换出",
+        "content_en": "Emre Can",
+        "player_in": "坎",
+        "player_out": "米尔纳",
+        "player_in_en": "Emre Can",
+        "player_out_en": "James Milner"
+      },
+      {
+        "event_id": 8,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "贝尔",
+        "content_en": "Gareth Bale"
+      },
+      {
+        "event_id": 9,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(阿森西奥)换入(本泽马)换出",
+        "content_en": "Marco Asensio",
+        "player_in": "阿森西奥",
+        "player_out": "本泽马",
+        "player_in_en": "Marco Asensio",
+        "player_out_en": "Karim Benzema"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-1-2",
+      "away_formation": "4-3-3",
+      "host_players": [
+        [
+          {
+            "name": "纳瓦斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_1288.png",
+            "player_id": "883-1288",
+            "name_en": "Keylor Navas"
+          }
+        ],
+        [
+          {
+            "name": "卡瓦哈尔",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_149.png",
+            "player_id": "883-149",
+            "name_en": "Daniel Carvajal"
+          },
+          {
+            "name": "瓦拉内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_139.png",
+            "player_id": "883-139",
+            "name_en": "Raphael Varane"
+          },
+          {
+            "name": "拉莫斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_141.png",
+            "player_id": "883-141",
+            "name_en": "Sergio Ramos"
+          },
+          {
+            "name": "马塞洛",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_33.png",
+            "player_id": "883-33",
+            "name_en": "Marcelo Vieira Da Silva J"
+          }
+        ],
+        [
+          {
+            "name": "莫德里奇",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_153.png",
+            "player_id": "883-153",
+            "name_en": "Luka Modric"
+          },
+          {
+            "name": "卡塞米罗",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_150.png",
+            "player_id": "883-150",
+            "name_en": "Carlos Henrique José Fran"
+          },
+          {
+            "name": "克罗斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_218.png",
+            "player_id": "883-218",
+            "name_en": "Toni Kroos"
+          }
+        ],
+        [
+          {
+            "name": "伊斯科",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_157.png",
+            "player_id": "883-157",
+            "name_en": "Francisco Román Alarcón S"
+          }
+        ],
+        [
+          {
+            "name": "本泽马",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_145.png",
+            "player_id": "883-145",
+            "name_en": "Karim Benzema"
+          },
+          {
+            "name": "C罗",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_144.png",
+            "player_id": "883-144",
+            "name_en": "Cristiano Ronaldo"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "卡留斯",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_356.png",
+            "player_id": "1011-356",
+            "name_en": "Loris Karius"
+          }
+        ],
+        [
+          {
+            "name": "阿诺德",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_28434.png",
+            "player_id": "1011-28434",
+            "name_en": "T. Arnold"
+          },
+          {
+            "name": "洛夫伦",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2371.png",
+            "player_id": "1011-2371",
+            "name_en": "Dejan Lovren"
+          },
+          {
+            "name": "范迪克",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7968.png",
+            "player_id": "1011-7968",
+            "name_en": "Virgil van Dijk"
+          },
+          {
+            "name": "罗伯逊",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_7860.png",
+            "player_id": "1011-7860",
+            "name_en": "Andrew Robertson"
+          }
+        ],
+        [
+          {
+            "name": "威纳尔杜姆",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_83.png",
+            "player_id": "1011-83",
+            "name_en": "Georginio Wijnaldum"
+          },
+          {
+            "name": "亨德森",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2290.png",
+            "player_id": "1011-2290",
+            "name_en": "Jordan Henderson"
+          },
+          {
+            "name": "米尔纳",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2265.png",
+            "player_id": "1011-2265",
+            "name_en": "James Milner"
+          }
+        ],
+        [
+          {
+            "name": "萨拉赫",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_2247.png",
+            "player_id": "1011-2247",
+            "name_en": "Mohamed Salah"
+          },
+          {
+            "name": "菲尔米诺",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_406.png",
+            "player_id": "1011-406",
+            "name_en": "Roberto Firmino Barbosa d"
+          },
+          {
+            "name": "马内",
+            "img": "http://liansai.500.com/static/soccerdata/images/CharacterPic/characterpic1_20934.png",
+            "player_id": "1011-20934",
+            "name_en": "Sadio Mané"
+          }
+        ]
+      ],
+      "host_static_shotnum": 14,
+      "away_static_shotnum": 13,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 5,
+      "away_static_foul": 18,
+      "host_static_corner": 9,
+      "away_static_corner": 5,
+      "host_static_offside": 7,
+      "away_static_offside": 3,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 1,
+      "host_static_controltime": "66.00",
+      "away_static_controltime": "34.00",
+      "host_static_attack": 70,
+      "away_static_attack": 63,
+      "host_static_risk_attack": 42,
+      "away_static_risk_attack": 30,
+      "host_static_free_kick": 20,
+      "away_static_free_kick": 12
+    }
+  }
+]

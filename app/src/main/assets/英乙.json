@@ -1,0 +1,1572 @@
+[
+  {
+    "match_id": "727955",
+    "match_week": "周六",
+    "match_sn": "028",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1372",
+    "away_id": "1964",
+    "season_id": 4458,
+    "match_desc": "17/18英乙附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "0",
+    "away_score": "0",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英乙",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[25, 3, 6]",
+    "manual_sort": 0,
+    "match_time": "2018-05-12 22:00:00 +0800",
+    "caiqiu_index": "91",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-13 17:15:52 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180512028"
+    },
+    "league": "17/18英乙附加赛",
+    "season": "17/18英乙附加赛",
+    "bet_match_id": "周六028",
+    "season_pre_en": "EFL League Two",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-12 22:00:24 +0800",
+    "match_half_time": "2018-05-12 23:02:24 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 35,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1372.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1964.png",
+    "host_name": "林肯城",
+    "host_name_en": "Lincoln City",
+    "away_name": "埃克塞特城",
+    "away_name_en": "Exeter City",
+    "odds": {
+      "spf": [
+        1.71,
+        3.4,
+        4.0
+      ],
+      "rqspf": [
+        -1,
+        1.87,
+        3.3,
+        3.43
+      ],
+      "bifen": [
+        5.75,
+        7.0,
+        7.25,
+        12.0,
+        13.0,
+        25.0,
+        27.0,
+        30.0,
+        70.0,
+        80.0,
+        80.0,
+        150.0,
+        60.0,
+        8.5,
+        6.5,
+        16.0,
+        80.0,
+        400.0,
+        10.5,
+        10.5,
+        12.5,
+        60.0,
+        40.0,
+        40.0,
+        200.0,
+        120.0,
+        150.0,
+        600.0,
+        500.0,
+        500.0,
+        200.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 4.0,
+    "avge_odds": 1.2,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 5,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "O. Palmer",
+        "content_en": "O. Palmer"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-3-3",
+      "away_formation": "4-4-2",
+      "host_players": [
+        [
+          {
+            "name": "奥尔索普",
+            "player_id": "1372-2839",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ryan Allsopp"
+          }
+        ],
+        [
+          {
+            "name": "斯科特·沃顿",
+            "player_id": "1372-31392",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Scott Wharton"
+          },
+          {
+            "name": "韦尔逊",
+            "player_id": "1372-9633",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "James Wilson"
+          },
+          {
+            "name": "沃特法尔",
+            "player_id": "1372-40335",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "L. Waterfall"
+          },
+          {
+            "name": "埃德利",
+            "player_id": "1372-3081",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Neal Eardley"
+          }
+        ],
+        [
+          {
+            "name": "伍德亚德",
+            "player_id": "1372-40324",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "A. Woodyard"
+          },
+          {
+            "name": "怀特豪斯",
+            "player_id": "1372-10089",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Elliot Whitehouse"
+          },
+          {
+            "name": "博斯特维克",
+            "player_id": "1372-9643",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Michael Bostwick"
+          }
+        ],
+        [
+          {
+            "name": "安德森",
+            "player_id": "1372-22008",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Harry Anderson"
+          },
+          {
+            "name": "格伦",
+            "player_id": "1372-3492",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matt Green"
+          },
+          {
+            "name": "希德",
+            "player_id": "1372-10364",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matthew Rhead"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "皮姆",
+            "player_id": "1964-10467",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Christy Pym"
+          }
+        ],
+        [
+          {
+            "name": "摩克西",
+            "player_id": "1964-2443",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dean Moxey"
+          },
+          {
+            "name": "摩尔-泰勒",
+            "player_id": "1964-10457",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Moore-Taylor"
+          },
+          {
+            "name": "斯托雷",
+            "player_id": "1964-37652",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "J. Storey"
+          },
+          {
+            "name": "斯维尼",
+            "player_id": "1964-3366",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Pierce Sweeney"
+          }
+        ],
+        [
+          {
+            "name": "哈利",
+            "player_id": "1964-3346",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ryan Harley"
+          },
+          {
+            "name": "詹姆斯",
+            "player_id": "1964-9850",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lloyd James"
+          },
+          {
+            "name": "蒂尔森",
+            "player_id": "1964-22139",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Tillson"
+          },
+          {
+            "name": "哈利姆·博阿滕",
+            "player_id": "1964-24040",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Hiram Boateng"
+          }
+        ],
+        [
+          {
+            "name": "斯托克利",
+            "player_id": "1964-21864",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jayden Stockley"
+          },
+          {
+            "name": "泰勒",
+            "player_id": "1964-5840",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jake Taylor"
+          }
+        ]
+      ],
+      "host_static_shotnum": 12,
+      "away_static_shotnum": 10,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 4,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 18,
+      "away_static_foul": 13,
+      "host_static_corner": 5,
+      "away_static_corner": 5,
+      "host_static_offside": 2,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 1,
+      "away_static_yellow": 0,
+      "host_static_controltime": "51.00",
+      "away_static_controltime": "49.00",
+      "host_static_attack": 53,
+      "away_static_attack": 38,
+      "host_static_risk_attack": 37,
+      "away_static_risk_attack": 22,
+      "host_static_free_kick": 14,
+      "away_static_free_kick": 20
+    }
+  },
+  {
+    "match_id": "727956",
+    "match_week": "周六",
+    "match_sn": "049",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "930",
+    "away_id": "1143",
+    "season_id": 4458,
+    "match_desc": "17/18英乙附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "1",
+    "host_half_score": "0",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英乙",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[20, 1, 10]",
+    "manual_sort": 0,
+    "match_time": "2018-05-13 02:30:00 +0800",
+    "caiqiu_index": "97",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "0",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-13 17:15:52 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180512049"
+    },
+    "league": "17/18英乙附加赛",
+    "season": "17/18英乙附加赛",
+    "bet_match_id": "周六049",
+    "season_pre_en": "EFL League Two",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-13 02:31:44 +0800",
+    "match_half_time": "2018-05-13 03:33:46 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 35,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/930.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1143.png",
+    "host_name": "考文垂",
+    "host_name_en": "Coventry",
+    "away_name": "诺茨郡",
+    "away_name_en": "Notts County",
+    "odds": {
+      "spf": [
+        1.84,
+        3.14,
+        3.75
+      ],
+      "rqspf": [
+        -1,
+        1.75,
+        3.4,
+        3.8
+      ],
+      "bifen": [
+        6.0,
+        8.0,
+        7.25,
+        16.0,
+        17.0,
+        29.0,
+        40.0,
+        40.0,
+        70.0,
+        100.0,
+        100.0,
+        250.0,
+        80.0,
+        7.5,
+        6.25,
+        15.0,
+        70.0,
+        500.0,
+        8.25,
+        8.25,
+        10.5,
+        40.0,
+        30.0,
+        40.0,
+        150.0,
+        100.0,
+        150.0,
+        500.0,
+        400.0,
+        500.0,
+        200.0
+      ]
+    },
+    "max_return": true,
+    "max_odds": 3.75,
+    "avge_odds": 1.23,
+    "benefit": "本场结果出乎意料 ",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 26.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "C. Stokes",
+        "content_en": "C. Stokes"
+      },
+      {
+        "event_id": 1,
+        "time": 28.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "M. Doyle",
+        "content_en": "M. Doyle"
+      },
+      {
+        "event_id": 2,
+        "time": 50.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "J. Forte",
+        "content_en": "J. Forte"
+      },
+      {
+        "event_id": 3,
+        "time": 57.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(L. Alessandra)换入(M. Virtue-Thick)换出",
+        "content_en": "(L. Alessandra)换入(M. Virtue-Thick)换出",
+        "player_in": "L. Alessandra",
+        "player_out": "M. Virtue-Thick"
+      },
+      {
+        "event_id": 4,
+        "time": 71.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Ponticelli)换入(J. Shipley)换出",
+        "content_en": "(J. Ponticelli)换入(J. Shipley)换出",
+        "player_in": "J. Ponticelli",
+        "player_out": "J. Shipley"
+      },
+      {
+        "event_id": 5,
+        "time": 74.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "J. Grant",
+        "content_en": "J. Grant"
+      },
+      {
+        "event_id": 6,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "D. Hyam",
+        "content_en": "D. Hyam"
+      },
+      {
+        "event_id": 7,
+        "time": 77.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(M. O'Connor)换入(L. Noble)换出",
+        "content_en": "(M. O'Connor)换入(L. Noble)换出",
+        "player_in": "M. O'Connor",
+        "player_out": "L. Noble"
+      },
+      {
+        "event_id": 8,
+        "time": 83.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(J. Clarke-Harris)换入(M. Biamou)换出",
+        "content_en": "(J. Clarke-Harris)换入(M. Biamou)换出",
+        "player_in": "J. Clarke-Harris",
+        "player_out": "M. Biamou"
+      },
+      {
+        "event_id": 9,
+        "time": 87.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "M. McNulty",
+        "content_en": "M. McNulty"
+      },
+      {
+        "event_id": 10,
+        "time": 88.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "R. Duffy",
+        "content_en": "R. Duffy"
+      },
+      {
+        "event_id": 11,
+        "time": 89.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "M. O'Connor",
+        "content_en": "M. O'Connor"
+      },
+      {
+        "event_id": 12,
+        "time": 90.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(A. Smith)换入(J. Forte)换出",
+        "content_en": "(A. Smith)换入(J. Forte)换出",
+        "player_in": "A. Smith",
+        "player_out": "J. Forte"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-4-2",
+      "away_formation": null,
+      "host_players": [
+        [
+          {
+            "name": "布尔格",
+            "player_id": "930-9915",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lee Burge"
+          }
+        ],
+        [
+          {
+            "name": "T.戴维斯",
+            "player_id": "930-37909",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Tom Davie"
+          },
+          {
+            "name": "亚姆",
+            "player_id": "930-37915",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "D. Hyam"
+          },
+          {
+            "name": "斯托克斯",
+            "player_id": "930-25274",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Christopher Stokes"
+          },
+          {
+            "name": "杰克格里梅尔",
+            "player_id": "930-23375",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jack Grimmer"
+          }
+        ],
+        [
+          {
+            "name": "拜里斯",
+            "player_id": "930-46853",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Tom Bayli"
+          },
+          {
+            "name": "多伊尔",
+            "player_id": "930-10075",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Michael Doyle"
+          },
+          {
+            "name": "西普雷",
+            "player_id": "930-46855",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Shipley"
+          },
+          {
+            "name": "凯利",
+            "player_id": "930-9623",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Liam Kelly"
+          }
+        ],
+        [
+          {
+            "name": "比阿莫",
+            "player_id": "930-40401",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "M. Biamou"
+          },
+          {
+            "name": "麦克努尔蒂",
+            "player_id": "930-22117",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Marc McNulty"
+          }
+        ]
+      ],
+      "away_players": null,
+      "host_static_shotnum": 11,
+      "away_static_shotnum": 11,
+      "host_static_shotznum": 1,
+      "away_static_shotznum": 5,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 13,
+      "away_static_foul": 13,
+      "host_static_corner": 6,
+      "away_static_corner": 3,
+      "host_static_offside": 4,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 3,
+      "host_static_controltime": "49.00",
+      "away_static_controltime": "51.00",
+      "host_static_attack": 81,
+      "away_static_attack": 76,
+      "host_static_risk_attack": 64,
+      "away_static_risk_attack": 51,
+      "host_static_free_kick": 14,
+      "away_static_free_kick": 17
+    }
+  },
+  {
+    "match_id": "727957",
+    "match_week": "周四",
+    "match_sn": "003",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1964",
+    "away_id": "1372",
+    "season_id": 4458,
+    "match_desc": "17/18英乙附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "3",
+    "away_score": "1",
+    "host_half_score": "1",
+    "away_half_score": "0",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英乙",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[7, 3, 32]",
+    "manual_sort": 0,
+    "match_time": "2018-05-18 02:45:00 +0800",
+    "caiqiu_index": "93",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-18 18:15:21 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180517003"
+    },
+    "league": "17/18英乙附加赛",
+    "season": "17/18英乙附加赛",
+    "bet_match_id": "周四003",
+    "season_pre_en": "EFL League Two",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-18 02:45:35 +0800",
+    "match_half_time": "2018-05-18 03:48:47 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 35,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1372.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1964.png",
+    "host_name": "埃克塞特城",
+    "host_name_en": "Exeter City",
+    "away_name": "林肯城",
+    "away_name_en": "Lincoln City",
+    "odds": {
+      "spf": [
+        2.4,
+        2.92,
+        2.7
+      ],
+      "rqspf": [
+        1,
+        6.65,
+        4.2,
+        1.35
+      ],
+      "bifen": [
+        6.7,
+        10.5,
+        8.5,
+        26.0,
+        21.0,
+        30.0,
+        70.0,
+        65.0,
+        90.0,
+        200.0,
+        200.0,
+        300.0,
+        100.0,
+        6.75,
+        5.7,
+        15.5,
+        90.0,
+        400.0,
+        7.0,
+        7.0,
+        8.75,
+        28.0,
+        23.0,
+        32.0,
+        80.0,
+        70.0,
+        100.0,
+        250.0,
+        250.0,
+        300.0,
+        120.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.7,
+    "avge_odds": 1.27,
+    "benefit": "竞彩实际回报2.40倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 19.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "N. Eardley",
+        "content_en": "N. Eardley"
+      },
+      {
+        "event_id": 1,
+        "time": 28.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "J. Stockley",
+        "content_en": "J. Stockley"
+      },
+      {
+        "event_id": 2,
+        "time": 48.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "H. Boateng",
+        "content_en": "H. Boateng"
+      },
+      {
+        "event_id": 3,
+        "time": 54.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(O. Palmer)换入(H. Anderson)换出",
+        "content_en": "(O. Palmer)换入(H. Anderson)换出",
+        "player_in": "O. Palmer",
+        "player_out": "H. Anderson"
+      },
+      {
+        "event_id": 4,
+        "time": 70.0,
+        "is_home": 1,
+        "event_type": "goal",
+        "content": "R. Harley",
+        "content_en": "R. Harley"
+      },
+      {
+        "event_id": 5,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(T. Pett)换入(L. Frecklington)换出",
+        "content_en": "(T. Pett)换入(L. Frecklington)换出",
+        "player_in": "T. Pett",
+        "player_out": "L. Frecklington"
+      },
+      {
+        "event_id": 6,
+        "time": 76.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(T. Archibald-Henville)换入(H. Boateng)换出",
+        "content_en": "(T. Archibald-Henville)换入(H. Boateng)换出",
+        "player_in": "T. Archibald-Henville",
+        "player_out": "H. Boateng"
+      },
+      {
+        "event_id": 7,
+        "time": 81.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "M. Green",
+        "content_en": "M. Green"
+      },
+      {
+        "event_id": 8,
+        "time": 84.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "M. Bostwick",
+        "content_en": "M. Bostwick"
+      },
+      {
+        "event_id": 9,
+        "time": 85.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(L. James)换入(R. Simpson)换出",
+        "content_en": "(L. James)换入(R. Simpson)换出",
+        "player_in": "L. James",
+        "player_out": "R. Simpson"
+      },
+      {
+        "event_id": 10,
+        "time": 89.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "J. Stockley",
+        "content_en": "J. Stockley"
+      },
+      {
+        "event_id": 11,
+        "time": 90.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "D. Moxey",
+        "content_en": "D. Moxey"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-4-2",
+      "away_formation": "4-5-1",
+      "host_players": [
+        [
+          {
+            "name": "皮姆",
+            "player_id": "1964-10467",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Christy Pym"
+          }
+        ],
+        [
+          {
+            "name": "摩克西",
+            "player_id": "1964-2443",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Dean Moxey"
+          },
+          {
+            "name": "摩尔-泰勒",
+            "player_id": "1964-10457",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Moore-Taylor"
+          },
+          {
+            "name": "斯维尼",
+            "player_id": "1964-3366",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Pierce Sweeney"
+          },
+          {
+            "name": "斯托雷",
+            "player_id": "1964-37652",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "J. Storey"
+          }
+        ],
+        [
+          {
+            "name": "哈利",
+            "player_id": "1964-3346",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ryan Harley"
+          },
+          {
+            "name": "哈利姆·博阿滕",
+            "player_id": "1964-24040",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Hiram Boateng"
+          },
+          {
+            "name": "蒂尔森",
+            "player_id": "1964-22139",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Tillson"
+          },
+          {
+            "name": "泰勒",
+            "player_id": "1964-5840",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jake Taylor"
+          }
+        ],
+        [
+          {
+            "name": "辛普森",
+            "player_id": "1964-22190",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Robbie Simpson"
+          },
+          {
+            "name": "斯托克利",
+            "player_id": "1964-21864",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jayden Stockley"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "奥尔索普",
+            "player_id": "1372-2839",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Ryan Allsopp"
+          }
+        ],
+        [
+          {
+            "name": "博斯特维克",
+            "player_id": "1372-9643",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Michael Bostwick"
+          },
+          {
+            "name": "韦尔逊",
+            "player_id": "1372-9633",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "James Wilson"
+          },
+          {
+            "name": "沃特法尔",
+            "player_id": "1372-40335",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "L. Waterfall"
+          },
+          {
+            "name": "埃德利",
+            "player_id": "1372-3081",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Neal Eardley"
+          }
+        ],
+        [
+          {
+            "name": "安德森",
+            "player_id": "1372-22008",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Harry Anderson"
+          },
+          {
+            "name": "伍德亚德",
+            "player_id": "1372-40324",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "A. Woodyard"
+          },
+          {
+            "name": "弗雷克林顿",
+            "player_id": "1372-21959",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lee Frecklington"
+          },
+          {
+            "name": "怀特豪斯",
+            "player_id": "1372-10089",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Elliot Whitehouse"
+          },
+          {
+            "name": "格伦",
+            "player_id": "1372-3492",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matt Green"
+          }
+        ],
+        [
+          {
+            "name": "希德",
+            "player_id": "1372-10364",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matthew Rhead"
+          }
+        ]
+      ],
+      "host_static_shotnum": 14,
+      "away_static_shotnum": 10,
+      "host_static_shotznum": 6,
+      "away_static_shotznum": 2,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 13,
+      "away_static_foul": 13,
+      "host_static_corner": 7,
+      "away_static_corner": 9,
+      "host_static_offside": 0,
+      "away_static_offside": 1,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 2,
+      "away_static_yellow": 2,
+      "host_static_controltime": "48.00",
+      "away_static_controltime": "52.00",
+      "host_static_attack": 60,
+      "away_static_attack": 66,
+      "host_static_risk_attack": 36,
+      "away_static_risk_attack": 47,
+      "host_static_free_kick": 14,
+      "away_static_free_kick": 13
+    }
+  },
+  {
+    "match_id": "727958",
+    "match_week": "周五",
+    "match_sn": "004",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 4,
+    "match_status_desc": "已完场",
+    "host_id": "1143",
+    "away_id": "930",
+    "season_id": 4458,
+    "match_desc": "17/18英乙附加赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "1",
+    "away_score": "4",
+    "host_half_score": "1",
+    "away_half_score": "2",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英乙",
+    "group_pre": "附加赛",
+    "extra_info": "",
+    "spf_cnt": "[13, 7, 15]",
+    "manual_sort": 0,
+    "match_time": "2018-05-19 02:45:00 +0800",
+    "caiqiu_index": "80",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": "2018-05-19 21:45:44 +0800",
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180518004"
+    },
+    "league": "17/18英乙附加赛",
+    "season": "17/18英乙附加赛",
+    "bet_match_id": "周五004",
+    "season_pre_en": "EFL League Two",
+    "group_pre_en": "",
+    "live_desc": "Final",
+    "forecast": "3,0",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": "2018-05-19 02:47:19 +0800",
+    "match_half_time": "2018-05-19 03:54:55 +0800",
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Completed",
+    "match_status_desc_new": "已完场",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 35,
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/930.png",
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1143.png",
+    "host_name": "诺茨郡",
+    "host_name_en": "Notts County",
+    "away_name": "考文垂",
+    "away_name_en": "Coventry",
+    "odds": {
+      "spf": [
+        2.44,
+        3.05,
+        2.55
+      ],
+      "rqspf": [
+        -1,
+        1.39,
+        4.11,
+        6.0
+      ],
+      "bifen": [
+        7.25,
+        11.0,
+        8.25,
+        25.0,
+        21.0,
+        29.0,
+        60.0,
+        60.0,
+        80.0,
+        250.0,
+        200.0,
+        250.0,
+        100.0,
+        8.25,
+        6.0,
+        13.0,
+        60.0,
+        400.0,
+        7.25,
+        7.25,
+        8.5,
+        26.0,
+        21.0,
+        30.0,
+        70.0,
+        60.0,
+        80.0,
+        250.0,
+        200.0,
+        250.0,
+        100.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 2.55,
+    "avge_odds": 1.25,
+    "benefit": "竞彩实际回报2.55倍",
+    "match_details": [
+      {
+        "event_id": 0,
+        "time": 16.0,
+        "is_home": 1,
+        "event_type": "yellow-card",
+        "content": "M. Tootle",
+        "content_en": "M. Tootle"
+      },
+      {
+        "event_id": 1,
+        "time": 24.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "L. Kelly",
+        "content_en": "L. Kelly"
+      },
+      {
+        "event_id": 2,
+        "time": 45.0,
+        "is_home": 0,
+        "event_type": "yellow-card",
+        "content": "M. McNulty",
+        "content_en": "M. McNulty"
+      },
+      {
+        "event_id": 3,
+        "time": 45.0,
+        "is_home": 1,
+        "event_type": "player-change",
+        "content": "(M. O'Connor)换入(L. Noble)换出",
+        "content_en": "(M. O'Connor)换入(L. Noble)换出",
+        "player_in": "M. O'Connor",
+        "player_out": "L. Noble"
+      },
+      {
+        "event_id": 4,
+        "time": 72.0,
+        "is_home": 0,
+        "event_type": "goal",
+        "content": "M. Biamou",
+        "content_en": "M. Biamou"
+      },
+      {
+        "event_id": 5,
+        "time": 73.0,
+        "is_home": 0,
+        "event_type": "player-change",
+        "content": "(J. Clarke-Harris)换入(M. Biamou)换出",
+        "content_en": "(J. Clarke-Harris)换入(M. Biamou)换出",
+        "player_in": "J. Clarke-Harris",
+        "player_out": "M. Biamou"
+      }
+    ],
+    "match_statis": {
+      "host_formation": "4-4-2",
+      "away_formation": "4-4-2",
+      "host_players": [
+        [
+          {
+            "name": "科林",
+            "player_id": "1143-21964",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Adam Collin"
+          }
+        ],
+        [
+          {
+            "name": "图特尔",
+            "player_id": "1143-10019",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Matt Tootle"
+          },
+          {
+            "name": "琼斯",
+            "player_id": "1143-9786",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Daniel Jones"
+          },
+          {
+            "name": "达菲",
+            "player_id": "1143-9802",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Richard Duffy"
+          },
+          {
+            "name": "布里斯利",
+            "player_id": "1143-9641",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Shaun Brisley"
+          }
+        ],
+        [
+          {
+            "name": "诺布尔",
+            "player_id": "1143-10538",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Liam Noble"
+          },
+          {
+            "name": "休伊特",
+            "player_id": "1143-2827",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Elliott Hewitt"
+          },
+          {
+            "name": "豪尔赫",
+            "player_id": "1143-22363",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jorge Grant"
+          },
+          {
+            "name": "亚历桑德拉",
+            "player_id": "1143-10314",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lewis Alessandra"
+          }
+        ],
+        [
+          {
+            "name": "斯蒂德",
+            "player_id": "1143-3003",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jon Stead"
+          },
+          {
+            "name": "福尔特",
+            "player_id": "1143-9773",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jonathan Forte"
+          }
+        ]
+      ],
+      "away_players": [
+        [
+          {
+            "name": "布尔格",
+            "player_id": "930-9915",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Lee Burge"
+          }
+        ],
+        [
+          {
+            "name": "亚姆",
+            "player_id": "930-37915",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "D. Hyam"
+          },
+          {
+            "name": "斯托克斯",
+            "player_id": "930-25274",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Christopher Stokes"
+          },
+          {
+            "name": "杰克格里梅尔",
+            "player_id": "930-23375",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jack Grimmer"
+          },
+          {
+            "name": "威利斯",
+            "player_id": "930-9919",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Willis"
+          }
+        ],
+        [
+          {
+            "name": "西普雷",
+            "player_id": "930-46855",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Jordan Shipley"
+          },
+          {
+            "name": "拜里斯",
+            "player_id": "930-46853",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Tom Bayli"
+          },
+          {
+            "name": "凯利",
+            "player_id": "930-9623",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Liam Kelly"
+          },
+          {
+            "name": "多伊尔",
+            "player_id": "930-10075",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Michael Doyle"
+          }
+        ],
+        [
+          {
+            "name": "麦克努尔蒂",
+            "player_id": "930-22117",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "Marc McNulty"
+          },
+          {
+            "name": "比阿莫",
+            "player_id": "930-40401",
+            "img": "http://www.500cache.com/liansai/images/notfound.png",
+            "name_en": "M. Biamou"
+          }
+        ]
+      ],
+      "host_static_shotnum": 9,
+      "away_static_shotnum": 15,
+      "host_static_shotznum": 5,
+      "away_static_shotznum": 9,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 11,
+      "away_static_foul": 12,
+      "host_static_corner": 4,
+      "away_static_corner": 5,
+      "host_static_offside": 3,
+      "away_static_offside": 2,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 3,
+      "away_static_yellow": 2,
+      "host_static_controltime": "53.00",
+      "away_static_controltime": "47.00",
+      "host_static_attack": 92,
+      "away_static_attack": 87,
+      "host_static_risk_attack": 57,
+      "away_static_risk_attack": 57,
+      "host_static_free_kick": 14,
+      "away_static_free_kick": 14
+    }
+  },
+  {
+    "match_id": "728405",
+    "match_week": "周一",
+    "match_sn": "001",
+    "is_hidden": 0,
+    "is_danguan": 0,
+    "match_status": 0,
+    "match_status_desc": "未开赛",
+    "host_id": "930",
+    "away_id": "1964",
+    "season_id": 4458,
+    "match_desc": "17/18英乙附加决赛",
+    "cup_index": 0,
+    "match_sort": 0,
+    "host_score": "",
+    "away_score": "",
+    "host_half_score": "",
+    "away_half_score": "",
+    "host_rank": "",
+    "away_rank": "",
+    "season_pre": "英乙",
+    "group_pre": "附加决赛",
+    "extra_info": "",
+    "spf_cnt": "[17, 11, 11]",
+    "manual_sort": 0,
+    "match_time": "2018-05-28 22:00:00 +0800",
+    "caiqiu_index": "72",
+    "rqbackup": null,
+    "rqcaiqiu_index": null,
+    "recommend": "0",
+    "is_hot": "1",
+    "okooo_live": "",
+    "match_live_source": "",
+    "finish_time": null,
+    "home_show": 1,
+    "bet_action": {
+      "type": "1",
+      "sport_ctl_match_id": "20180528001"
+    },
+    "league": "17/18英乙附加决赛",
+    "season": "17/18英乙附加决赛",
+    "bet_match_id": "周一001",
+    "season_pre_en": "EFL League Two",
+    "group_pre_en": "",
+    "live_desc": "",
+    "forecast": "3,1",
+    "has_rangqiu": 0,
+    "forecast_rangqiu": null,
+    "match_start_time": null,
+    "match_half_time": null,
+    "sevenm_content": "",
+    "sevenm_statis": "",
+    "sevenm_live": "",
+    "tv_apk": {
+      "cntv": "http://m.caiqr.com/andriod_iphone_down.html"
+    },
+    "live_desc_new": "",
+    "match_status_desc_en": "Upcoming",
+    "match_status_desc_new": "2018年05月28日 22:00",
+    "season_order": 999,
+    "season_image": null,
+    "league_id": 35,
+    "host_team_image": "https://ojhwnbiut.qnssl.com/develop/football/930.png",
+    "away_team_image": "https://ojhwnbiut.qnssl.com/develop/football/1964.png",
+    "host_name": "考文垂",
+    "host_name_en": "Coventry",
+    "away_name": "埃克塞特城",
+    "away_name_en": "Exeter City",
+    "odds": {
+      "spf": [
+        1.98,
+        3.0,
+        3.45
+      ],
+      "rqspf": [
+        -1,
+        4.35,
+        3.6,
+        1.61
+      ],
+      "bifen": [
+        6.0,
+        8.8,
+        7.75,
+        19.0,
+        18.0,
+        30.0,
+        50.0,
+        50.0,
+        80.0,
+        150.0,
+        150.0,
+        250.0,
+        80.0,
+        7.5,
+        6.25,
+        14.0,
+        70.0,
+        400.0,
+        7.5,
+        7.5,
+        10.0,
+        35.0,
+        28.0,
+        35.0,
+        100.0,
+        80.0,
+        120.0,
+        300.0,
+        250.0,
+        400.0,
+        175.0
+      ]
+    },
+    "max_return": false,
+    "max_odds": 3.0,
+    "avge_odds": 1.19,
+    "benefit": "竞彩最高回报3.00倍",
+    "match_details": [],
+    "match_statis": {
+      "host_formation": null,
+      "away_formation": null,
+      "host_players": null,
+      "away_players": null,
+      "host_static_shotnum": 0,
+      "away_static_shotnum": 0,
+      "host_static_shotznum": 0,
+      "away_static_shotznum": 0,
+      "host_static_pass": 0,
+      "away_static_pass": 0,
+      "host_static_steal": 0,
+      "away_static_steal": 0,
+      "host_static_foul": 0,
+      "away_static_foul": 0,
+      "host_static_corner": 0,
+      "away_static_corner": 0,
+      "host_static_offside": 0,
+      "away_static_offside": 0,
+      "host_static_red": 0,
+      "away_static_red": 0,
+      "host_static_yellow": 0,
+      "away_static_yellow": 0,
+      "host_static_controltime": "0.00",
+      "away_static_controltime": "0.00",
+      "host_static_attack": 0,
+      "away_static_attack": 0,
+      "host_static_risk_attack": 0,
+      "away_static_risk_attack": 0,
+      "host_static_free_kick": 0,
+      "away_static_free_kick": 0
+    },
+    "match_time_1": null,
+    "match_time_2": null,
+    "match_time_3": null
+  }
+]

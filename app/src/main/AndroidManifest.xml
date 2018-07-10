@@ -67,7 +67,8 @@
         <activity android:name=".activity.WebActivity" />
         <activity android:name=".activity.WebNewsActivity" />
         <activity android:name=".activity.HomeMoreNewsActivity" />
-        <activity android:name=".activity.SeasonDetailActivity"></activity>
+        <activity android:name=".activity.SeasonDetailActivity" />
+        <activity android:name=".activity.LotteryDetailActivity"></activity>
     </application>
 
 </manifest>

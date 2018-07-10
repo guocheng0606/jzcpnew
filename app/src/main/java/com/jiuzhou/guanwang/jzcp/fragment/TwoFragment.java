@@ -65,6 +65,7 @@ public class TwoFragment extends Fragment {
     }
 
     private void setupTabLayout() {
+        viewPager.setOffscreenPageLimit(5);
         //ViewPager关联适配器
         MyViewPagerAdapter adapter = new MyViewPagerAdapter(getChildFragmentManager());
         adapter.addFragment(DataFragment.newInstance("0",null),"中甲");
@@ -76,6 +77,7 @@ public class TwoFragment extends Fragment {
         viewPager.setAdapter(adapter);
         //ViewPager和TabLayout关联
         tabLayout.setupWithViewPager(viewPager);
+        viewPager.setCurrentItem(0);
     }
 
 }

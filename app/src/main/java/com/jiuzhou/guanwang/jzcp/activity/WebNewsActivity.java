@@ -37,6 +37,7 @@ public class WebNewsActivity extends AppCompatActivity {
     @ViewInject(R.id.toolbar)
     Toolbar toolbar;
     private WebSettings mWebSettings;
+    private String title = "";
     private String url;
 
     @Override
@@ -45,10 +46,11 @@ public class WebNewsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_web_news);
         ViewUtils.inject(this);
         url = getIntent().getStringExtra("url");
+        title = getIntent().getStringExtra("title");
 
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setTitle("资讯详情");
+        getSupportActionBar().setTitle(title);
 
         mWebSettings = mWebview.getSettings();
         mWebSettings.setJavaScriptEnabled(true);
@@ -77,6 +79,21 @@ public class WebNewsActivity extends AppCompatActivity {
             //获取加载进度
             @Override
             public void onProgressChanged(WebView view, int newProgress) {
+                //编写 javaScript方法
+                String javascript =  "javascript:function hideOther() {" +
+                        "var headers = document.getElementsByTagName('header');" +
+                        "var lastHeader = headers[headers.length-1];" +
+                        "lastHeader.remove();" +
+                        "}";
+
+                //创建方法
+                view.loadUrl(javascript);
+
+                //加载方法
+                view.loadUrl("javascript:hideOther();");
+               // view.loadUrl("JavaScript:function setTop(){document.querySelector('.topSwipeItem').style.display=\"none\";}setTop();");
+
+                super.onProgressChanged(view, newProgress);
             }
         });
         //设置WebViewClient类

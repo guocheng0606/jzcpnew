@@ -44,10 +44,10 @@ public class HomeActivity extends AppCompatActivity {
     private void initBottomNavigation() {
         NavigationController navigationController = tab.custom()
                 .addItem(newItem(R.drawable.mh_buy_normal,R.drawable.mh_buy_pressed,"首页"))
-                .addItem(newItem(R.drawable.mh_score_normal,R.drawable.mh_score_pressed,"比赛"))
-                .addItem(newItem(R.drawable.mh_dslt_normal,R.drawable.mh_dslt_pressed,"排名"))
+                .addItem(newItem(R.drawable.mh_score_normal,R.drawable.mh_score_pressed,"比分"))
+                .addItem(newItem(R.drawable.mh_dslt_normal,R.drawable.mh_dslt_pressed,"开奖"))
                 .addItem(newItem(R.drawable.mh_find_normal,R.drawable.mh_find_pressed,"发现"))
-                .addItem(newItem(R.drawable.mh_user_normal,R.drawable.mh_user_pressed,"数据"))
+                .addItem(newItem(R.drawable.mh_user_normal,R.drawable.mh_user_pressed,"足球"))
                 .build();
         //navigationController.setSelect(0);
         navigationController.addTabItemSelectedListener(new OnTabItemSelectedListener() {
@@ -77,7 +77,7 @@ public class HomeActivity extends AppCompatActivity {
                     fragmentTransaction.show(homeFragment);
                 }
                 break;
-            case 1:
+            case 2:
                 if(firstFragment == null){
                     firstFragment = new FirstFragment();
                     fragmentTransaction.add(R.id.fl_layout,firstFragment);
@@ -85,7 +85,7 @@ public class HomeActivity extends AppCompatActivity {
                     fragmentTransaction.show(firstFragment);
                 }
                 break;
-            case 2:
+            case 1:
                 if(twoFragment == null){
                     twoFragment = new TwoFragment();
                     fragmentTransaction.add(R.id.fl_layout,twoFragment);

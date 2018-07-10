@@ -1,6 +1,5 @@
 package com.jiuzhou.guanwang.jzcp.activity;
 
-import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -62,7 +61,7 @@ public class SeasonDetailActivity extends AppCompatActivity implements RecyclerA
 
     private void initView() {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        DividerDecoration itemDecoration = new DividerDecoration(Color.GRAY, Util.dip2px(this, 0.5f), 0, 0);
+        DividerDecoration itemDecoration = new DividerDecoration(0xFFEDEDED, Util.dip2px(this, 0.5f), 0, 0);
         itemDecoration.setDrawLastItem(true);
         recyclerView.addItemDecoration(itemDecoration);
         recyclerView.setAdapterWithProgress(adapter = new RecyclerArrayAdapter<SeasonDetailBean>(this) {

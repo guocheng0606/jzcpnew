@@ -18,7 +18,7 @@
             android:textSize="20sp"/>
     </LinearLayout>
 
-    <com.jiuzhou.guanwang.jzcp.views.MyScrollView
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <LinearLayout
@@ -44,6 +44,7 @@
                     android:orientation="horizontal"
                     android:gravity="center_vertical">
                     <LinearLayout
+                        android:id="@+id/ll_01"
                         android:layout_width="0dp"
                         android:layout_height="76dp"
                         android:layout_weight="1"
@@ -79,23 +80,26 @@
                         android:layout_width="1dp"
                         android:layout_height="45dp"
                         android:background="@color/gray"/>
-                    <LinearLayout
+                    <RelativeLayout
+                        android:id="@+id/rl_02"
                         android:layout_width="0dp"
                         android:layout_height="76dp"
-                        android:layout_weight="1"
-                        android:orientation="horizontal"
-                        android:gravity="center_vertical">
+                        android:layout_weight="1">
                         <ImageView
+                            android:id="@+id/iv"
                             android:layout_width="52dp"
                             android:layout_height="52dp"
                             android:src="@drawable/ic_home_small_2"
                             android:layout_marginLeft="12dp"
-                            android:scaleType="fitXY"/>
+                            android:scaleType="fitXY"
+                            android:layout_centerVertical="true"/>
                         <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
-                            android:layout_marginLeft="8dp">
+                            android:layout_marginLeft="8dp"
+                            android:layout_centerVertical="true"
+                            android:layout_toRightOf="@+id/iv">
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -110,20 +114,32 @@
                                 android:textSize="12sp"
                                 android:layout_marginTop="5dp"/>
                         </LinearLayout>
-                    </LinearLayout>
+                        <ImageView
+                            android:id="@+id/iv_show"
+                            android:layout_width="22dp"
+                            android:layout_height="18dp"
+                            android:src="@drawable/gtm"
+                            android:layout_alignParentBottom="true"
+                            android:scaleType="fitXY"
+                            android:layout_marginLeft="45dp"
+                            android:visibility="gone"/>
+                    </RelativeLayout>
                 </LinearLayout>
 
                 <LinearLayout
+                    android:id="@+id/ll_group"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#F6F3E5">
+                    android:background="#F6F3E5"
+                    android:visibility="gone">
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="horizontal"
                         android:gravity="center_vertical">
                         <LinearLayout
+                            android:id="@+id/ll_group_01"
                             android:layout_width="0dp"
                             android:layout_height="76dp"
                             android:layout_weight="1"
@@ -160,6 +176,7 @@
                             android:layout_height="45dp"
                             android:background="@color/gray"/>
                         <LinearLayout
+                            android:id="@+id/ll_group_02"
                             android:layout_width="0dp"
                             android:layout_height="76dp"
                             android:layout_weight="1"
@@ -198,6 +215,7 @@
                         android:orientation="horizontal"
                         android:gravity="center_vertical">
                         <LinearLayout
+                            android:id="@+id/ll_group_03"
                             android:layout_width="0dp"
                             android:layout_height="76dp"
                             android:layout_weight="1"
@@ -234,6 +252,7 @@
                             android:layout_height="45dp"
                             android:background="@color/gray"/>
                         <LinearLayout
+                            android:id="@+id/ll_group_04"
                             android:layout_width="0dp"
                             android:layout_height="76dp"
                             android:layout_weight="1"
@@ -274,6 +293,7 @@
                     android:orientation="horizontal"
                     android:gravity="center_vertical">
                     <LinearLayout
+                        android:id="@+id/ll_03"
                         android:layout_width="0dp"
                         android:layout_height="76dp"
                         android:layout_weight="1"
@@ -310,6 +330,7 @@
                         android:layout_height="45dp"
                         android:background="@color/gray"/>
                     <LinearLayout
+                        android:id="@+id/ll_04"
                         android:layout_width="0dp"
                         android:layout_height="76dp"
                         android:layout_weight="1"
@@ -453,6 +474,6 @@
                 android:textColor="@color/gray_text"/>
 
         </LinearLayout>
-    </com.jiuzhou.guanwang.jzcp.views.MyScrollView>
+    </ScrollView>
 
 </LinearLayout>

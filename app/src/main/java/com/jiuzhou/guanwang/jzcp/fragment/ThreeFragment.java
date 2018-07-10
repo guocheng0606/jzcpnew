@@ -1,6 +1,5 @@
 package com.jiuzhou.guanwang.jzcp.fragment;
 
-import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -10,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
 import com.jiuzhou.guanwang.jzcp.R;
 import com.jiuzhou.guanwang.jzcp.bean.DiscoverBean;
 import com.jiuzhou.guanwang.jzcp.utils.LocalJsonResolutionUtils;
@@ -21,6 +21,7 @@ import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
 import com.jude.easyrecyclerview.decoration.DividerDecoration;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -82,7 +83,7 @@ public class ThreeFragment extends Fragment implements View.OnClickListener ,Rec
         tv_tab1.setSelected(true);
 
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
-        DividerDecoration itemDecoration = new DividerDecoration(Color.GRAY, Util.dip2px(getActivity(), 0.5f), Util.dip2px(getActivity(), 72), 0);
+        DividerDecoration itemDecoration = new DividerDecoration(0xFFEDEDED, Util.dip2px(getActivity(), 0.5f), Util.dip2px(getActivity(), 72), 0);
         itemDecoration.setDrawLastItem(true);
         recyclerView.addItemDecoration(itemDecoration);
 

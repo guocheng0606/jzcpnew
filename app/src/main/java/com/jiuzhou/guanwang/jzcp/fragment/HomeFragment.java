@@ -9,6 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.jiuzhou.guanwang.jzcp.R;
@@ -50,6 +53,28 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
     NoScrollListView listView;
     @ViewInject(R.id.horizontalListView)
     HorizontalListView horizontalListView;
+
+    @ViewInject(R.id.ll_01)
+    LinearLayout ll_01;
+    @ViewInject(R.id.rl_02)
+    RelativeLayout rl_02;
+    @ViewInject(R.id.ll_03)
+    LinearLayout ll_03;
+    @ViewInject(R.id.ll_04)
+    LinearLayout ll_04;
+    @ViewInject(R.id.ll_group)
+    LinearLayout ll_group;
+    @ViewInject(R.id.ll_group_01)
+    LinearLayout ll_group_01;
+    @ViewInject(R.id.ll_group_02)
+    LinearLayout ll_group_02;
+    @ViewInject(R.id.ll_group_03)
+    LinearLayout ll_group_03;
+    @ViewInject(R.id.ll_group_04)
+    LinearLayout ll_group_04;
+    @ViewInject(R.id.iv_show)
+    ImageView iv_show;
+
     private HomeNewsAdapter homeNewsAdapter;
     private SeasonAdapter seasonAdapter;
 
@@ -85,6 +110,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
+        rl_02.setSelected(false);
         getSeasonsData();
         setBannerData();
         getNewsData();
@@ -144,6 +170,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent = new Intent(getActivity(), WebNewsActivity.class);
                 intent.putExtra("url",""+homeNewsAdapter.getAllData().get(i).getNewsUrl());
+                intent.putExtra("title","资讯详情");
                 startActivity(intent);
             }
         });
@@ -156,13 +183,76 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
             }
         });
         tv_more.setOnClickListener(this);
+        ll_01.setOnClickListener(this);
+        rl_02.setOnClickListener(this);
+        ll_03.setOnClickListener(this);
+        ll_04.setOnClickListener(this);
+        ll_group_01.setOnClickListener(this);
+        ll_group_02.setOnClickListener(this);
+        ll_group_03.setOnClickListener(this);
+        ll_group_04.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View view) {
+        Intent intent = new Intent();
         switch (view.getId()){
             case R.id.tv_more:
-                startActivity(new Intent(getActivity(), HomeMoreNewsActivity.class));
+                intent.setClass(getActivity(), HomeMoreNewsActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.ll_01:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://zxwap.caipiao.163.com/?time==153112131&from=caipiao");
+                intent.putExtra("title","彩票资讯");
+                startActivity(intent);
+                break;
+            case R.id.rl_02:
+                if(rl_02.isSelected()){
+                    rl_02.setSelected(false);
+                    iv_show.setVisibility(View.GONE);
+                    ll_group.setVisibility(View.GONE);
+                }else{
+                    rl_02.setSelected(true);
+                    iv_show.setVisibility(View.VISIBLE);
+                    ll_group.setVisibility(View.VISIBLE);
+                }
+                break;
+            case R.id.ll_03:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://caipiao.163.com/t/awardlive.html");
+                intent.putExtra("title","体彩开奖直播");
+                startActivity(intent);
+                break;
+            case R.id.ll_04:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://caipiao.163.com/t/awardliveC.html");
+                intent.putExtra("title","福彩开奖直播");
+                startActivity(intent);
+                break;
+            case R.id.ll_group_01:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://zxwap.caipiao.163.com/ssq");
+                intent.putExtra("title","双色球");
+                startActivity(intent);
+                break;
+            case R.id.ll_group_02:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://zxwap.caipiao.163.com/dlt");
+                intent.putExtra("title","大乐透");
+                startActivity(intent);
+                break;
+            case R.id.ll_group_03:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://zxwap.caipiao.163.com/jingcai");
+                intent.putExtra("title","竞彩足球");
+                startActivity(intent);
+                break;
+            case R.id.ll_group_04:
+                intent.setClass(getActivity(), WebNewsActivity.class);
+                intent.putExtra("url","http://zxwap.caipiao.163.com/lancai");
+                intent.putExtra("title","竞彩篮球");
+                startActivity(intent);
                 break;
         }
     }

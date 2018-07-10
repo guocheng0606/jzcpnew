@@ -2,20 +2,17 @@ package com.jiuzhou.guanwang.jzcp.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
+import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ListView;
 
 import com.jiuzhou.guanwang.jzcp.R;
-import com.jiuzhou.guanwang.jzcp.adapter.MatchAdapter;
-import com.jiuzhou.guanwang.jzcp.bean.MatchBean;
-import com.jiuzhou.guanwang.jzcp.utils.LocalJsonResolutionUtils;
+import com.jiuzhou.guanwang.jzcp.adapter.MyViewPagerAdapter;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
-
-import java.util.List;
 
 /**
  *
@@ -27,9 +24,10 @@ public class FirstFragment extends Fragment {
     private String mParam1;
     private String mParam2;
 
-    @ViewInject(R.id.listView)
-    ListView listView;
-    private MatchAdapter adapter;
+    @ViewInject(R.id.tabLayout)
+    TabLayout tabLayout;
+    @ViewInject(R.id.viewPager)
+    ViewPager viewPager;
 
     public FirstFragment() {
     }
@@ -63,14 +61,20 @@ public class FirstFragment extends Fragment {
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        //得到本地json文本内容
-        String fileName = "today_match.json";
-        String foodJson = LocalJsonResolutionUtils.getJson(getActivity(), fileName);
-        //转换为对象
-        List<MatchBean> list = LocalJsonResolutionUtils.jsonToArrayList(foodJson, MatchBean.class);
-        adapter = new MatchAdapter(getActivity(),list);
-        listView.setAdapter(adapter);
+        setupTabLayout();
+    }
 
+    private void setupTabLayout() {
+        viewPager.setOffscreenPageLimit(2);
+        //ViewPager关联适配器
+        MyViewPagerAdapter adapter = new MyViewPagerAdapter(getChildFragmentManager());
+        adapter.addFragment(LotteryChildFragment.newInstance("001",null),"双色球");
+        adapter.addFragment(LotteryChildFragment.newInstance("113",null),"大乐透");
+        adapter.addFragment(LotteryChildFragment.newInstance("002",null),"福彩3D");
+        viewPager.setAdapter(adapter);
+        //ViewPager和TabLayout关联
+        tabLayout.setupWithViewPager(viewPager);
+        viewPager.setCurrentItem(0);
     }
 
 

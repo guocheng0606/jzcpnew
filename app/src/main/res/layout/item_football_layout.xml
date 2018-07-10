@@ -6,7 +6,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="125dp"
+        android:layout_height="105dp"
         android:paddingLeft="15dp"
         android:paddingRight="15dp"
         android:paddingTop="10dp"
@@ -15,24 +15,25 @@
 
         <ImageView
             android:id="@+id/iv"
-            android:layout_width="125dp"
+            android:layout_width="120dp"
             android:layout_height="match_parent"
-            android:layout_alignParentLeft="true"
-            android:layout_marginRight="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="15dp"
             android:scaleType="fitXY"/>
 
         <TextView
             android:id="@+id/tv_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/iv"
+            android:layout_toLeftOf="@id/iv"
             android:layout_alignTop="@+id/iv"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:textSize="16sp"
             android:textColor="@color/black1"
             android:maxLines="2"
             android:ellipsize="end"
+            android:gravity="left"
             android:lineSpacingExtra="5dp"/>
 
 
@@ -40,11 +41,11 @@
             android:id="@+id/tv_time"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/iv"
+            android:layout_toLeftOf="@id/iv"
             android:layout_alignBottom="@+id/iv"
             android:layout_alignParentBottom="true"
-            android:layout_alignParentRight="true"
-            android:gravity="right"
+            android:layout_alignParentLeft="true"
+            android:gravity="left"
             android:textSize="14sp"
             android:textColor="@color/gray_text"
             android:maxLines="1"

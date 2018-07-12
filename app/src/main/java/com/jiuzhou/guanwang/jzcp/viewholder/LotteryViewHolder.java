@@ -50,12 +50,12 @@ public class LotteryViewHolder extends BaseViewHolder<LotteryBean.DataBean.Numbe
                 ball.setText(red_ball[i]);
                 ball.setTextSize(12);
                 ball.setGravity(Gravity.CENTER);
-                LayoutParams layoutParams = new LayoutParams(80, 80);
-                layoutParams.setMarginStart(10);
+                LayoutParams layoutParams = new LayoutParams(85, 85);
+                layoutParams.setMarginStart(12);
                 ball.setLayoutParams(layoutParams);
-                //ball.setPadding(0, 0, 0, 4);
+                ball.setPadding(0, 0, 0, 4);
                 ball.setTextColor(getContext().getResources().getColor(R.color.white));
-                ball.setBackgroundResource(R.drawable.shape_circle_blue_bg);
+                ball.setBackgroundResource(R.drawable.shape_circle_red_bg);
                 ll_redball.addView(ball);
             }
         }
@@ -66,12 +66,12 @@ public class LotteryViewHolder extends BaseViewHolder<LotteryBean.DataBean.Numbe
                 ball.setText(blue_ball[i]);
                 ball.setTextSize(12);
                 ball.setGravity(Gravity.CENTER);
-                LayoutParams layoutParams = new LayoutParams(80, 80);
-                layoutParams.setMarginStart(10);
+                LayoutParams layoutParams = new LayoutParams(85, 85);
+                layoutParams.setMarginStart(12);
                 ball.setLayoutParams(layoutParams);
-                //ball.setPadding(0, 0, 0, 4);
+                ball.setPadding(0, 0, 0, 4);
                 ball.setTextColor(getContext().getResources().getColor(R.color.white));
-                ball.setBackgroundResource(R.drawable.shape_circle_red_bg);
+                ball.setBackgroundResource(R.drawable.shape_circle_blue_bg);
                 ll_blueball.addView(ball);
             }
         }

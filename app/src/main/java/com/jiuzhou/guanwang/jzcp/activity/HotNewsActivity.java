@@ -26,7 +26,7 @@ import com.jiuzhou.guanwang.jzcp.R;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 
-public class WebNewsActivity extends AppCompatActivity {
+public class HotNewsActivity extends AppCompatActivity {
 
     @ViewInject(R.id.llNetError)
     LinearLayout llNetError;
@@ -94,6 +94,20 @@ public class WebNewsActivity extends AppCompatActivity {
             @Override
             public void onPageFinished(WebView view, String url) {
                 ll_load.setVisibility(View.GONE);
+
+                //编写 javaScript方法
+                String javascript =  "javascript:function hideOther() {" +
+                        "var headers = document.getElementsByTagName('img');" +
+                        "if (headers.length > 1) {"+
+                        "var lastHeader = headers[headers.length-1];" +
+                        "lastHeader.remove();" +
+                        "}}";
+
+                //创建方法
+                view.loadUrl(javascript);
+
+                //加载方法
+                view.loadUrl("javascript:hideOther();");
             }
 
             @Override

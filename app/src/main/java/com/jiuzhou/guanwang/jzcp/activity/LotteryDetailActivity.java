@@ -72,14 +72,14 @@ public class LotteryDetailActivity extends AppCompatActivity {
             for (int i = 0; i < red_ball.length; i++) {
                 TextView ball = new TextView(this);
                 ball.setText(red_ball[i]);
-                ball.setTextSize(14);
+                ball.setTextSize(12);
                 ball.setGravity(Gravity.CENTER);
-                LayoutParams layoutParams = new LayoutParams(58, 58);
-                layoutParams.setMarginStart(10);
+                LayoutParams layoutParams = new LayoutParams(85, 85);
+                layoutParams.setMarginStart(12);
                 ball.setLayoutParams(layoutParams);
-                //ball.setPadding(0, 0, 0, 4);
+                ball.setPadding(0, 0, 0, 4);
                 ball.setTextColor(getResources().getColor(R.color.white));
-                ball.setBackgroundResource(R.drawable.shape_circle_blue_bg);
+                ball.setBackgroundResource(R.drawable.shape_circle_red_bg);
                 ll_redball.addView(ball);
             }
         }
@@ -88,14 +88,14 @@ public class LotteryDetailActivity extends AppCompatActivity {
             for (int i = 0; i < blue_ball.length; i++) {
                 TextView ball = new TextView(this);
                 ball.setText(blue_ball[i]);
-                ball.setTextSize(14);
+                ball.setTextSize(12);
                 ball.setGravity(Gravity.CENTER);
-                LayoutParams layoutParams = new LayoutParams(58, 58);
-                layoutParams.setMarginStart(10);
-                //ball.setPadding(0, 0, 0, 4);
+                LayoutParams layoutParams = new LayoutParams(85, 85);
+                layoutParams.setMarginStart(12);
+                ball.setPadding(0, 0, 0, 4);
                 ball.setLayoutParams(layoutParams);
                 ball.setTextColor(getResources().getColor(R.color.white));
-                ball.setBackgroundResource(R.drawable.shape_circle_red_bg);
+                ball.setBackgroundResource(R.drawable.shape_circle_blue_bg);
                 ll_blueball.addView(ball);
             }
         }

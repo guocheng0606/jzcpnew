@@ -33,11 +33,11 @@
           android:background="@drawable/shape_bg_corner"
           android:text="彩种"
           android:textColor="@color/white"
-          android:textSize="12sp"
-          android:paddingLeft="8dp"
-          android:paddingRight="8dp"
-          android:paddingTop="2dp"
-          android:paddingBottom="2dp"/>
+          android:textSize="11sp"
+          android:paddingLeft="5dp"
+          android:paddingRight="5dp"
+          android:paddingTop="1dp"
+          android:paddingBottom="1dp"/>
 
         <TextView
           android:id="@+id/tv_qs"
@@ -45,7 +45,7 @@
           android:layout_height="wrap_content"
           android:text="第N期"
           android:textColor="@color/black"
-          android:textSize="15sp" />
+          android:textSize="13sp" />
 
         <TextView
           android:id="@+id/tv_time"
@@ -53,13 +53,13 @@
           android:layout_height="wrap_content"
           android:text="时间戳"
           android:textColor="@color/black1"
-          android:textSize="15sp"/>
+          android:textSize="13sp"/>
 
       </LinearLayout>
       <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="15dp"
         android:orientation="horizontal">
 
         <LinearLayout

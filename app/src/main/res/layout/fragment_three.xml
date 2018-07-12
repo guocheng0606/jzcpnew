@@ -21,7 +21,7 @@
     
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="52dp"
         android:orientation="horizontal"
         android:padding="5dp">
         <TextView
@@ -34,7 +34,7 @@
             android:layout_margin="5dp"
             android:background="@drawable/selector_text_bar_bg"
             android:textColor="@drawable/selector_text_bar_color"
-            />
+            android:textSize="14sp"/>
         <TextView
             android:id="@+id/tv_tab2"
             android:layout_width="0dp"
@@ -44,7 +44,8 @@
             android:gravity="center"
             android:layout_margin="5dp"
             android:background="@drawable/selector_text_bar_bg"
-            android:textColor="@drawable/selector_text_bar_color"/>
+            android:textColor="@drawable/selector_text_bar_color"
+            android:textSize="14sp"/>
         <TextView
             android:id="@+id/tv_tab3"
             android:layout_width="0dp"
@@ -54,7 +55,8 @@
             android:gravity="center"
             android:layout_margin="5dp"
             android:background="@drawable/selector_text_bar_bg"
-            android:textColor="@drawable/selector_text_bar_color"/>
+            android:textColor="@drawable/selector_text_bar_color"
+            android:textSize="14sp"/>
         <TextView
             android:id="@+id/tv_tab4"
             android:layout_width="0dp"
@@ -64,7 +66,8 @@
             android:gravity="center"
             android:layout_margin="5dp"
             android:background="@drawable/selector_text_bar_bg"
-            android:textColor="@drawable/selector_text_bar_color"/>
+            android:textColor="@drawable/selector_text_bar_color"
+            android:textSize="14sp"/>
     </LinearLayout>
 
     <com.jude.easyrecyclerview.EasyRecyclerView

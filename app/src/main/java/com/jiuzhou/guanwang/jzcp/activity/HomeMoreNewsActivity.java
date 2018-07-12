@@ -1,38 +1,29 @@
 package com.jiuzhou.guanwang.jzcp.activity;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.widget.SwipeRefreshLayout;
+import android.support.design.widget.TabLayout;
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
-import android.view.ViewGroup;
 
 import com.jiuzhou.guanwang.jzcp.R;
-import com.jiuzhou.guanwang.jzcp.bean.HomeNewsBean;
-import com.jiuzhou.guanwang.jzcp.utils.LocalJsonResolutionUtils;
-import com.jiuzhou.guanwang.jzcp.utils.Util;
-import com.jiuzhou.guanwang.jzcp.viewholder.HomeMoreNewsViewHolder;
-import com.jude.easyrecyclerview.EasyRecyclerView;
-import com.jude.easyrecyclerview.adapter.BaseViewHolder;
-import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
-import com.jude.easyrecyclerview.decoration.DividerDecoration;
+import com.jiuzhou.guanwang.jzcp.adapter.MyViewPagerAdapter;
+import com.jiuzhou.guanwang.jzcp.fragment.NewsChildFragment;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class HomeMoreNewsActivity extends AppCompatActivity implements RecyclerArrayAdapter.OnLoadMoreListener, SwipeRefreshLayout.OnRefreshListener {
+public class HomeMoreNewsActivity extends AppCompatActivity {
 
     @ViewInject(R.id.toolbar)
     Toolbar toolbar;
-    @ViewInject(R.id.recyclerView)
-    EasyRecyclerView recyclerView;
-    private RecyclerArrayAdapter<HomeNewsBean> adapter;
-    private List<HomeNewsBean> list = new ArrayList<>();
-    private int currentPage = 1;
+
+    @ViewInject(R.id.tabLayout)
+    TabLayout tabLayout;
+    @ViewInject(R.id.viewPager)
+    ViewPager viewPager;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,65 +33,27 @@ public class HomeMoreNewsActivity extends AppCompatActivity implements RecyclerA
 
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setTitle("热点资讯");
+        getSupportActionBar().setTitle("体彩资讯");
 
-        initView();
-        //得到本地json文本内容
-        String fileName = "热点资讯.json";
-        String foodJson = LocalJsonResolutionUtils.getJson(this, fileName);
-        //转换为对象
-        list = LocalJsonResolutionUtils.jsonToArrayList(foodJson, HomeNewsBean.class);
-        onRefresh();
-        initListener();
+        setupTabLayout();
     }
 
-    private void initListener() {
-        adapter.setOnItemClickListener(new RecyclerArrayAdapter.OnItemClickListener() {
-            @Override
-            public void onItemClick(int position) {
-                Intent intent = new Intent(HomeMoreNewsActivity.this, WebNewsActivity.class);
-                intent.putExtra("url",""+adapter.getAllData().get(position).getNewsUrl());
-                intent.putExtra("title","资讯详情");
-                startActivity(intent);
-            }
-        });
-    }
-
-    private void initView() {
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        DividerDecoration itemDecoration = new DividerDecoration(0xFFEDEDED, Util.dip2px(this, 0.5f), 0, 0);
-        itemDecoration.setDrawLastItem(true);
-        recyclerView.addItemDecoration(itemDecoration);
-        recyclerView.setAdapterWithProgress(adapter = new RecyclerArrayAdapter<HomeNewsBean>(this) {
-            @Override
-            public BaseViewHolder OnCreateViewHolder(ViewGroup parent, int viewType) {
-                return new HomeMoreNewsViewHolder(parent);
-            }
-        });
-        adapter.setMore(R.layout.view_more, this);
-        adapter.setNoMore(R.layout.view_nomore, new RecyclerArrayAdapter.OnNoMoreListener() {
-            @Override
-            public void onNoMoreShow() {
-                adapter.resumeMore();
-            }
-
-            @Override
-            public void onNoMoreClick() {
-                adapter.resumeMore();
-            }
-        });
-        adapter.setError(R.layout.view_error, new RecyclerArrayAdapter.OnErrorListener() {
-            @Override
-            public void onErrorShow() {
-                adapter.resumeMore();
-            }
-
-            @Override
-            public void onErrorClick() {
-                adapter.resumeMore();
-            }
-        });
-        recyclerView.setRefreshListener(this);
+    private void setupTabLayout() {
+        viewPager.setOffscreenPageLimit(7);
+        //ViewPager关联适配器
+        MyViewPagerAdapter adapter = new MyViewPagerAdapter(getSupportFragmentManager());
+        adapter.addFragment(NewsChildFragment.newInstance("1",null),"热点");
+        adapter.addFragment(NewsChildFragment.newInstance("2",null),"竞彩");
+        adapter.addFragment(NewsChildFragment.newInstance("3",null),"专家");
+        adapter.addFragment(NewsChildFragment.newInstance("21",null),"公告");
+        adapter.addFragment(NewsChildFragment.newInstance("22",null),"星站");
+        adapter.addFragment(NewsChildFragment.newInstance("24",null),"专题");
+        adapter.addFragment(NewsChildFragment.newInstance("28",null),"新闻");
+        adapter.addFragment(NewsChildFragment.newInstance("30",null),"实闻");
+        viewPager.setAdapter(adapter);
+        //ViewPager和TabLayout关联
+        tabLayout.setupWithViewPager(viewPager);
+        viewPager.setCurrentItem(0);
     }
 
 
@@ -114,23 +67,6 @@ public class HomeMoreNewsActivity extends AppCompatActivity implements RecyclerA
         return super.onOptionsItemSelected(item);
     }
 
-    @Override
-    public void onRefresh() {
-        currentPage = 1;
-        List<HomeNewsBean> datas = list.subList(10*(currentPage-1) , 10*currentPage);
-        adapter.clear();
-        adapter.addAll(datas);
-    }
 
-    @Override
-    public void onLoadMore() {
-        currentPage++;
-        if (currentPage > list.size()/10){
-            adapter.stopMore();
-        }else{
-            List<HomeNewsBean> datas = list.subList(10*(currentPage-1) , 10*currentPage);
-            adapter.addAll(datas);
-        }
-    }
 
 }

@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.jiuzhou.guanwang.jzcp.R;
-import com.jiuzhou.guanwang.jzcp.bean.HomeNewsBean;
+import com.jiuzhou.guanwang.jzcp.bean.NewsBean;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 
@@ -24,13 +24,13 @@ import java.util.List;
 
 public class HomeNewsAdapter extends BaseAdapter {
     private Context context;
-    private List<HomeNewsBean> list;
-    public HomeNewsAdapter(Context context,List<HomeNewsBean> list){
+    private List<NewsBean.ResultBean.DataBean> list;
+    public HomeNewsAdapter(Context context,List<NewsBean.ResultBean.DataBean> list){
         this.context = context;
         this.list = list;
     }
 
-    public List<HomeNewsBean> getAllData() {
+    public List<NewsBean.ResultBean.DataBean> getAllData() {
         return list;
     }
 

@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.jiuzhou.guanwang.jzcp.R;
-import com.jiuzhou.guanwang.jzcp.bean.NewsBean;
+import com.jiuzhou.guanwang.jzcp.bean.HotBean;
 import com.jude.easyrecyclerview.adapter.BaseViewHolder;
 
 import java.text.SimpleDateFormat;
@@ -16,12 +16,12 @@ import java.util.Date;
  * Created by Administrator on 2018/7/4.
  */
 
-public class HomeMoreNewsViewHolder extends BaseViewHolder<NewsBean.ResultBean.DataBean> {
+public class HotViewHolder extends BaseViewHolder<HotBean.ResultBean.DataBean> {
     private ImageView iv;
     private TextView tv_title;
     private TextView tv_time;
 
-    public HomeMoreNewsViewHolder(ViewGroup parent) {
+    public HotViewHolder(ViewGroup parent) {
         super(parent, R.layout.item_home_news_layout);
         iv = $(R.id.iv);
         tv_title = $(R.id.tv_title);
@@ -29,7 +29,7 @@ public class HomeMoreNewsViewHolder extends BaseViewHolder<NewsBean.ResultBean.D
     }
 
     @Override
-    public void setData(NewsBean.ResultBean.DataBean data) {
+    public void setData(HotBean.ResultBean.DataBean data) {
         super.setData(data);
 
         Glide.with(getContext()).load(data.getNewsImg().get(0).getImgUrl()).into(iv);

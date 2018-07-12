@@ -71,13 +71,6 @@ public class MainActivity extends AppCompatActivity {
         http.send(HttpMethod.GET, requstUrl, new RequestCallBack<String>() {
             @Override
             public void onSuccess(ResponseInfo<String> responseInfo) {
-
-                /********************************************/
-                JumpToHomeActivity();
-                if(true)
-                    return;
-                /*******************************************/
-
                 try {
                     Gson gson = new Gson();
                     AppBean appBean = gson.fromJson(responseInfo.result, AppBean.class);

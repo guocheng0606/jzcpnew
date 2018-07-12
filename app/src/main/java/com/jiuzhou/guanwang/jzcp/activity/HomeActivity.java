@@ -8,11 +8,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
 import com.jiuzhou.guanwang.jzcp.R;
+import com.jiuzhou.guanwang.jzcp.event.MessageEvent;
 import com.jiuzhou.guanwang.jzcp.fragment.FirstFragment;
 import com.jiuzhou.guanwang.jzcp.fragment.FourFragment;
 import com.jiuzhou.guanwang.jzcp.fragment.HomeFragment;
 import com.jiuzhou.guanwang.jzcp.fragment.ThreeFragment;
 import com.jiuzhou.guanwang.jzcp.fragment.TwoFragment;
+
+import org.greenrobot.eventbus.EventBus;
+import org.greenrobot.eventbus.Subscribe;
+import org.greenrobot.eventbus.ThreadMode;
 
 import me.majiajie.pagerbottomtabstrip.NavigationController;
 import me.majiajie.pagerbottomtabstrip.PageNavigationView;
@@ -30,19 +35,30 @@ public class HomeActivity extends AppCompatActivity {
     private TwoFragment twoFragment;
     private ThreeFragment threeFragment;
     private FourFragment fourFragment;
+    private NavigationController navigationController;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
+        EventBus.getDefault().register(this);
         tab = (PageNavigationView) findViewById(R.id.tab);
         fragmentManager = getSupportFragmentManager();
         setTabSelection(0);
         initBottomNavigation();
     }
 
+    @Subscribe(threadMode = ThreadMode.MAIN)
+    public void onMessageEvent(MessageEvent event) {
+        switch (event.getEventId()) {
+            case MessageEvent.EVENT_LOTTERY_TAB:
+                navigationController.setSelect(2);
+                setTabSelection(2);
+                break;
+        }
+    }
+
     private void initBottomNavigation() {
-        NavigationController navigationController = tab.custom()
+        navigationController = tab.custom()
                 .addItem(newItem(R.drawable.mh_buy_normal,R.drawable.mh_buy_pressed,"首页"))
                 .addItem(newItem(R.drawable.mh_score_normal,R.drawable.mh_score_pressed,"比分"))
                 .addItem(newItem(R.drawable.mh_dslt_normal,R.drawable.mh_dslt_pressed,"开奖"))
@@ -139,6 +155,12 @@ public class HomeActivity extends AppCompatActivity {
         }else {
             super.onBackPressed();
         }
+    }
+
+    @Override
+    protected void onDestroy() {
+        EventBus.getDefault().unregister(this);
+        super.onDestroy();
     }
 
 }

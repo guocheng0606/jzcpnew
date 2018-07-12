@@ -65,12 +65,14 @@ public class FirstFragment extends Fragment {
     }
 
     private void setupTabLayout() {
-        viewPager.setOffscreenPageLimit(2);
+        viewPager.setOffscreenPageLimit(4);
         //ViewPager关联适配器
         MyViewPagerAdapter adapter = new MyViewPagerAdapter(getChildFragmentManager());
         adapter.addFragment(LotteryChildFragment.newInstance("001",null),"双色球");
         adapter.addFragment(LotteryChildFragment.newInstance("113",null),"大乐透");
         adapter.addFragment(LotteryChildFragment.newInstance("002",null),"福彩3D");
+        adapter.addFragment(LotteryChildFragment.newInstance("110",null),"七星彩");
+        adapter.addFragment(LotteryChildFragment.newInstance("003",null),"七乐彩");
         viewPager.setAdapter(adapter);
         //ViewPager和TabLayout关联
         tabLayout.setupWithViewPager(viewPager);
